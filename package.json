@@ -1,0 +1,11 @@
+{
+  "name": "minimalismus-tipps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mirkoschubert/minimalismus-tipps.git",
+  "author": "Mirko Schubert <mirkoschubert@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
