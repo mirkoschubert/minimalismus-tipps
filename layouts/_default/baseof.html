@@ -57,7 +57,7 @@
   <section class='site-content'>
     <div class="container">
       <div id='content'>
-        <!-- {{ printf "%#v" $.Site }} -->
+        <!-- {{ printf "%#v" .Parent }} -->
         {{ block "content" . }}
           {{ .Content }}
         {{ end }}
