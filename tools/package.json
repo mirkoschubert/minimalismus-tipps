@@ -1,0 +1,25 @@
+{
+  "name": "migration",
+  "version": "1.0.0",
+  "description": "Migration tool",
+  "main": "index.js",
+  "bin": {
+    "mttools": "index.js"
+  },
+  "author": "Mirko Schubert",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "cliui": "^3.2.0",
+    "commander": "^2.12.2",
+    "front-matter": "^2.3.0",
+    "fs-extra": "^5.0.0",
+    "got": "^8.0.1",
+    "inquirer": "^4.0.1",
+    "moment": "^2.20.0",
+    "promise": "^8.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.1"
+  }
+}

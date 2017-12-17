@@ -1,0 +1,2044 @@
+{
+  "type": "ProcessWire:PageArray",
+  "created": "2017-12-17 16:05:00",
+  "version": "3.0.86",
+  "user": "admin",
+  "host": "minitipps.mirkoschubert.de",
+  "pages": [
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/achtsame-lebenskunst/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1058,
+        "name": "achtsame-lebenskunst",
+        "status": 1,
+        "sort": 3,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Achtsame Lebenskunst",
+        "blog_slogan":
+          "Lebe das Wesentliche! Achtsamkeit, Minimalismus, Einfach Leben",
+        "blog_owner": "Gabi Raeggel",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://achtsame-lebenskunst.de",
+        "blog_feed": "http://achtsame-lebenskunst.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/afschin/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1059,
+        "name": "afschin",
+        "status": 1,
+        "sort": 4,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Afschin",
+        "blog_slogan":
+          "Inspirationsblog Achtsamkeit, Meditation und mehr Freude im Leben",
+        "blog_owner": "Afschin Kamrani",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.afschin.com",
+        "blog_feed": "http://www.afschin.com/rss/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/alex-rubenbauer/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1060,
+        "name": "alex-rubenbauer",
+        "status": 1,
+        "sort": 5,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Alex Rubenbauer",
+        "blog_slogan":
+          "Psychologie, Persönlichkeitsentwicklung und Minimalismus",
+        "blog_owner": "Alex Rubenbauer",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://alex-rubenbauer.de",
+        "blog_feed": "http://alex-rubenbauer.de/rss/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/alfa-zentauri/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1061,
+        "name": "alfa-zentauri",
+        "status": 1,
+        "sort": 6,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "alfa ZENtauri",
+        "blog_slogan": "Folge deiner Lebensvision!",
+        "blog_owner": "Mike Lippoldt",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://alfazentauri.com",
+        "blog_feed": "http://feeds.feedburner.com/alfazentauri?format=xml",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/apfelmaedchen/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1062,
+        "name": "apfelmaedchen",
+        "status": 1,
+        "sort": 7,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Apfelmädchen & sadfsh",
+        "blog_slogan": "Gemeinsam können wir die Welt verändern. Ganz sicher.",
+        "blog_owner": "Svenja Sgodda, Marc Lentvogt",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://apfelmaedchen.de",
+        "blog_feed": "http://apfelmaedchen.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/babs-gruen/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1063,
+        "name": "babs-gruen",
+        "status": 1,
+        "sort": 8,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Babs ist Grün",
+        "blog_slogan": "Minimalismus als Familie",
+        "blog_owner": "Babett Grün",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://babs-ist-gruen.de",
+        "blog_feed": "http://babs-ist-gruen.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/denis-sandmann/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1106,
+        "name": "denis-sandmann",
+        "status": 1,
+        "sort": 49,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Denis Sandmann",
+        "blog_slogan": "Selbständiger Mediendesigner",
+        "blog_owner": "Denis Sandmann",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "https://sandmann.co/de/category/minimalismus/",
+        "blog_feed": "https://sandmann.co/de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/die-entdeckung-der-schlichtheit/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1107,
+        "name": "die-entdeckung-der-schlichtheit",
+        "status": 1,
+        "sort": 50,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Die Entdeckung der Schlichtheit",
+        "blog_slogan": "Minimalismus, persönliche Finanzen und Psycholgie",
+        "blog_owner": "Daniel Siewert",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.schlichtheit.com/",
+        "blog_feed": "http://www.schlichtheit.com/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/digitaler-minimalismus/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1055,
+        "name": "digitaler-minimalismus",
+        "status": 1,
+        "sort": 2,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Digitaler Minimalismus",
+        "blog_slogan": "Reduziere dein Leben auf das Wesentliche!",
+        "blog_owner": "Mirko Schubert",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do *eiusmod* tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "https://digitaler-minimalismus.de",
+        "blog_feed": "https://digitaler-minimalismus.de/feed",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/einfach-bewusst/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1064,
+        "name": "einfach-bewusst",
+        "status": 1,
+        "sort": 9,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Einfach bewusst",
+        "blog_slogan": "Minimalistisch, nachhaltig & vegan leben",
+        "blog_owner": "Christof Herrmann",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.einfachbewusst.de",
+        "blog_feed": "http://www.einfachbewusst.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/einfach-minimalismus/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1066,
+        "name": "einfach-minimalismus",
+        "status": 1,
+        "sort": 11,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Einfach Minimalismus",
+        "blog_slogan": "Einfach Minimalismus",
+        "blog_owner": "Andrea Steinberg",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url":
+          "http://einfach-minimalismus.wixsite.com/einfach-minimalismus",
+        "blog_feed": "",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/einfacheinfach-leben/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1065,
+        "name": "einfacheinfach-leben",
+        "status": 1,
+        "sort": 10,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Einfach einfach leben",
+        "blog_slogan":
+          "Einfach. Leben. Anregungen. Tipps. Ideen. DIY. In Wort und Bild",
+        "blog_owner": "Anja Riedel",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://einfacheinfachleben.blogspot.de",
+        "blog_feed":
+          "http://einfacheinfachleben.blogspot.com/feeds/posts/default",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/experiment-selbstversorgung/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1067,
+        "name": "experiment-selbstversorgung",
+        "status": 1,
+        "sort": 12,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Experiment Selbstversorgung",
+        "blog_slogan": "Schritt für Schritt Selbstversorgung",
+        "blog_owner": "Michael Hartl",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://experimentselbstversorgung.net",
+        "blog_feed": "http://feeds.feedburner.com/ExperimentSelbstversorgung",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/finnsland/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1069,
+        "name": "finnsland",
+        "status": 1,
+        "sort": 14,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Finnsland",
+        "blog_slogan": "Downshifting und Lebenskunst und so",
+        "blog_owner": "Oliver »Finn« Lauberger",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.finnsland.net/blog/",
+        "blog_feed": "http://www.finnsland.net/blog/?feed=rss2",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/flussabwaerts/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1068,
+        "name": "flussabwaerts",
+        "status": 1,
+        "sort": 13,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Flussabwärts",
+        "blog_slogan": "Persönlichkeitsentwicklung zum eigenen Leben",
+        "blog_owner": "Mirko Schubert",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "https://flussabwaerts.de/",
+        "blog_feed": "https://flussabwaerts.de/feed",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/fraeulein-im-glueck/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1111,
+        "name": "fraeulein-im-glueck",
+        "status": 1,
+        "sort": 54,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Fräulein im Glück",
+        "blog_slogan": "Familie, Minimalismus, Achtsamkeit",
+        "blog_owner": "Birgit Ottendorfer",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://suchtdasglueck.at",
+        "blog_feed": "http://feeds.feedburner.com/FruleinImGlck",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/frau-ding-dongs-leben/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1113,
+        "name": "frau-ding-dongs-leben",
+        "status": 1,
+        "sort": 56,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Frau Ding Dongs Leben",
+        "blog_slogan":
+          "DIY, Minimalismus, Heim- und Herd-Geschichten und gute Bücher",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.schwingelschwingeldingdong.com",
+        "blog_feed": "http://www.schwingelschwingeldingdong.com/feed",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/frau-momos-minimalismus/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1070,
+        "name": "frau-momos-minimalismus",
+        "status": 1,
+        "sort": 15,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Frau Momos Minimalismus",
+        "blog_slogan": "Das Leben erleichtern und bereichern",
+        "blog_owner": "Barbara Bünger",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://fraumomosminimalismus.ch",
+        "blog_feed": "http://fraumomosminimalismus.ch/feed",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/fraxa/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1071,
+        "name": "fraxa",
+        "status": 1,
+        "sort": 16,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Fraxa",
+        "blog_slogan":
+          "Genug zu haben ist Glück, mehr als genug zu haben ist unheilvoll.",
+        "blog_owner": "Fraxa",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.fraxa.ch",
+        "blog_feed": "",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/genug-haben/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1072,
+        "name": "genug-haben",
+        "status": 1,
+        "sort": 17,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Genug haben",
+        "blog_slogan": "Genug haben, mehr sein",
+        "blog_owner": "Frank Wolf",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://genughaben.de/blog/",
+        "blog_feed": "http://genughaben.de/blog/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/karo-kafka/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1073,
+        "name": "karo-kafka",
+        "status": 1,
+        "sort": 18,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Karo Kafka",
+        "blog_slogan": "Schreibt über Musik, Bücher, Minimalismus und Zeug",
+        "blog_owner": "Karoline Kusebauch",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.karokafka.net",
+        "blog_feed": "",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/kaufdiaet/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1075,
+        "name": "kaufdiaet",
+        "status": 1,
+        "sort": 20,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Kaufdiät",
+        "blog_slogan": "Weniger konsumieren, mehr genießen",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "https://kaufdiaet.wordpress.com",
+        "blog_feed": "https://kaufdiaet.wordpress.com/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/konsumblockade/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1074,
+        "name": "konsumblockade",
+        "status": 1,
+        "sort": 19,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Konsumblockade",
+        "blog_slogan": "Dauerhaft weniger konsumieren",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "https://konsumblockade.wordpress.com",
+        "blog_feed": "https://konsumblockade.wordpress.com/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/kunterbuntes-allerlei/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1076,
+        "name": "kunterbuntes-allerlei",
+        "status": 1,
+        "sort": 21,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Kunterbuntes Allerlei",
+        "blog_slogan":
+          "Köln, das Rheinland & die Welt, minimalistischer leben, planen und organisieren",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "https://kunterbunt11.wordpress.com",
+        "blog_feed": "https://kunterbunt11.wordpress.com/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/malmini/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1053,
+        "name": "malmini",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "MalMini",
+        "blog_slogan": "Entrümple dein Leben!",
+        "blog_owner": "Pia Mester",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://malmini.de",
+        "blog_feed": "http://malmini.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/mama-denkt/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1077,
+        "name": "mama-denkt",
+        "status": 1,
+        "sort": 22,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Mama denkt",
+        "blog_slogan":
+          "Über Alltags-Abenteuer, Nachhaltigkeit, Minimalismus und ein bisschen Mama-Sein",
+        "blog_owner": "Rachel Suhre",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.mamadenkt.de",
+        "blog_feed": "http://www.mamadenkt.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/manas-gluecksfinder/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1078,
+        "name": "manas-gluecksfinder",
+        "status": 1,
+        "sort": 23,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Manas Glücksfinder",
+        "blog_slogan": "Suche nach dem Glücks-Moment, der einfach bleibt.",
+        "blog_owner": "Gero Regenbrecht",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.manas-gluecksfinder.de",
+        "blog_feed": "http://www.manas-gluecksfinder.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/marco-mattheis/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1080,
+        "name": "marco-mattheis",
+        "status": 1,
+        "sort": 24,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Marco Mattheis",
+        "blog_slogan": "Mein Minimalismus und seine Folgen",
+        "blog_owner": "Marco Mattheis",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://marco-mattheis.com",
+        "blog_feed": "http://marco-mattheis.com/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/marie-minimalisiert/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1082,
+        "name": "marie-minimalisiert",
+        "status": 1,
+        "sort": 25,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "marie minimalisiert",
+        "blog_slogan":
+          "Praktisch umsetzbare Tipps zum minimalistischeren Leben",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "https://marieminimalisiert.wordpress.com",
+        "blog_feed": "https://marieminimalisiert.wordpress.com/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/mini-me/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1098,
+        "name": "mini-me",
+        "status": 1,
+        "sort": 41,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Mini.Me.",
+        "blog_slogan": "Minimalismus & Lifestyle",
+        "blog_owner": "Monica Albrecht",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://minime.life",
+        "blog_feed": "http://minime.life/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/minima-muse/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1054,
+        "name": "minima-muse",
+        "status": 1,
+        "sort": 1,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Minima Muse",
+        "blog_slogan": "Kreativer Konsumverzicht im kollektiven Selbstversuch",
+        "blog_owner": "Dörte Giebel",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "https://minimamuse.wordpress.com",
+        "blog_feed": "https://minimamuse.wordpress.com/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/minimalismus-101/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1084,
+        "name": "minimalismus-101",
+        "status": 1,
+        "sort": 27,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Minimalismus 101",
+        "blog_slogan": "Minimalismus-Blog von Frederico Elles",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://minimalismus101.blogspot.de",
+        "blog_feed": "http://feeds.feedburner.com/Minimalismus101",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/minimalismus-jetzt/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1089,
+        "name": "minimalismus-jetzt",
+        "status": 1,
+        "sort": 32,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Minimalismus JETZT!",
+        "blog_slogan": "Eine Kampagne rund um den Minimalismus",
+        "blog_owner": "Fair Moves / Jasmin Mittag",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.minimalismus.jetzt",
+        "blog_feed": "",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/minimalismus-leben/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1085,
+        "name": "minimalismus-leben",
+        "status": 1,
+        "sort": 28,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Minimalismus leben",
+        "blog_slogan": "Minimalismus-Blog von Michael Klumb",
+        "blog_owner": "Michael Klumb",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.minimalismus-leben.de",
+        "blog_feed": "http://www.minimalismus-leben.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/minimalismus-podcast/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1086,
+        "name": "minimalismus-podcast",
+        "status": 1,
+        "sort": 29,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Minimalismus Podcast",
+        "blog_slogan":
+          "Der Podcast über Minimalismus von Michael Klumb und Daniel Siewert",
+        "blog_owner": "Michael Klumb",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.minimalismus-podcast.de",
+        "blog_feed": "http://www.minimalismus-podcast.de/feed/podcast/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/minimalismus-stammtisch/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1087,
+        "name": "minimalismus-stammtisch",
+        "status": 1,
+        "sort": 30,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Minimalismus Stammtisch",
+        "blog_slogan": "Alle Minimalisten-Treffen deutschlandweit",
+        "blog_owner": "Michael Klumb",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.minimalismus-stammtisch.de",
+        "blog_feed": "http://www.minimalismus-stammtisch.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/minimalismus-und-mehr/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1090,
+        "name": "minimalismus-und-mehr",
+        "status": 1,
+        "sort": 33,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "minimalismus und mehr",
+        "blog_slogan": "Minimalismus-Blog",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "https://minimalismusundmehr.wordpress.com",
+        "blog_feed": "https://minimalismusundmehr.wordpress.com/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/minimalismus21/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1091,
+        "name": "minimalismus21",
+        "status": 1,
+        "sort": 34,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Minimalismus21",
+        "blog_slogan":
+          "Fokussierung, Trend, Utopie, Zeitgefühl, Lebenseinstellung? Ein Begriff und seine Interpretation im 21. Jahrhundert",
+        "blog_owner": "A. Numberger",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://minimalismus21.de",
+        "blog_feed": "http://minimalismus21.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/minimalismusblog/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1088,
+        "name": "minimalismusblog",
+        "status": 1,
+        "sort": 31,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Minimalismusblog",
+        "blog_slogan": "Einfach Leben. Selbstbestimmt sein.",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://minimalismusblog.tumblr.com",
+        "blog_feed": "http://minimalismusblog.tumblr.com/rss",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/minimalisten-org/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1092,
+        "name": "minimalisten-org",
+        "status": 1,
+        "sort": 35,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "minimalisten.org",
+        "blog_slogan":
+          "Die Minimalismus-Community für Simple-Living-Begeisterte",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "https://minimalisten.org",
+        "blog_feed": "",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/minimalistenfreunde/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1093,
+        "name": "minimalistenfreunde",
+        "status": 1,
+        "sort": 36,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Minimalistenfreun.de",
+        "blog_slogan": "Die (nicht ganz so) anonymen Minimalisten",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.minimalistenfreun.de",
+        "blog_feed": "http://www.minimalistenfreun.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/minimalistisch-denken/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1094,
+        "name": "minimalistisch-denken",
+        "status": 1,
+        "sort": 37,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Minimalistisch denken",
+        "blog_slogan": "Minimalismus-Blog von Jörn aus Köln",
+        "blog_owner": "Jörn Heidrath",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://minimalistisch-denken.de",
+        "blog_feed": "http://minimalistisch-denken.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/minimalistisch-lebende/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1095,
+        "name": "minimalistisch-lebende",
+        "status": 1,
+        "sort": 38,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Minimalistisch Lebende",
+        "blog_slogan": "...macht Pause.",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.minimalistisch-leben.de",
+        "blog_feed": "",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/minimalistisch/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1083,
+        "name": "minimalistisch",
+        "status": 1,
+        "sort": 26,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Minimalistisch",
+        "blog_slogan": "More money for adventures",
+        "blog_owner": "Silke Jankowski",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://minimalisch.de",
+        "blog_feed": "http://minimalisch.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/minimalkonzept/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1096,
+        "name": "minimalkonzept",
+        "status": 1,
+        "sort": 39,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "minimalkonzept",
+        "blog_slogan": "Einfach leben im Überfluss für mehr Zeit und Geld",
+        "blog_owner": "Huong Tran",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://minimalkonzept.de",
+        "blog_feed": "http://minimalkonzept.de/?feed=rss2",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/minimalprinzip/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1097,
+        "name": "minimalprinzip",
+        "status": 1,
+        "sort": 40,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Minimalprinzip",
+        "blog_slogan": "Minimalismus-Blog von Alexander von Sinope",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://minimalprinzip.blogspot.de",
+        "blog_feed": "http://minimalprinzip.blogspot.com/feeds/posts/default",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/mr-minimalist/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1099,
+        "name": "mr-minimalist",
+        "status": 1,
+        "sort": 42,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Mr. Minimalist",
+        "blog_slogan": "Minimalismus-Blog von Sebastian",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://mrminimalist.com",
+        "blog_feed": "http://mrminimalist.com/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/mymonk/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1100,
+        "name": "mymonk",
+        "status": 1,
+        "sort": 43,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "myMONK",
+        "blog_slogan":
+          "Meditation, Persönlichkeitsentwicklung,  Selbstverwirklichung",
+        "blog_owner": "jucknix GmbH / Tim Schlenzig",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://mymonk.de",
+        "blog_feed": "http://mymonk.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/pooly-net/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1101,
+        "name": "pooly-net",
+        "status": 1,
+        "sort": 44,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Pooly.net",
+        "blog_slogan":
+          "Minimalismus, Sport, Outdoor-Aktivitäten, Reisen und gesunde Ernährung",
+        "blog_owner": "Daniel Bayer",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.pooly.net",
+        "blog_feed": "http://www.pooly.net/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/projekt-einfachheit/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1102,
+        "name": "projekt-einfachheit",
+        "status": 1,
+        "sort": 45,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Projekt Einfachheit",
+        "blog_slogan": "Entdecke, was zählt...",
+        "blog_owner": "Stephanie Lehnert",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "https://projekt-einfachheit.com",
+        "blog_feed": "https://projekt-einfachheit.com/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/querfeldrein/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1103,
+        "name": "querfeldrein",
+        "status": 1,
+        "sort": 46,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "QuerfeldRein",
+        "blog_slogan": "Minimalismus-Bog",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "https://querfeldrein.wordpress.com",
+        "blog_feed": "https://querfeldrein.wordpress.com/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/roadfamily/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1105,
+        "name": "roadfamily",
+        "status": 1,
+        "sort": 48,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Roadfamily",
+        "blog_slogan":
+          "Eine fünfköpfige Nomaden-Familie reist mit dem Bus durch Eurasien",
+        "blog_owner": "Roadfamily LLC",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://roadfamily.com",
+        "blog_feed": "http://roadfamily.com/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/schaumimohr/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1104,
+        "name": "schaumimohr",
+        "status": 1,
+        "sort": 47,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "SchaumImOhr",
+        "blog_slogan":
+          "Nachhaltigkeit, Minimalismus, konsumkritische Gedanken...",
+        "blog_owner": "Manuel Suhre",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.schaumimohr.de",
+        "blog_feed": "http://www.schaumimohr.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/simplizist/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1108,
+        "name": "simplizist",
+        "status": 1,
+        "sort": 51,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Simplizist",
+        "blog_slogan": "Weniger arbeiten, mehr Leben",
+        "blog_owner": "Jörg Faber",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://simplizist.de",
+        "blog_feed": "http://feeds.feedburner.com/Simplizist",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/sina-jasur/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1109,
+        "name": "sina-jasur",
+        "status": 1,
+        "sort": 52,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Sina Jasur",
+        "blog_slogan": "Minimalismus-Blog von Sina Jasur",
+        "blog_owner": "Anja Schüler-Renner",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://sina-jasur.de",
+        "blog_feed": "http://sina-jasur.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/spend-out/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1110,
+        "name": "spend-out",
+        "status": 1,
+        "sort": 53,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Spend out!",
+        "blog_slogan":
+          "Vom Entrümpeln zum Minimalismus… oder sei großzügig zu dir selbst!",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://spend-out.blogspot.de",
+        "blog_feed": "http://spend-out.blogspot.com/feeds/posts/default",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/spielzeugfrei/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1112,
+        "name": "spielzeugfrei",
+        "status": 1,
+        "sort": 55,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Spielzeugfrei",
+        "blog_slogan": "Minimalismusblog mit Schwerpunkt Kinderzimmer",
+        "blog_owner": "Paula Pülz",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://spielzeugfreies-kinderzimmer.de",
+        "blog_feed": "http://spielzeugfreies-kinderzimmer.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/umschlagbahnhof/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1114,
+        "name": "umschlagbahnhof",
+        "status": 1,
+        "sort": 57,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Umschlagbahnhof",
+        "blog_slogan": "Wunderfitzig und überzwerch",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "https://umschlagbahnhof.wordpress.com",
+        "blog_feed": "https://umschlagbahnhof.wordpress.com/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/von-allem-zu-viel/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1115,
+        "name": "von-allem-zu-viel",
+        "status": 1,
+        "sort": 58,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "von allem zu viel.",
+        "blog_slogan": "Minimalismus-Blog",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "https://vonallemzuviel.wordpress.com",
+        "blog_feed": "https://vonallemzuviel.wordpress.com/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/weggedacht/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1116,
+        "name": "weggedacht",
+        "status": 1,
+        "sort": 59,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Weggedacht",
+        "blog_slogan": "…und aufs wesentliche gebracht",
+        "blog_owner": "Christian Voecks",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://weggedacht.de",
+        "blog_feed": "http://weggedacht.de/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/wenig-reicht-auch/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1117,
+        "name": "wenig-reicht-auch",
+        "status": 1,
+        "sort": 60,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "wenig reicht auch",
+        "blog_slogan": "Minimalismus, DIY, Stricken und andern Krams",
+        "blog_owner": "Andrea Blunck",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "https://wenigreichtauch.de",
+        "blog_feed": "http://wenigreichtauch.de/feed/rss",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/widerstandistzweckmaessig/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1118,
+        "name": "widerstandistzweckmaessig",
+        "status": 1,
+        "sort": 61,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "widerstandistzweckmaessig",
+        "blog_slogan": "Was ich alles nicht mehr hinnehmen will",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "https://widerstandistzweckmaessig.wordpress.com",
+        "blog_feed": "https://widerstandistzweckmaessig.wordpress.com/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/zebrastreifenwieauchgartenzaun/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1120,
+        "name": "zebrastreifenwieauchgartenzaun",
+        "status": 1,
+        "sort": 63,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "ZebrastreifenwieauchGartenzaun",
+        "blog_slogan": "schreibt über den Dschungel",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "http://www.zebrastreifenwieauchgartenzaun.de",
+        "blog_feed":
+          "http://feeds.feedburner.com/zebrastreifenwieauchgartenzaun",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/blogs/zora-minimiert/",
+      "class": "ProcessWire\\Page",
+      "template": "blogger",
+      "settings": {
+        "id": 1119,
+        "name": "zora-minimiert",
+        "status": 1,
+        "sort": 62,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Zora minimiert",
+        "blog_slogan": "Minimalismus und Naturkosmetik",
+        "blog_owner": "",
+        "blog_description":
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "blog_url": "https://zoraminimiert.wordpress.com",
+        "blog_feed": "https://zoraminimiert.wordpress.com/feed/",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    }
+  ],
+  "fields": {
+    "title": {
+      "type": "FieldtypePageTitle",
+      "label": "Title",
+      "version": "1.0.0",
+      "id": 1,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "blog_slogan": {
+      "type": "FieldtypeText",
+      "label": "Blog Slogan",
+      "version": "1.0.0",
+      "id": 132,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "blog_owner": {
+      "type": "FieldtypeText",
+      "label": "Blog Owner",
+      "version": "1.0.0",
+      "id": 117,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "blog_description": {
+      "type": "FieldtypeTextarea",
+      "label": "Blog Description",
+      "version": "1.0.6",
+      "id": 121,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "blog_url": {
+      "type": "FieldtypeURL",
+      "label": "Blog URL",
+      "version": "1.0.1",
+      "id": 116,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "blog_feed": {
+      "type": "FieldtypeURL",
+      "label": "Blog Feed",
+      "version": "1.0.1",
+      "id": 119,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "seo_title": {
+      "type": "FieldtypeText",
+      "label": "Title",
+      "version": "1.0.0",
+      "id": 125,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "seo_keywords": {
+      "type": "FieldtypeText",
+      "label": "Keywords",
+      "version": "1.0.0",
+      "id": 126,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "seo_description": {
+      "type": "FieldtypeText",
+      "label": "Description",
+      "version": "1.0.0",
+      "id": 127,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "seo_image": {
+      "type": "FieldtypeText",
+      "label": "Image",
+      "version": "1.0.0",
+      "id": 128,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "seo_robots": {
+      "type": "FieldtypeText",
+      "label": "Robots",
+      "version": "1.0.0",
+      "id": 131,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "seo_custom": {
+      "type": "FieldtypeTextarea",
+      "label": "Custom",
+      "version": "1.0.6",
+      "id": 130,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "seo_canonical": {
+      "type": "FieldtypeText",
+      "label": "Canonical Link",
+      "version": "1.0.0",
+      "id": 129,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    }
+  },
+  "timer": "0.3716"
+}

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ .Site.Title }}" />
+  {{ partial "general/styles.html" . }}
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="branding">{{ .Site.Title }}</div>
+      <ul class='topnav'>
+        <!-- Navigation -->
+        {{ $actual := .Page.Permalink }}
+        <li{{ if .IsHome }} class="current"{{ end }}><a href="{{ .Site.BaseURL }}">Start</a></li>
+        {{ range .Site.Sections }}
+          <li{{ if eq $actual .Permalink }} class="current"{{ end }}><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+        <li class='search'>
+          <a id='search-button' href='#' title='Suche'>
+            <i class='fa fa-search'></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </header>
+  <section id="search" class="">
+    <!-- Search -->
+    <form id="search-form" action="" method="get">
+      <label for="query">
+        <i class="fa fa-search"></i>
+      </label>
+      <input type="text" id="query" name="q" value="" />
+      <button type='submit' name='submit'>Suche</button>
+    </form>
+    <a href="#" class="search-close">
+      <i class="fa fa-times"></i>
+    </a>
+  </section>
+  <section class="headline">
+    <div class="container">
+      <h1>{{ .Page.Title }}</h1>
+      <p class="news-date">
+        <!-- Date -->
+      </p>
+    </div>
+  </section>
+  <section class='breadcrumbs'>
+    <div class="container">
+      {{ partial "general/breadcrumbs.html" . }}
+    </div>
+  </section>
+
+  <section class='site-content'>
+    <div class="container">
+      <div id='content'>
+        <!-- {{ printf "%#v" $.Site }} -->
+        {{ block "content" . }}
+          {{ .Content }}
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <footer class='site-footer'>
+    <div class="container">
+    {{ block "footer" . }}
+      <p>Powered by <a href='https://gohugo.io' target="_blank">Hugo</a> | <a href="/datenschutz/">Datenschutz</a> | <a href="/impressum/">Impressum</a></p>
+    {{ end }}
+    </div>
+  </footer>
+  {{ partial "general/scripts.html" . }}
+</body>
+</html>

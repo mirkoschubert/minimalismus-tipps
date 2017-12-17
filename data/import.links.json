@@ -1,0 +1,2024 @@
+{
+  "type": "ProcessWire:PageArray",
+  "created": "2017-12-17 18:03:23",
+  "version": "3.0.86",
+  "user": "admin",
+  "host": "minitipps.mirkoschubert.de",
+  "pages": [
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/arbeit/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1130,
+        "name": "arbeit",
+        "status": 1,
+        "sort": 7,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Arbeit / Karriere",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/arbeit/produktivitaet/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1145,
+        "name": "produktivitaet",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Produktivität",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/besitz/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1137,
+        "name": "besitz",
+        "status": 1,
+        "sort": 2,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Besitz",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/besitz/einkaufen/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1146,
+        "name": "einkaufen",
+        "status": 1,
+        "sort": 3,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Einkaufen / Konsum",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/besitz/kleidung/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1152,
+        "name": "kleidung",
+        "status": 1,
+        "sort": 1,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Kleidung / Kleiderschrank",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/besitz/mobilitaet/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1153,
+        "name": "mobilitaet",
+        "status": 1,
+        "sort": 2,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Mobilität",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/besitz/wohnung/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1150,
+        "name": "wohnung",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Wohnung",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/besitz/wohnung/schlafzimmer/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1151,
+        "name": "schlafzimmer",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Schlafzimmer",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/digital/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1141,
+        "name": "digital",
+        "status": 1,
+        "sort": 11,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Digital",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/digital/digitale-diaet-nicht-mehr-ablenken-lassen/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1205,
+        "name": "digitale-diaet-nicht-mehr-ablenken-lassen",
+        "status": 1,
+        "sort": 4,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title":
+          "Digitale Diät: Warum es gut ist, sich nicht mehr ablenken zu lassen",
+        "related_blog": "/blogs/marco-mattheis/",
+        "link_url":
+          "http://marco-mattheis.com/2016/04/17/digitale-diaet-warum-es-gut-ist-sich-nicht-mehr-ablenken-zu-lassen/",
+        "link_description":
+          "Wie um mein Bauchgefühl zu bestätigen: Die aktuelle Ausgabe der flow (Heft Nr. 17) beschäftigt sich mit einem langen Artikel, um all die kleinen Ablenkungen der digitalen Welt: Mails, Anrufe, SMS, TV und natürliches alle kleinen Ablenkungen rund um das Smartphone.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/digital/digitalisierung/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1142,
+        "name": "digitalisierung",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Digitalisierung",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/digital/hardware/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1144,
+        "name": "hardware",
+        "status": 1,
+        "sort": 2,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Hardware",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/digital/medienkonsum/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1143,
+        "name": "medienkonsum",
+        "status": 1,
+        "sort": 1,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Medienkonsum",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/digital/medienkonsum/die-welt-stumm-schalten/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1206,
+        "name": "die-welt-stumm-schalten",
+        "status": 1,
+        "sort": 1,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Die Welt stumm schalten",
+        "related_blog": "/blogs/marco-mattheis/",
+        "link_url":
+          "http://marco-mattheis.com/2016/04/16/die-welt-stumm-schalten/",
+        "link_description":
+          "Zumindest die digitale Welt. Das habe ich in den letzten Tagen vermehrt getan. Phasenweise gibt es nur noch einen einzigen Weg mich wirklich direkt zu erreichen. Man muss mich anrufen.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path":
+        "/links/digital/medienkonsum/digitale-diaet-smartphone-nutzung-nicht-immer-weniger/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1209,
+        "name": "digitale-diaet-smartphone-nutzung-nicht-immer-weniger",
+        "status": 1,
+        "sort": 2,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title":
+          "Digitale Diät – Smartphone Nutzung: Nicht immer und immer weniger",
+        "related_blog": "/blogs/marco-mattheis/",
+        "link_url":
+          "http://marco-mattheis.com/2016/03/04/digitale-diaet-smartphone-nutzung-nicht-immer-und-immer-weniger/",
+        "link_description":
+          "Seit einigen Monaten benutze ich kaum noch mobiles Internet. Zeitweise sind die mobilen Daten an meinem smartphone vollständig ausgestellt. Meine iPhone  Benutzung laut »Einstellungen > Batterie« sagt mir heute Abend, dass ich mein iPhone in den letzten 7 Tagen für folgendes benutzt habe.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/digital/medienkonsum/internet-limitieren/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1213,
+        "name": "internet-limitieren",
+        "status": 1,
+        "sort": 6,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Internet limitieren",
+        "related_blog": "/blogs/minimalismus-leben/",
+        "link_url": "http://www.minimalismus-leben.de/internet-limitieren/",
+        "link_description":
+          "Die letzten 3 Tage war ich zur Fortbildung in Berlin und habe mich vorher bewusst dazu entschieden auf meinen MP3 Player und Laptop zu verzichten, also hatte ich 3 Tage keinen Zugang zum Internet.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/digital/medienkonsum/online-zeit-bewusst-einschraenken/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1212,
+        "name": "online-zeit-bewusst-einschraenken",
+        "status": 1,
+        "sort": 5,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Online-Zeit bewusst einschränken",
+        "related_blog": "/blogs/minimalismus-leben/",
+        "link_url":
+          "http://www.minimalismus-leben.de/online-zeit-bewusst-einschraenken/",
+        "link_description":
+          "Das Stichwort digital Detox kennen mittlerweile schon viele Menschen. Es geht darum, für eine definierte Zeit auf die digitale Welt zu verzichten. Das kann heißen, kein Internet oder auch nur kein Facebook oder kein Messenger.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/digital/medienkonsum/smartphone-ein-entzug/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1210,
+        "name": "smartphone-ein-entzug",
+        "status": 1,
+        "sort": 3,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Smartphone - Ein Entzug",
+        "related_blog": "/blogs/marco-mattheis/",
+        "link_url":
+          "http://marco-mattheis.com/2015/11/30/smartphone-ein-entzug/",
+        "link_description":
+          "Ich bin vermutlich nicht smartphone-süchtiger gewesen als die meisten Anderen auch. Der Tag begann mit einem kurzen Lesen von Nachrichtenmeldungen und der Beantwortung von Kurznachrichten. Wer folgt mir neu bei Twitter, wer hat was kommentiert.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path":
+        "/links/digital/medienkonsum/smartphone-entwohnung-stand-januar-2016/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1211,
+        "name": "smartphone-entwohnung-stand-januar-2016",
+        "status": 1,
+        "sort": 4,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Smartphone-Entwöhnung - Stand Januar 2016",
+        "related_blog": "/blogs/marco-mattheis/",
+        "link_url":
+          "http://marco-mattheis.com/2016/01/11/smartphone-entwoehnung-stand-januar-2016/",
+        "link_description":
+          "Ungefähr seit November 2015 bemühe ich mich darum, mein Smartphone weniger zu benutzen und zu beobachten, was das mit mir macht. Die bekannten Zeitfresser habe ich dabei schon vor viel längerer Zeit gekillt. Das waren in meinem Fall Twitter und Facebook.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path":
+        "/links/digital/medienkonsum/smartphone-minimalismus-befreiung-app-verstopfung/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1201,
+        "name": "smartphone-minimalismus-befreiung-app-verstopfung",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Smartphone Minimalismus – Befreiung aus der App-Verstopfung",
+        "related_blog": "/blogs/marco-mattheis/",
+        "link_url":
+          "http://marco-mattheis.com/2016/06/04/smartphone-minimalismus-befreiung-aus-der-app-verstopfung/",
+        "link_description":
+          "Seit einigen Monaten bemühe ich auch bei der Benutzung meines smartphones mich vom Überflüssigen zu befreien. Seitdem ich es besitze (Dezember 2013) hat sich viel Überflüssiges angesammelt. Viele Zeitdiebe. Viele apps, die mein begrenztes Budget an Konzentration aufgebraucht hatten, bevor der Tag zu Ende gegangen war.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/digital/papierarmes-buero/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1202,
+        "name": "papierarmes-buero",
+        "status": 1,
+        "sort": 3,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Papierarmes Büro",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/digital/papierarmes-buero/digitaler-irrweg-papierkram/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1204,
+        "name": "digitaler-irrweg-papierkram",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Digitaler Irrweg / Papierkram",
+        "related_blog": "/blogs/marco-mattheis/",
+        "link_url":
+          "http://marco-mattheis.com/2016/05/01/digitaler-irrweg-papierkram/",
+        "link_description":
+          "Bei vielen Minimalisten geht das Reduzieren des Besitzes einher mit einem sehr digitalen Lebenswandel. So mancher zieht sogar als sog. digitaler Nomade durch die Welt.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path":
+        "/links/digital/smartphone-digitales-herausfinden-was-wirklich-noetig-ist/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1207,
+        "name": "smartphone-digitales-herausfinden-was-wirklich-noetig-ist",
+        "status": 1,
+        "sort": 5,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title":
+          "Smartphone und Digitales: So findest du heraus, was wirklich nötig ist.",
+        "related_blog": "/blogs/marco-mattheis/",
+        "link_url":
+          "http://marco-mattheis.com/2016/03/24/smartphone-und-digitales-so-findest-du-heraus-was-wirklich-noetig-ist/",
+        "link_description":
+          "Anfang dieser Woche hat Apple sein neues iPhone SE vorgestellt. Anlass genug für mich einmal über den aktuellen Stand meiner Smartphone Nutzung nachzudenken. Die Zeit mit meinem Smartphone versuche ich ja nun schon seit einigen Monaten auf das Nötigste zu reduzieren.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/digital/wozu-brauche-ich-eine-flatrate/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1208,
+        "name": "wozu-brauche-ich-eine-flatrate",
+        "status": 1,
+        "sort": 6,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Wozu brauche ich eigentlich eine Flatrate?",
+        "related_blog": "/blogs/marco-mattheis/",
+        "link_url":
+          "http://marco-mattheis.com/2016/03/15/wozu-brauche-ich-eigentlich-eine-flatrate/",
+        "link_description":
+          "Jeden Tag auf dem Weg zur Arbeit komme ich an Werbetafeln vorbei, die mich fragen, wie viel ich für meine Allnetflatrate bezahle. Ich finde diese Flatrates wirklich verführerisch. Sich keine Gedanken machen zu müssen, wenn man telefoniert, finde ich angenehm.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/einstieg/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1128,
+        "name": "einstieg",
+        "status": 1,
+        "sort": 1,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Einstieg",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/einstieg/10-einsteigertipps-minimalisten/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1163,
+        "name": "10-einsteigertipps-minimalisten",
+        "status": 1,
+        "sort": 3,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "10 Einsteigertipps für Minimalisten",
+        "related_blog": "/blogs/malmini/",
+        "link_url": "http://malmini.de/10-einsteigertipps-fuer-minimalisten/",
+        "link_description":
+          "Der Kölner Stadtanzeiger hatte in seiner Sonntagsbeilage vom 28. Februar Minimalismus als Titelthema. Ich durfte auch etwas dazu beitragen: 10 Einsteigertipps für Minimalisten.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/einstieg/25-tipps-minimalistischer-leben/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1171,
+        "name": "25-tipps-minimalistischer-leben",
+        "status": 1,
+        "sort": 9,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title":
+          "25 Tipps, wie Du minimalistischer leben kannst (innerhalb einer Stunde)",
+        "related_blog": "/blogs/einfach-bewusst/",
+        "link_url":
+          "http://www.einfachbewusst.de/2014/02/minimalistischer-leben/",
+        "link_description":
+          "Ist Dein Leben zu kompliziert? Bist Du oft in Eile? Hast Du Geldsorgen? Geht Dir das Aufräumen und Putzen auf die Nerven? Möchtest Du mehr Zeit mit Dingen verbringen, die Dir Spaß machen?",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/einstieg/8-probleme-einfaches-leben-loesen/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1168,
+        "name": "8-probleme-einfaches-leben-loesen",
+        "status": 1,
+        "sort": 7,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "8 Probleme, die ein einfaches Leben lösen kann",
+        "related_blog": "/blogs/einfach-bewusst/",
+        "link_url": "http://www.einfachbewusst.de/2015/01/einfaches-leben/",
+        "link_description":
+          "„Zukunft wird nur dann möglich sein, wenn wir lernen, auf Dinge, die machbar wären, zu verzichten, weil wir sie nicht brauchen.“ (Günter Grass)",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/einstieg/aktionen/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1129,
+        "name": "aktionen",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Aktionen / Challenges",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/einstieg/loswerden/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1147,
+        "name": "loswerden",
+        "status": 1,
+        "sort": 1,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Loswerden / Entrümpeln",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/einstieg/loswerden/5-einfache-methoden-aussortieren/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1165,
+        "name": "5-einfache-methoden-aussortieren",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "5 einfache Methoden zum Aussortieren",
+        "related_blog": "/blogs/apfelmaedchen/",
+        "link_url": "http://apfelmaedchen.de/5-methoden-aussortieren/",
+        "link_description":
+          "Aller Anfang ist bekanntlich schwer und mittlerweile gilt dies nicht mehr nur für die Tätigkeit selbst, sondern auch das Auffinden von leicht nachzuempfindenden Methoden.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/einstieg/minimalist-nicht-besitzen/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1166,
+        "name": "minimalist-nicht-besitzen",
+        "status": 1,
+        "sort": 5,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title":
+          "Was ich als Minimalist nicht besitze und was ich stattdessen habe",
+        "related_blog": "/blogs/einfach-bewusst/",
+        "link_url": "http://www.einfachbewusst.de/2016/05/minimalist/",
+        "link_description":
+          "„Bevor man etwas brennend begehrt, sollte man das Glück dessen prüfen, der es bereits besitzt.“ (François de La Rochefoucauld)",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/einstieg/warum-100-dinge-besitzen/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1164,
+        "name": "warum-100-dinge-besitzen",
+        "status": 1,
+        "sort": 4,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title":
+          "Warum du als Minimalist_in mehr als 100 Dinge besitzen darfst",
+        "related_blog": "/blogs/apfelmaedchen/",
+        "link_url": "http://apfelmaedchen.de/100-dinge/",
+        "link_description":
+          "Alle Monate wieder findet sich auf einer der großen deutschen Nachrichtenseiten ein Beitrag über Minimalismus.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/einstieg/was-ist-minimalismus-11-blogger-antworten/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1169,
+        "name": "was-ist-minimalismus-11-blogger-antworten",
+        "status": 1,
+        "sort": 8,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Was ist Minimalismus? 11 Blogger antworten!",
+        "related_blog": "/blogs/einfach-bewusst/",
+        "link_url":
+          "http://www.einfachbewusst.de/2013/03/was-ist-minimalismus/",
+        "link_description":
+          "Seit ich über das einfache und bewusste Leben schreibe, werde ich immer mal wieder gefragt, was denn Minimalismus genau bedeutet.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/einstieg/weniger-ist-alles-einfuehrung-minimalismus/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1167,
+        "name": "weniger-ist-alles-einfuehrung-minimalismus",
+        "status": 1,
+        "sort": 6,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title":
+          "Weniger ist Alles: Eine kleine Einführung in den Minimalismus",
+        "related_blog": "/blogs/einfach-bewusst/",
+        "link_url": "http://www.bevegt.de/minimalismus/",
+        "link_description":
+          "Weniger ist alles: In diesem Beitrag erfährst du, was Minimalismus ist und wie er dir zu mehr Zufriedenheit, Zeit und Glück verhelfen kann.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/einstieg/zauberwort-weniger/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1162,
+        "name": "zauberwort-weniger",
+        "status": 1,
+        "sort": 2,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Das Zauberwörtchen »Weniger«",
+        "related_blog": "/blogs/malmini/",
+        "link_url": "http://malmini.de/zauberwort-weniger/",
+        "link_description":
+          "Eine Sache, die ich am Minimalismus so spannend finde, ist die Idee des Weniger. Meistens denken wir ja, viel hilft viel. Und mehr sogar noch mehr. Dabei stimmt das oft gar nicht. Viele Probleme entstehen durch ein »zu viel«. Die Medizin dagegen ist logischerweise »weniger«.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/erholung/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1136,
+        "name": "erholung",
+        "status": 1,
+        "sort": 6,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Spaß / Erholung",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/erholung/reisen/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1159,
+        "name": "reisen",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Urlaub / Reisen",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/familie/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1133,
+        "name": "familie",
+        "status": 1,
+        "sort": 3,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Familie / Freunde",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/familie/10-wege-mitmenschen-minimalismus-ueberzeugen/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1193,
+        "name": "10-wege-mitmenschen-minimalismus-ueberzeugen",
+        "status": 1,
+        "sort": 4,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title":
+          "10 Wege, um deine Mitmenschen von deinem Minimalismus zu überzeugen",
+        "related_blog": "/blogs/malmini/",
+        "link_url":
+          "http://malmini.de/10-wege-um-deine-mitmenschen-von-deinem-minimalismus-zu-ueberzeugen/",
+        "link_description":
+          "Du willst dein Leben entrümpeln, aber deine Familie und Freunde spielen da nicht mit? Sie können nicht akzeptieren, dass du deinen Besitz reduzierst und deine Ziele und Gewohnheiten hinterfragst. Dein  Minimalismus ist in den Augen deiner Mitmenschen nur ein Spleen. Was kannst du dagegen tun?",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/familie/6-gruende-richtig-entrumpeln/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1177,
+        "name": "6-gruende-richtig-entrumpeln",
+        "status": 1,
+        "sort": 3,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "6 Gründe einmal richtig zu entrümpeln",
+        "related_blog": "/blogs/fraeulein-im-glueck/",
+        "link_url":
+          "http://suchtdasglueck.at/6-gruende-einmal-richtig-zu-entruempeln-fruehlingsputz-mit-familie/",
+        "link_description":
+          "Zeit wird’s. Frühling ist. Ein Frühlingsputz steht an und diesmal wird im Hause Glück richtig entrümpelt. Weniger ist das neue sexy und ich verstehe bei zwei Kindern auch warum.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/familie/kinder/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1139,
+        "name": "kinder",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Kinder",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path":
+        "/links/familie/kinder/anleitung-leben-nicht-minimalisten-kinder/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1185,
+        "name": "anleitung-leben-nicht-minimalisten-kinder",
+        "status": 1,
+        "sort": 9,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Anleitung zum leben mit Nicht-Minimalisten und Kindern",
+        "related_blog": "/blogs/marco-mattheis/",
+        "link_url":
+          "http://marco-mattheis.com/2015/05/05/anleitung-zum-leben-mit-nicht-minimalisten-und-kindern/",
+        "link_description":
+          "Hier also die ultimative Anleitung wie ihr als Minimalisten mit Menschen zusammen leben könnt, die es nicht sind. So mancher wünscht sich ja einen 10 Punkte Plan wie man seine Mitmenschen zu Minimalisten macht. Dann passt mal gut auf.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/familie/kinder/bespielbares-kinderzimmer/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1173,
+        "name": "bespielbares-kinderzimmer",
+        "status": 1,
+        "sort": 1,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Bespielbares Kinderzimmer",
+        "related_blog": "/blogs/mama-denkt/",
+        "link_url": "http://www.mamadenkt.de/bespielbares-kinderzimmer/",
+        "link_description":
+          "In den vergangenen drei Wochen habe ich mich viel mit unserem Kinderzimmer auseinandergesetzt.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/familie/kinder/buecher-spielzeugfrei-kinderzimmer/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1182,
+        "name": "buecher-spielzeugfrei-kinderzimmer",
+        "status": 1,
+        "sort": 7,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Bücher im spielzeugfreien Kinderzimmer",
+        "related_blog": "/blogs/spielzeugfrei/",
+        "link_url":
+          "http://spielzeugfreies-kinderzimmer.de/buecher-im-spielzeugfreien-kinderzimmer/",
+        "link_description":
+          "Viele Fragen, die uns zum Thema spielzeugfreies Kinderzimmer gestellt werden, drehen sich um die Bücher. Als Buchliebhaber (wir selbst sind auch bekennende solche) möchte man diese Leidenschaft natürlich an die Kinder weitergeben und Bücher sind, bis auf wenige Ausnahmen, auch gemeinhin als sehr gewinnbringend für die kindliche Entwicklung angesehen.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/familie/kinder/chaos-alltag-kind-vereinfachen/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1179,
+        "name": "chaos-alltag-kind-vereinfachen",
+        "status": 1,
+        "sort": 4,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Raus aus dem Chaos - Den Alltag mit Kind vereinfachen",
+        "related_blog": "/blogs/fraeulein-im-glueck/",
+        "link_url": "http://suchtdasglueck.at/raus-aus-dem-chaos/",
+        "link_description":
+          "Das Leben mit kleinen Kindern ist manchmal dermaßen chaotisch, dass ich oft nicht weiß, wo ich genau anfangen soll.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/familie/kinder/einfacher-leben-kinder-sparen/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1188,
+        "name": "einfacher-leben-kinder-sparen",
+        "status": 1,
+        "sort": 12,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Einfacher leben mit Kindern und dabei sparen",
+        "related_blog": "/blogs/babs-gruen/",
+        "link_url":
+          "http://babettgruen.de/einfacher-leben-mit-kindern-und-dabei-sparen/",
+        "link_description":
+          "Möchtest du Geld sparen und weniger Zeug haben? Weniger aufräumen müssen und mehr Freizeit genießen, um mit den Kindern raus zu gehen?",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/familie/kinder/kindererziehung-und-minimalismus/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1186,
+        "name": "kindererziehung-und-minimalismus",
+        "status": 1,
+        "sort": 10,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Kindererziehung und Minimalismus",
+        "related_blog": "/blogs/minimalismus-leben/",
+        "link_url":
+          "http://www.minimalismus-leben.de/gastbeitrag-kindererziehung-und-minimalismus/",
+        "link_description":
+          "Seit September 2014 bin ich Vater. Und ich bin Minimalist. Wie passt das zusammen? Das Bemühen den Besitz auf das Wesentliche zu reduzieren und ein Kind in dieser beschleunigten Überflussgesellschaft zu erziehen?",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/familie/kinder/kinderkunst-aufbewahren/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1183,
+        "name": "kinderkunst-aufbewahren",
+        "status": 1,
+        "sort": 8,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Kinderkunst schön aufbewahren",
+        "related_blog": "/blogs/spielzeugfrei/",
+        "link_url":
+          "http://spielzeugfreies-kinderzimmer.de/kinderkunst-wohin-damit/",
+        "link_description":
+          "Neulich kam in unserer wunderbaren Facebook-Gruppe »Spielzeugfreies Kinderzimmer« die Frage, was wir Eltern größerer Kinder mit den Kunstwerken unserer Sprößlinge tun.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/familie/kinder/legostein-weg-weniger-spielzeug/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1181,
+        "name": "legostein-weg-weniger-spielzeug",
+        "status": 1,
+        "sort": 6,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Der legosteinige Weg zu weniger Spielzeug",
+        "related_blog": "/blogs/fraeulein-im-glueck/",
+        "link_url":
+          "http://suchtdasglueck.at/der-legosteinige-weg-zu-weniger-spielzeug-oder-die-kinderzimmerfuehrung/",
+        "link_description":
+          "Ich wollte heute eigentlich eine kleine virtuelle Gartenführung machen, weil ich von meinem Garten so begeistert bin, aber wetterbedingt fällt die heute aus und es gibt stattdessen eine Kinderzimmerführung.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/familie/kinder/minimalismus-spielzeug-puzzles/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1172,
+        "name": "minimalismus-spielzeug-puzzles",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Minimalismus beim Spielzeug: Puzzles",
+        "related_blog": "/blogs/mama-denkt/",
+        "link_url":
+          "http://www.mamadenkt.de/minimalismus-beim-spielzeug-puzzles/",
+        "link_description":
+          "Die Flut an Gegenständen, die ab und an in unseren Haushalt schwappt,  erwischt uns immer mal wieder. Selbst wenn wir schon so einiges reduziert und unseren Besitzstand insgesamt minimiert haben.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/familie/kinder/mit-kindern-ausmisten-loslassen/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1176,
+        "name": "mit-kindern-ausmisten-loslassen",
+        "status": 1,
+        "sort": 2,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title":
+          "Wie man mit Kindern ausmistet und die Sache mit dem Loslassen",
+        "related_blog": "/blogs/fraeulein-im-glueck/",
+        "link_url": "http://suchtdasglueck.at/mit-kindern-ausmisten/",
+        "link_description":
+          "Und hattest du Gelegenheit eure Problemzonen im Kinderzimmer näher anzusehen? Wenn man genau hinsieht, ganz schön viel Zeug, was da so verteilt ist oder?",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/familie/kinder/teenagerkonsum-wuensche-ernst-nehmen/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1178,
+        "name": "teenagerkonsum-wuensche-ernst-nehmen",
+        "status": 1,
+        "sort": 3,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Teenagerkonsum: Wünsche ernst nehmen, Gewünschtes vorleben",
+        "related_blog": "/blogs/fraeulein-im-glueck/",
+        "link_url":
+          "http://suchtdasglueck.at/interview-wer-ist-eigentlich-dran-mit-katzenklo/",
+        "link_description":
+          "Ich möchte gerne mehr von Weniger. Meine Kinder vielleicht nicht. Mit kleinen Kindern ist das noch nicht wirklich ein Problem, da gibt’s viele Möglichkeiten. Aber bei Größeren? Schließlich sehen sie es bei anderen anders.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path":
+        "/links/familie/kinder/warum-kinder-vom-minimalismus-profitieren/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1189,
+        "name": "warum-kinder-vom-minimalismus-profitieren",
+        "status": 1,
+        "sort": 13,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Warum auch Kinder vom Minimalismus profitieren können",
+        "related_blog": "/blogs/malmini/",
+        "link_url":
+          "http://malmini.de/gastbeitrag-warum-auch-kinder-von-minimalismus-profitieren-koennen/",
+        "link_description":
+          "Kinder brauchen nicht viel Spielzeug, sondern eine Möglichkeit, ihre Fantasie zu gebrauchen. Das hat Maren Vollmer jetzt im Kindergarten ihrer Tochter festgestellt. Wie sie das jetzt auch zuhause umsetzt, liest du in diesem Gastbeitrag.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/familie/kinder/weniger-spielzeug-viel-besser/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1180,
+        "name": "weniger-spielzeug-viel-besser",
+        "status": 1,
+        "sort": 5,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Warum weniger Spielzeug viel besser ist",
+        "related_blog": "/blogs/fraeulein-im-glueck/",
+        "link_url":
+          "http://suchtdasglueck.at/warum-weniger-spielzeug-viel-besser-ist-weniger-ist-mehr-im-kinderzimmer-4/",
+        "link_description":
+          "Das Glückshaus ist immer noch eine Krankenstation. Jetzt ist das Glücksbaby dran. Ich nenne das die Krankheitsspirale des Horrors. Einer nach dem anderen kommt dran und in der Mitte rotiert die Mama.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path":
+        "/links/familie/kinder/wenn-dein-kind-einen-hund-will-du-aber-nicht/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1187,
+        "name": "wenn-dein-kind-einen-hund-will-du-aber-nicht",
+        "status": 1,
+        "sort": 11,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Wenn Dein Kind einen Hund will, Du aber nicht",
+        "related_blog": "/blogs/sina-jasur/",
+        "link_url":
+          "http://sina-jasur.de/2016/05/meine-grosse-hat-jetzt-einen-hund-obwohl-wir-keinen-hund-haben/",
+        "link_description":
+          "Wie die meisten Kinder will meine Große sooo gerne ein Haustier haben, am liebsten einen Hund. Für mich kommt das überhaupt nicht in Frage! Ich bin ja mit drei Kindern schon überfordert",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/familie/minimalismus-familie-warum/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1174,
+        "name": "minimalismus-familie-warum",
+        "status": 1,
+        "sort": 1,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Minimalismus als Familie? Warum?",
+        "related_blog": "/blogs/mama-denkt/",
+        "link_url": "http://www.mamadenkt.de/minimalismus-als-familie-warum/",
+        "link_description":
+          "Ich hatte eine sehr coole Kindheit, die ich vor allem meiner Mutter zu verdanken habe. Sie hat die Nachmittage damit verbracht mit uns die Welt zu entdecken.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/familie/wir-versinken-minimalismus-als-familie/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1175,
+        "name": "wir-versinken-minimalismus-als-familie",
+        "status": 1,
+        "sort": 2,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Wir versinken! Minimalismus als Familie",
+        "related_blog": "/blogs/mama-denkt/",
+        "link_url":
+          "http://www.mamadenkt.de/wir-versinken-minimalismus-als-familie/",
+        "link_description":
+          "Es ist unglaublich. Egal, wohin ich blicke, wohin ich mich drehe: überall sehe ich kleine Haufen Papier. Nicht nur Papier.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/finanzen/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1131,
+        "name": "finanzen",
+        "status": 1,
+        "sort": 8,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Finanzen",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/finanzen/sparen/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1148,
+        "name": "sparen",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Sparen",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/geben/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1138,
+        "name": "geben",
+        "status": 1,
+        "sort": 10,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Geben / Altruismus",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/geben/geschenke/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1140,
+        "name": "geschenke",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Geschenke",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path":
+        "/links/geben/geschenke/bewusst-schenken-kindergeschenke-spielzeug/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1195,
+        "name": "bewusst-schenken-kindergeschenke-spielzeug",
+        "status": 1,
+        "sort": 1,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Bewusst schenken: Kindergeschenke ohne viel (Spiel-)Zeug",
+        "related_blog": "/blogs/fraeulein-im-glueck/",
+        "link_url":
+          "http://suchtdasglueck.at/bewusst-schenken-geschenkideen-fuer-kinder-ohne-viel-spiel-zeug/",
+        "link_description":
+          "Überall gibt es Feierlichkeiten, die Glückskinder hatten im November Geburtstag und Weihnachten ist auch nicht mehr weit. Natürlich wollen wir unseren Kindern etwas schenken. Aber was gibt es für Alternativen, weniger (Spiel-) Zeug zu schenken? Und damit nicht nur elterliche Nerven zu schonen (»Räum das endlich weg!«), sondern auch das Geldbörsel und die Umwelt?",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/geben/geschenke/geschenkeflut-vermeiden/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1194,
+        "name": "geschenkeflut-vermeiden",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Geschenkeflut vermeiden",
+        "related_blog": "/blogs/fraeulein-im-glueck/",
+        "link_url":
+          "http://suchtdasglueck.at/gastbeitrag-geschenkeflut-vermeiden-weniger-ist-mehr-im-kinderzimmer-3/",
+        "link_description":
+          "Weniger ist mehr im Kinderzimmer, da bin ich mir inzwischen sicher. Ich hab für mich einen guten Umgang mit den vielen (Kinder-)sachen gefunden. Und jetzt? Ja jetzt gibt es immer noch die anderen.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path":
+        "/links/geben/geschenke/minimalistisch-schenken-ideen-geburtstag-weihnachten/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1199,
+        "name": "minimalistisch-schenken-ideen-geburtstag-weihnachten",
+        "status": 1,
+        "sort": 5,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title":
+          "Minimalistisch schenken - Ideen für Geburtstag, Weihnachten und Co.",
+        "related_blog": "/blogs/mini-me/",
+        "link_url": "http://minime.life/minimalistisch-schenken/",
+        "link_description":
+          "Durch meinen Artikel über den Sinn, bzw. Unsinn von Abo-Boxen (nochmals nachzulesen hier: Überfluss vermeiden – warum ich nichts (mehr) von Abo-Boxen halte) entstand auf Facebook eine kleine Diskussion zum Thema  »Geschenke«, bzw. »Verschenken«.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/geben/geschenke/schenk-dich-reich/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1198,
+        "name": "schenk-dich-reich",
+        "status": 1,
+        "sort": 4,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Schenk Dich reich",
+        "related_blog": "/blogs/minimalismus21/",
+        "link_url": "http://minimalismus21.de/2016/01/04/schenk-dich-reich/",
+        "link_description":
+          "Heute wurde ich reich beschenkt. Am ersten Arbeitstag nach dem Urlaub fand ich gleich zwei Weihnachtspräsente auf meinem Schreibtisch. Beide konnte ich vor den Feiertagen leider nicht mehr persönlich entgegennehmen.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/geben/geschenke/spielzeugfrei-schenken/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1197,
+        "name": "spielzeugfrei-schenken",
+        "status": 1,
+        "sort": 3,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Spielzeugfrei schenken",
+        "related_blog": "/blogs/spielzeugfrei/",
+        "link_url":
+          "http://spielzeugfreies-kinderzimmer.de/geschenke-spielzeugfrei/",
+        "link_description":
+          "Geschenke sind ein Ausdruck unserer Liebe. Wir sind damit aufgewachsen und unsere Kinder meistens auch schon. Einfach damit aufzuhören fällt also naturgemäß sehr schwer, denn dann braucht man scheinbar einen Ersatz. Feiertage wie Geburtstag oder Weihnachten müssen anderweitig gefüllt werden, Traditionen und Rituale neu erfunden.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/geben/geschenke/was-tun-mit-den-schenkenden/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1196,
+        "name": "was-tun-mit-den-schenkenden",
+        "status": 1,
+        "sort": 2,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Was tun mit den Schenkenden?",
+        "related_blog": "/blogs/spielzeugfrei/",
+        "link_url":
+          "http://spielzeugfreies-kinderzimmer.de/was-tun-mit-den-schenkenden/",
+        "link_description":
+          "Spielzeugfrei ist ja schön und gut im Mikrokosmos Familie. Weihnachten ist auch händelbar, so unter uns. Aber wir sind nicht allein auf der Welt, es gibt viele liebe Menschen, die uns und vor allem den Kindern so gerne eine Freude machen – und dies bringen sie meistens in Form von kleinen und größeren Geschenken mit.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/geben/nachhaltigkeit/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1158,
+        "name": "nachhaltigkeit",
+        "status": 1,
+        "sort": 1,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Nachhaltigkeit",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/gesundheit/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1132,
+        "name": "gesundheit",
+        "status": 1,
+        "sort": 5,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Gesundheit",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/gesundheit/achtsamkeit-meditation/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1154,
+        "name": "achtsamkeit-meditation",
+        "status": 1,
+        "sort": 3,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Achtsamkeit / Meditation",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/gesundheit/ernaehrung/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1155,
+        "name": "ernaehrung",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Ernährung",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/gesundheit/fitness/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1156,
+        "name": "fitness",
+        "status": 1,
+        "sort": 2,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Sport / Fitness",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/gesundheit/koerperpflege/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1149,
+        "name": "koerperpflege",
+        "status": 1,
+        "sort": 1,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Körperpflege",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/kostenlos/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1157,
+        "name": "kostenlos",
+        "status": 1,
+        "sort": 11,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Kostenlose Angebote",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/partnerschaft/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1134,
+        "name": "partnerschaft",
+        "status": 1,
+        "sort": 4,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Partnerschaft",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path":
+        "/links/partnerschaft/funktioniert-zusammenleben-nicht-minimalisten/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1192,
+        "name": "funktioniert-zusammenleben-nicht-minimalisten",
+        "status": 1,
+        "sort": 3,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title":
+          "Wie funktioniert das Zusammenleben mit einem Nicht-Minimalisten?",
+        "related_blog": "/blogs/malmini/",
+        "link_url":
+          "http://malmini.de/wie-funktioniert-das-zusammenleben-mit-einem-nicht-minimalisten/",
+        "link_description":
+          "Vor ein paar Monaten drehte sich mein Freund eines Abends zu mir um und fragte: »Was ist, wenn uns dein Minimalismus irgendwann im Weg steht?« Diese Frage beschäftigt mich schon lange. Wie erklärt man Familie und Freunden seine Vorstellungen von einem minimalistischen Leben, ohne sie zu verprellen? Wie können Minimalisten und Nicht-Minimalisten zusammenleben?",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/partnerschaft/minimalismus-in-partnerschaften/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1191,
+        "name": "minimalismus-in-partnerschaften",
+        "status": 1,
+        "sort": 2,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Wie Minimalismus in Partnerschaften funktionieren kann",
+        "related_blog": "/blogs/apfelmaedchen/",
+        "link_url": "http://apfelmaedchen.de/minimalismus-partnerschaft/",
+        "link_description":
+          "Nach unserer Rückkehr vom diesjährigen Minimalistentreffen in Frankfurt fragte ich Svenja, wieviele Paare dieses Jahr eigentlich dabei gewesen sind. Rage konnte mit ihrer Familie dieses Jahr leider ebenso wenig wie die beiden M21er teilnehmen und so fehlten gleich zwei mir bekannte Paare.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path":
+        "/links/partnerschaft/minimalismus-partnerschaft-funktioniert-bei-uns/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1190,
+        "name": "minimalismus-partnerschaft-funktioniert-bei-uns",
+        "status": 1,
+        "sort": 1,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title":
+          "Minimalismus in der Partnerschaft: So funktioniert das bei uns!",
+        "related_blog": "/blogs/apfelmaedchen/",
+        "link_url": "http://apfelmaedchen.de/minimalismus-partnerschaft-video/",
+        "link_description":
+          "Dir ist der Start in ein einfaches Leben geglückt, aber der Mensch an deiner Seite blickt noch immer skeptisch zu dir hinüber, wenn du wieder etwas aussortierst? Mit ein paar ganz einfachen Kniffen kannst du das Konzept erklären, ohne zu überfordern.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/partnerschaft/minimalismus-partnerschaft-mit-kind/",
+      "class": "ProcessWire\\Page",
+      "template": "link",
+      "settings": {
+        "id": 1184,
+        "name": "minimalismus-partnerschaft-mit-kind",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Minimalismus in Partnerschaft mit Kind",
+        "related_blog": "/blogs/marco-mattheis/",
+        "link_url":
+          "http://marco-mattheis.com/2016/05/07/minimalismus-in-partnerschaft-mit-kind/",
+        "link_description":
+          "Auf meinen Artikel Minimalismus aus anderer Sicht: Wie viel wiegt unser Besitz? schrieb Tanja mir einen Kommentar mit besonders spannenden Fragen. Hier noch einmal ihr Kommentar und im Anschluss meine Antworten in Form eines eigenen Artikels.",
+        "sitemap_ignore": 1
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/selbstverwirklichung/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1135,
+        "name": "selbstverwirklichung",
+        "status": 1,
+        "sort": 9,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Selbstverwirklichung",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/selbstverwirklichung/kreativitaet/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1161,
+        "name": "kreativitaet",
+        "status": 1,
+        "sort": 1,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Kreativität",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    },
+    {
+      "type": "ProcessWire:Page",
+      "path": "/links/selbstverwirklichung/selber-machen/",
+      "class": "ProcessWire\\Page",
+      "template": "category-page",
+      "settings": {
+        "id": 1160,
+        "name": "selber-machen",
+        "status": 1,
+        "sort": 0,
+        "sortfield": "sort"
+      },
+      "data": {
+        "title": "Selber machen / DIY",
+        "seo_title": "",
+        "seo_keywords": "",
+        "seo_description": "",
+        "seo_image": "",
+        "seo_robots": "",
+        "seo_custom": "",
+        "seo_canonical": ""
+      }
+    }
+  ],
+  "fields": {
+    "title": {
+      "type": "FieldtypePageTitle",
+      "label": "Title",
+      "version": "1.0.0",
+      "id": 1,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "seo_title": {
+      "type": "FieldtypeText",
+      "label": "Title",
+      "version": "1.0.0",
+      "id": 125,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "seo_keywords": {
+      "type": "FieldtypeText",
+      "label": "Keywords",
+      "version": "1.0.0",
+      "id": 126,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "seo_description": {
+      "type": "FieldtypeText",
+      "label": "Description",
+      "version": "1.0.0",
+      "id": 127,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "seo_image": {
+      "type": "FieldtypeText",
+      "label": "Image",
+      "version": "1.0.0",
+      "id": 128,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "seo_robots": {
+      "type": "FieldtypeText",
+      "label": "Robots",
+      "version": "1.0.0",
+      "id": 131,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "seo_custom": {
+      "type": "FieldtypeTextarea",
+      "label": "Custom",
+      "version": "1.0.6",
+      "id": 130,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "seo_canonical": {
+      "type": "FieldtypeText",
+      "label": "Canonical Link",
+      "version": "1.0.0",
+      "id": 129,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "related_blog": {
+      "type": "FieldtypePage",
+      "label": "Related Blog",
+      "version": "1.0.4",
+      "id": 118,
+      "blankValue": false,
+      "importable": true,
+      "test": true,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "link_url": {
+      "type": "FieldtypeURL",
+      "label": "Link",
+      "version": "1.0.1",
+      "id": 114,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "link_description": {
+      "type": "FieldtypeTextarea",
+      "label": "Link Description",
+      "version": "1.0.6",
+      "id": 120,
+      "blankValue": "",
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    },
+    "sitemap_ignore": {
+      "type": "FieldtypeCheckbox",
+      "label": "Hide page from XML sitemap",
+      "version": "1.0.1",
+      "id": 122,
+      "blankValue": 0,
+      "importable": true,
+      "test": false,
+      "returnsPageValue": true,
+      "requiresExportValue": false,
+      "restoreOnException": false
+    }
+  },
+  "timer": "0.2483"
+}
