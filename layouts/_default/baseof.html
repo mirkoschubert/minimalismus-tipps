@@ -14,16 +14,17 @@
       <div class="branding">{{ .Site.Title }}</div>
       <ul class='topnav'>
         <!-- Navigation -->
-        {{ $actual := .Page.Permalink }}
-        <li{{ if .IsHome }} class="current"{{ end }}><a href="{{ .Site.BaseURL }}">Start</a></li>
-        {{ range .Site.Sections }}
-          <li{{ if eq $actual .Permalink }} class="current"{{ end }}><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ block "mainmenu" . }}
+          {{ $current := . }}
+          {{ range .Site.Menus.main }}
+            <li{{ if $current.IsMenuCurrent "main" .}} class="current"{{ end }}><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+          {{ end }}
+          <li class='search'>
+            <a id='search-button' href='#' title='Suche'>
+              <i class='fa fa-search'></i>
+            </a>
+          </li>
         {{ end }}
-        <li class='search'>
-          <a id='search-button' href='#' title='Suche'>
-            <i class='fa fa-search'></i>
-          </a>
-        </li>
       </ul>
     </div>
   </header>
@@ -57,7 +58,7 @@
   <section class='site-content'>
     <div class="container">
       <div id='content'>
-        <!-- {{ printf "%#v" .Parent }} -->
+        {{ printf "%#v" .Page.Menus.main }}
         {{ block "content" . }}
           {{ .Content }}
         {{ end }}
@@ -68,7 +69,12 @@
   <footer class='site-footer'>
     <div class="container">
     {{ block "footer" . }}
-      <p>Powered by <a href='https://gohugo.io' target="_blank">Hugo</a> | <a href="/datenschutz/">Datenschutz</a> | <a href="/impressum/">Impressum</a></p>
+      <p>
+        Powered by <a href='https://gohugo.io' target="_blank">Hugo</a>
+        {{ range .Site.Menus.footer }}
+          | <a href="{{ .URL | absURL }}">{{ .Name }}</a>
+        {{ end }}
+      </p>
     {{ end }}
     </div>
   </footer>

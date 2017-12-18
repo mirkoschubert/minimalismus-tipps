@@ -2,6 +2,10 @@
 title: "Tipps von Minimalismus-Bloggern"
 date: 2017-12-17T19:24:05+01:00
 draft: true
+menu:
+  main:
+    name: "Start"
+    weight: 1
 ---
 
 ## Was ist Minimalismus-Tipps?

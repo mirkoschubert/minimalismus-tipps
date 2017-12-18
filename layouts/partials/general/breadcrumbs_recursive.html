@@ -2,6 +2,7 @@
 {{ $level := .level }}
 {{ $path := .path }}
 {{ $dir := .dir }}
+{{ $current := .current }}
 
 {{ range $sections }}
 	{{ $section := index $path $level }}
@@ -9,9 +10,11 @@
 	{{if eq $section (index $aux $level) }}
     <span>
     {{if ne .URL $dir }}<a href="{{.URL}}">{{ end }}
-	  {{ .Title }}
+		{{ if (not (isset $current.Menus "footer") | and (isset $current.Menus "main")) }}{{ $current.Menus.main.Name }}{{end}}
+		{{ if (not (isset $current.Menus "main") | and (isset $current.Menus "footer")) }}{{ $current.Menus.footer.Name }}{{end}}
+		{{ if not ((isset $current.Menus "main") | or (isset $current.Menus "footer")) }}{{ .Title}}{{ end }}
 	  {{if ne .URL $dir }}</a><i class='fa fa-angle-right'></i>{{ end }}	
 	  {{ if gt (len .Sections) 0 }}</span>{{ end }}
-		{{ partial "general/breadcrumbs_recursive.html" (dict "sections" .Sections "level" (add $level 1) "path" $path "dir" $dir) }}
+		{{ partial "general/breadcrumbs_recursive.html" (dict "sections" .Sections "level" (add $level 1) "path" $path "dir" $dir "current" $current ) }}
 	{{ end }}
 {{ end }}

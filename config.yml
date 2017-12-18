@@ -1,4 +1,13 @@
 baseURL:                    "http://minimalismus-tipps.de"
 languageCode:               "de-de"
+defaultContentLanguage:     "de"
 title:                      "Minimalismus Tipps"
 description:                "Tipps von Minimalismus-Bloggern"
+
+
+# MENUS
+      
+
+
+
+  
