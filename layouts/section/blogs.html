@@ -5,7 +5,7 @@
 <h3>Springe zum Buchstaben</h3>
 
 {{ range .Site.Data.blogs.entries }}
-  {{ $.Scratch.SetInMap "entries" (lower .title) (dict "title" .title "slogan" .slogan)}}
+  {{ $.Scratch.SetInMap "entries" (lower .title) (dict "title" .title "slogan" .slogan "slug" .slug)}}
   {{ $.Scratch.SetInMap "chars" (upper (substr .title 0 1)) (upper (substr .title 0 1)) }}
 {{ end }}
 
