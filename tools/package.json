@@ -15,11 +15,13 @@
     "commander": "^2.12.2",
     "front-matter": "^2.3.0",
     "fs-extra": "^5.0.0",
+    "get-urls": "^7.2.0",
     "got": "^8.0.1",
     "inquirer": "^4.0.1",
     "link-check": "^4.3.3",
     "moment": "^2.20.0",
-    "promise": "^8.0.1"
+    "promise": "^8.0.1",
+    "xml2js": "^0.4.19"
   },
   "devDependencies": {
     "eslint": "^4.13.1"

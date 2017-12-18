@@ -26,9 +26,10 @@ app
   .action((options) => migrate.links(options));
 
 app
-  .command('migrate:wordpress')
-  .description('Migrates all links from a WordPress XML file')
-  .action(() => migrate.wordpress());
+  .command("migrate:wordpress")
+  .description("Migrates all links from a WordPress XML file")
+  .option("-f, --file [file]", "Path to the WordPress XML file")
+  .action((options) => migrate.wordpress(options));
 
 
 app

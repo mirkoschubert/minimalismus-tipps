@@ -42,7 +42,7 @@ class Check {
     }
   }
 
-  
+
   links() {
 
     var self = this;
@@ -70,7 +70,7 @@ class Check {
     }
   }
 
-  dupicates() {
+  duplicates() {
 
   }
 }

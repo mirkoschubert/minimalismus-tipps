@@ -6,7 +6,9 @@ const Promise   = require('promise'),
       fs        = require('fs-extra'),
       rp        = require('app-root-path'),
       moment    = require('moment'),
-      yaml      = require('js-yaml');
+      yaml      = require('js-yaml'),
+      xmlParser = require('xml2js'),
+      getUrls   = require('get-urls');
 
 class Migrate {
 
@@ -79,9 +81,104 @@ class Migrate {
     }
   }
 
-  wordpress() {
+  wordpress(options) {
+
+    var self      = this,
+        file      = (typeof options.file !== 'undefined') ? options.file : rp + this.files.wordpress.xml,
+        links     = { entries: [] };
+
+    return new Promise((resolve, reject) => {
+      const data = (fs.existsSync(file)) ? fs.readFileSync(file) : null;
+
+      if (!data) return reject(new Error("Could't read the file."));
+
+      return Promise
+        .resolve()
+        .then(() => {
+          console.log('XML loaded...');
+          return Migrate.postsFromXML(data.toString());
+        })
+        .then((posts) => {
+          console.log('Posts found...');
+          return Migrate.filterPages(posts);
+        })
+        .then((pages) => {
+          console.log(chalk.yellow(pages.length) + ' Pages found.\n');
+          var i = 1;
+          pages.forEach(page => {
+            console.log(i + '. ' + page.title[0]);
+            i++;
+          });
+        });
+    });
+  }
+
+  static filterPages(posts) {
+    return new Promise((resolve, reject) => {
+
+      var filtered = [];
+
+      posts.forEach((post) => {
+        var type = post["wp:post_type"][0];
+        if (type === 'page') {
+          if (post.title[0] !== 'Kontakt' && post.title[0] !== 'Impressum' && post.title[0] !== 'Datenschutz' && post.title[0] !== 'About' && post.title[0] !== 'News') {
+            filtered.push(post);
+          }
+        } 
+      });
+
+      return resolve(filtered);
+    });
+  }
+
+  static convertPages(pages) {
 
   }
+
+  static convertPost2(post) {
+
+    var data = [];
+
+    var urls = getUrls(post['content:encoded']);
+    console.log(urls);
+
+/*     var link = {};
+    link.title = '';
+    link.description = '';
+    link.date = moment(new Date(post.pubDate)).format() || moment(new Date(post["wp:post_date"])).format() || moment(new Date()).format();
+    link.url = '';
+    link.related_blog = '/blogs/';
+    link.path = '/links/';
+    link.old_category = post.title;
+    
+
+    console.log(data);
+ */
+  }
+
+  static getAllLinks(post) {
+
+    return new Promise((resolve, reject) => {
+
+    });
+  }
+
+  static postsFromXML (text) {
+    return new Promise((resolve, reject) => {
+      xmlParser.parseString(text, (err, xml) => {
+        if (err) {
+          return reject(err);
+        }
+
+        if (!(xml.rss && xml.rss.channel && 0 < xml.rss.channel.length && xml.rss.channel[ 0 ].item && 0 < xml.rss.channel[ 0 ].item.length)) {
+          return reject(new Error('Invalid WordPress Post XML.'));
+        }
+
+        return resolve(xml.rss.channel[ 0 ].item);
+      });
+    });
+  }
+
 }
 
 module.exports = Migrate;
