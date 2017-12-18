@@ -1,8 +1,36 @@
 {{ define "content" }}
-<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus pariatur deserunt cupiditate voluptatibus excepturi at quas officia fuga quo eius! Corporis eveniet quasi consectetur, placeat repellendus in itaque eligendi laboriosam?</p>
+
+{{ .Content }}
+
 <h3>Springe zum Buchstaben</h3>
+
+{{ range .Site.Data.blogs.entries }}
+  {{ $.Scratch.SetInMap "entries" (lower .title) (dict "title" .title "slogan" .slogan)}}
+  {{ $.Scratch.SetInMap "chars" (upper (substr .title 0 1)) (upper (substr .title 0 1)) }}
+{{ end }}
+
+{{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+{{ $chars := $.Scratch.GetSortedMapValues "chars" }}
+{{ $entries := $.Scratch.GetSortedMapValues "entries" }}
+
 <ul class="nav-characters">
-  <!-- Characters -->
+  {{ range $e := $letters }}
+    {{ if $e | in $chars }}
+      <li><a href="#{{ lower $e }}">{{ $e }}</a></li>
+    {{ else }}
+      <li>{{ $e }}</li>
+    {{ end }}
+  {{ end }}
 </ul>
+
+{{ $.Scratch.Set "currentChar" "" }}
+{{ range $entries }}
+  {{ $char := upper (substr .title 0 1) }}
+  {{ if ne ($.Scratch.Get "currentChar") $char }}
+    <h3><a class="internal" name="{{ lower $char }}">{{ $char }}</a></h3>
+    {{ $.Scratch.Set "currentChar" $char }}
+  {{ end }}
+  <p><a href="{{ $.Page.URL| absURL }}{{ .slug }}/">{{ .title }}</a><br>{{ .slogan }}</p>
+{{ end }}
 
 {{ end }}

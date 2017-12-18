@@ -58,7 +58,7 @@
   <section class='site-content'>
     <div class="container">
       <div id='content'>
-        {{ printf "%#v" .Page.Menus.main }}
+        <!-- {{ printf "%#v" .Page }} -->
         {{ block "content" . }}
           {{ .Content }}
         {{ end }}

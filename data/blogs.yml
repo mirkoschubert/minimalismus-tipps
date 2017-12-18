@@ -1,710 +1,712 @@
-- title: Achtsame Lebenskunst
-  slogan: 'Lebe das Wesentliche! Achtsamkeit, Minimalismus, Einfach Leben'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Gabi Raeggel
-  slug: achtsame-lebenskunst
-  url: 'http://achtsame-lebenskunst.de'
-  feed_url: 'http://achtsame-lebenskunst.de/feed/'
-- title: Afschin
-  slogan: 'Inspirationsblog Achtsamkeit, Meditation und mehr Freude im Leben'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Afschin Kamrani
-  slug: afschin
-  url: 'http://www.afschin.com'
-  feed_url: 'http://www.afschin.com/rss/'
-- title: Alex Rubenbauer
-  slogan: 'Psychologie, Persönlichkeitsentwicklung und Minimalismus'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Alex Rubenbauer
-  slug: alex-rubenbauer
-  url: 'http://alex-rubenbauer.de'
-  feed_url: 'http://alex-rubenbauer.de/rss/'
-- title: alfa ZENtauri
-  slogan: Folge deiner Lebensvision!
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Mike Lippoldt
-  slug: alfa-zentauri
-  url: 'http://alfazentauri.com'
-  feed_url: 'http://feeds.feedburner.com/alfazentauri?format=xml'
-- title: Apfelmädchen & sadfsh
-  slogan: Gemeinsam können wir die Welt verändern. Ganz sicher.
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: 'Svenja Sgodda, Marc Lentvogt'
-  slug: apfelmaedchen
-  url: 'http://apfelmaedchen.de'
-  feed_url: 'http://apfelmaedchen.de/feed/'
-- title: Babs ist Grün
-  slogan: Minimalismus als Familie
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Babett Grün
-  slug: babs-gruen
-  url: 'http://babs-ist-gruen.de'
-  feed_url: 'http://babs-ist-gruen.de/feed/'
-- title: Denis Sandmann
-  slogan: Selbständiger Mediendesigner
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Denis Sandmann
-  slug: denis-sandmann
-  url: 'https://sandmann.co/de/category/minimalismus/'
-  feed_url: 'https://sandmann.co/de/feed/'
-- title: Die Entdeckung der Schlichtheit
-  slogan: 'Minimalismus, persönliche Finanzen und Psycholgie'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Daniel Siewert
-  slug: die-entdeckung-der-schlichtheit
-  url: 'http://www.schlichtheit.com/'
-  feed_url: 'http://www.schlichtheit.com/feed/'
-- title: Digitaler Minimalismus
-  slogan: Reduziere dein Leben auf das Wesentliche!
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do *eiusmod*
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Mirko Schubert
-  slug: digitaler-minimalismus
-  url: 'https://digitaler-minimalismus.de'
-  feed_url: 'https://digitaler-minimalismus.de/feed'
-- title: Einfach bewusst
-  slogan: 'Minimalistisch, nachhaltig & vegan leben'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Christof Herrmann
-  slug: einfach-bewusst
-  url: 'http://www.einfachbewusst.de'
-  feed_url: 'http://www.einfachbewusst.de/feed/'
-- title: Einfach Minimalismus
-  slogan: Einfach Minimalismus
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Andrea Steinberg
-  slug: einfach-minimalismus
-  url: 'http://einfach-minimalismus.wixsite.com/einfach-minimalismus'
-  feed_url: ''
-- title: Einfach einfach leben
-  slogan: Einfach. Leben. Anregungen. Tipps. Ideen. DIY. In Wort und Bild
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Anja Riedel
-  slug: einfacheinfach-leben
-  url: 'http://einfacheinfachleben.blogspot.de'
-  feed_url: 'http://einfacheinfachleben.blogspot.com/feeds/posts/default'
-- title: Experiment Selbstversorgung
-  slogan: Schritt für Schritt Selbstversorgung
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Michael Hartl
-  slug: experiment-selbstversorgung
-  url: 'http://experimentselbstversorgung.net'
-  feed_url: 'http://feeds.feedburner.com/ExperimentSelbstversorgung'
-- title: Finnsland
-  slogan: Downshifting und Lebenskunst und so
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Oliver »Finn« Lauberger
-  slug: finnsland
-  url: 'http://www.finnsland.net/blog/'
-  feed_url: 'http://www.finnsland.net/blog/?feed=rss2'
-- title: Flussabwärts
-  slogan: Persönlichkeitsentwicklung zum eigenen Leben
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Mirko Schubert
-  slug: flussabwaerts
-  url: 'https://flussabwaerts.de/'
-  feed_url: 'https://flussabwaerts.de/feed'
-- title: Fräulein im Glück
-  slogan: 'Familie, Minimalismus, Achtsamkeit'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Birgit Ottendorfer
-  slug: fraeulein-im-glueck
-  url: 'http://suchtdasglueck.at'
-  feed_url: 'http://feeds.feedburner.com/FruleinImGlck'
-- title: Frau Ding Dongs Leben
-  slogan: 'DIY, Minimalismus, Heim- und Herd-Geschichten und gute Bücher'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: frau-ding-dongs-leben
-  url: 'http://www.schwingelschwingeldingdong.com'
-  feed_url: 'http://www.schwingelschwingeldingdong.com/feed'
-- title: Frau Momos Minimalismus
-  slogan: Das Leben erleichtern und bereichern
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Barbara Bünger
-  slug: frau-momos-minimalismus
-  url: 'http://fraumomosminimalismus.ch'
-  feed_url: 'http://fraumomosminimalismus.ch/feed'
-- title: Fraxa
-  slogan: 'Genug zu haben ist Glück, mehr als genug zu haben ist unheilvoll.'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Fraxa
-  slug: fraxa
-  url: 'http://www.fraxa.ch'
-  feed_url: ''
-- title: Genug haben
-  slogan: 'Genug haben, mehr sein'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Frank Wolf
-  slug: genug-haben
-  url: 'http://genughaben.de/blog/'
-  feed_url: 'http://genughaben.de/blog/feed/'
-- title: Karo Kafka
-  slogan: 'Schreibt über Musik, Bücher, Minimalismus und Zeug'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Karoline Kusebauch
-  slug: karo-kafka
-  url: 'http://www.karokafka.net'
-  feed_url: ''
-- title: Kaufdiät
-  slogan: 'Weniger konsumieren, mehr genießen'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: kaufdiaet
-  url: 'https://kaufdiaet.wordpress.com'
-  feed_url: 'https://kaufdiaet.wordpress.com/feed/'
-- title: Konsumblockade
-  slogan: Dauerhaft weniger konsumieren
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: konsumblockade
-  url: 'https://konsumblockade.wordpress.com'
-  feed_url: 'https://konsumblockade.wordpress.com/feed/'
-- title: Kunterbuntes Allerlei
-  slogan: >-
-    Köln, das Rheinland & die Welt, minimalistischer leben, planen und
-    organisieren
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: kunterbuntes-allerlei
-  url: 'https://kunterbunt11.wordpress.com'
-  feed_url: 'https://kunterbunt11.wordpress.com/feed/'
-- title: MalMini
-  slogan: Entrümple dein Leben!
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Pia Mester
-  slug: malmini
-  url: 'http://malmini.de'
-  feed_url: 'http://malmini.de/feed/'
-- title: Mama denkt
-  slogan: >-
-    Über Alltags-Abenteuer, Nachhaltigkeit, Minimalismus und ein bisschen
-    Mama-Sein
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Rachel Suhre
-  slug: mama-denkt
-  url: 'http://www.mamadenkt.de'
-  feed_url: 'http://www.mamadenkt.de/feed/'
-- title: Manas Glücksfinder
-  slogan: 'Suche nach dem Glücks-Moment, der einfach bleibt.'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Gero Regenbrecht
-  slug: manas-gluecksfinder
-  url: 'http://www.manas-gluecksfinder.de'
-  feed_url: 'http://www.manas-gluecksfinder.de/feed/'
-- title: Marco Mattheis
-  slogan: Mein Minimalismus und seine Folgen
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Marco Mattheis
-  slug: marco-mattheis
-  url: 'http://marco-mattheis.com'
-  feed_url: 'http://marco-mattheis.com/feed/'
-- title: marie minimalisiert
-  slogan: Praktisch umsetzbare Tipps zum minimalistischeren Leben
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: marie-minimalisiert
-  url: 'https://marieminimalisiert.wordpress.com'
-  feed_url: 'https://marieminimalisiert.wordpress.com/feed/'
-- title: Mini.Me.
-  slogan: Minimalismus & Lifestyle
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Monica Albrecht
-  slug: mini-me
-  url: 'http://minime.life'
-  feed_url: 'http://minime.life/feed/'
-- title: Minima Muse
-  slogan: Kreativer Konsumverzicht im kollektiven Selbstversuch
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Dörte Giebel
-  slug: minima-muse
-  url: 'https://minimamuse.wordpress.com'
-  feed_url: 'https://minimamuse.wordpress.com/feed/'
-- title: Minimalismus 101
-  slogan: Minimalismus-Blog von Frederico Elles
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: minimalismus-101
-  url: 'http://minimalismus101.blogspot.de'
-  feed_url: 'http://feeds.feedburner.com/Minimalismus101'
-- title: Minimalismus JETZT!
-  slogan: Eine Kampagne rund um den Minimalismus
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Fair Moves / Jasmin Mittag
-  slug: minimalismus-jetzt
-  url: 'http://www.minimalismus.jetzt'
-  feed_url: ''
-- title: Minimalismus leben
-  slogan: Minimalismus-Blog von Michael Klumb
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Michael Klumb
-  slug: minimalismus-leben
-  url: 'http://www.minimalismus-leben.de'
-  feed_url: 'http://www.minimalismus-leben.de/feed/'
-- title: Minimalismus Podcast
-  slogan: Der Podcast über Minimalismus von Michael Klumb und Daniel Siewert
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Michael Klumb
-  slug: minimalismus-podcast
-  url: 'http://www.minimalismus-podcast.de'
-  feed_url: 'http://www.minimalismus-podcast.de/feed/podcast/'
-- title: Minimalismus Stammtisch
-  slogan: Alle Minimalisten-Treffen deutschlandweit
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Michael Klumb
-  slug: minimalismus-stammtisch
-  url: 'http://www.minimalismus-stammtisch.de'
-  feed_url: 'http://www.minimalismus-stammtisch.de/feed/'
-- title: minimalismus und mehr
-  slogan: Minimalismus-Blog
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: minimalismus-und-mehr
-  url: 'https://minimalismusundmehr.wordpress.com'
-  feed_url: 'https://minimalismusundmehr.wordpress.com/feed/'
-- title: Minimalismus21
-  slogan: >-
-    Fokussierung, Trend, Utopie, Zeitgefühl, Lebenseinstellung? Ein Begriff und
-    seine Interpretation im 21. Jahrhundert
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: A. Numberger
-  slug: minimalismus21
-  url: 'http://minimalismus21.de'
-  feed_url: 'http://minimalismus21.de/feed/'
-- title: Minimalismusblog
-  slogan: Einfach Leben. Selbstbestimmt sein.
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: minimalismusblog
-  url: 'http://minimalismusblog.tumblr.com'
-  feed_url: 'http://minimalismusblog.tumblr.com/rss'
-- title: minimalisten.org
-  slogan: Die Minimalismus-Community für Simple-Living-Begeisterte
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: minimalisten-org
-  url: 'https://minimalisten.org'
-  feed_url: ''
-- title: Minimalistenfreun.de
-  slogan: Die (nicht ganz so) anonymen Minimalisten
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: minimalistenfreunde
-  url: 'http://www.minimalistenfreun.de'
-  feed_url: 'http://www.minimalistenfreun.de/feed/'
-- title: Minimalistisch denken
-  slogan: Minimalismus-Blog von Jörn aus Köln
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Jörn Heidrath
-  slug: minimalistisch-denken
-  url: 'http://minimalistisch-denken.de'
-  feed_url: 'http://minimalistisch-denken.de/feed/'
-- title: Minimalistisch Lebende
-  slogan: ...macht Pause.
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: minimalistisch-lebende
-  url: 'http://www.minimalistisch-leben.de'
-  feed_url: ''
-- title: Minimalistisch
-  slogan: More money for adventures
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Silke Jankowski
-  slug: minimalistisch
-  url: 'http://minimalisch.de'
-  feed_url: 'http://minimalisch.de/feed/'
-- title: minimalkonzept
-  slogan: Einfach leben im Überfluss für mehr Zeit und Geld
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Huong Tran
-  slug: minimalkonzept
-  url: 'http://minimalkonzept.de'
-  feed_url: 'http://minimalkonzept.de/?feed=rss2'
-- title: Minimalprinzip
-  slogan: Minimalismus-Blog von Alexander von Sinope
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: minimalprinzip
-  url: 'http://minimalprinzip.blogspot.de'
-  feed_url: 'http://minimalprinzip.blogspot.com/feeds/posts/default'
-- title: Mr. Minimalist
-  slogan: Minimalismus-Blog von Sebastian
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: mr-minimalist
-  url: 'http://mrminimalist.com'
-  feed_url: 'http://mrminimalist.com/feed/'
-- title: myMONK
-  slogan: 'Meditation, Persönlichkeitsentwicklung,  Selbstverwirklichung'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: jucknix GmbH / Tim Schlenzig
-  slug: mymonk
-  url: 'http://mymonk.de'
-  feed_url: 'http://mymonk.de/feed/'
-- title: Pooly.net
-  slogan: 'Minimalismus, Sport, Outdoor-Aktivitäten, Reisen und gesunde Ernährung'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Daniel Bayer
-  slug: pooly-net
-  url: 'http://www.pooly.net'
-  feed_url: 'http://www.pooly.net/feed/'
-- title: Projekt Einfachheit
-  slogan: 'Entdecke, was zählt...'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Stephanie Lehnert
-  slug: projekt-einfachheit
-  url: 'https://projekt-einfachheit.com'
-  feed_url: 'https://projekt-einfachheit.com/feed/'
-- title: QuerfeldRein
-  slogan: Minimalismus-Bog
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: querfeldrein
-  url: 'https://querfeldrein.wordpress.com'
-  feed_url: 'https://querfeldrein.wordpress.com/feed/'
-- title: Roadfamily
-  slogan: Eine fünfköpfige Nomaden-Familie reist mit dem Bus durch Eurasien
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Roadfamily LLC
-  slug: roadfamily
-  url: 'http://roadfamily.com'
-  feed_url: 'http://roadfamily.com/feed/'
-- title: SchaumImOhr
-  slogan: 'Nachhaltigkeit, Minimalismus, konsumkritische Gedanken...'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Manuel Suhre
-  slug: schaumimohr
-  url: 'http://www.schaumimohr.de'
-  feed_url: 'http://www.schaumimohr.de/feed/'
-- title: Simplizist
-  slogan: 'Weniger arbeiten, mehr Leben'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Jörg Faber
-  slug: simplizist
-  url: 'http://simplizist.de'
-  feed_url: 'http://feeds.feedburner.com/Simplizist'
-- title: Sina Jasur
-  slogan: Minimalismus-Blog von Sina Jasur
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Anja Schüler-Renner
-  slug: sina-jasur
-  url: 'http://sina-jasur.de'
-  feed_url: 'http://sina-jasur.de/feed/'
-- title: Spend out!
-  slogan: Vom Entrümpeln zum Minimalismus… oder sei großzügig zu dir selbst!
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: spend-out
-  url: 'http://spend-out.blogspot.de'
-  feed_url: 'http://spend-out.blogspot.com/feeds/posts/default'
-- title: Spielzeugfrei
-  slogan: Minimalismusblog mit Schwerpunkt Kinderzimmer
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Paula Pülz
-  slug: spielzeugfrei
-  url: 'http://spielzeugfreies-kinderzimmer.de'
-  feed_url: 'http://spielzeugfreies-kinderzimmer.de/feed/'
-- title: Umschlagbahnhof
-  slogan: Wunderfitzig und überzwerch
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: umschlagbahnhof
-  url: 'https://umschlagbahnhof.wordpress.com'
-  feed_url: 'https://umschlagbahnhof.wordpress.com/feed/'
-- title: von allem zu viel.
-  slogan: Minimalismus-Blog
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: von-allem-zu-viel
-  url: 'https://vonallemzuviel.wordpress.com'
-  feed_url: 'https://vonallemzuviel.wordpress.com/feed/'
-- title: Weggedacht
-  slogan: …und aufs wesentliche gebracht
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Christian Voecks
-  slug: weggedacht
-  url: 'http://weggedacht.de'
-  feed_url: 'http://weggedacht.de/feed/'
-- title: wenig reicht auch
-  slogan: 'Minimalismus, DIY, Stricken und andern Krams'
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: Andrea Blunck
-  slug: wenig-reicht-auch
-  url: 'https://wenigreichtauch.de'
-  feed_url: 'http://wenigreichtauch.de/feed/rss'
-- title: widerstandistzweckmaessig
-  slogan: Was ich alles nicht mehr hinnehmen will
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: widerstandistzweckmaessig
-  url: 'https://widerstandistzweckmaessig.wordpress.com'
-  feed_url: 'https://widerstandistzweckmaessig.wordpress.com/feed/'
-- title: ZebrastreifenwieauchGartenzaun
-  slogan: schreibt über den Dschungel
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: zebrastreifenwieauchgartenzaun
-  url: 'http://www.zebrastreifenwieauchgartenzaun.de'
-  feed_url: 'http://feeds.feedburner.com/zebrastreifenwieauchgartenzaun'
-- title: Zora minimiert
-  slogan: Minimalismus und Naturkosmetik
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  owner: ''
-  slug: zora-minimiert
-  url: 'https://zoraminimiert.wordpress.com'
-  feed_url: 'https://zoraminimiert.wordpress.com/feed/'
+entries:
+  - title: Einfach einfach leben
+    slogan: Einfach. Leben. Anregungen. Tipps. Ideen. DIY. In Wort und Bild
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Anja Riedel
+    slug: einfacheinfach-leben
+    url: 'http://einfacheinfachleben.blogspot.de'
+    feed_url: 'http://einfacheinfachleben.blogspot.com/feeds/posts/default'
+
+  - title: Afschin
+    slogan: 'Inspirationsblog Achtsamkeit, Meditation und mehr Freude im Leben'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Afschin Kamrani
+    slug: afschin
+    url: 'http://www.afschin.com'
+    feed_url: 'http://www.afschin.com/rss/'
+  - title: Achtsame Lebenskunst
+    slogan: 'Lebe das Wesentliche! Achtsamkeit, Minimalismus, Einfach Leben'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Gabi Raeggel
+    slug: achtsame-lebenskunst
+    url: 'http://achtsame-lebenskunst.de'
+    feed_url: 'http://achtsame-lebenskunst.de/feed/'
+  - title: Alex Rubenbauer
+    slogan: 'Psychologie, Persönlichkeitsentwicklung und Minimalismus'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Alex Rubenbauer
+    slug: alex-rubenbauer
+    url: 'http://alex-rubenbauer.de'
+    feed_url: 'http://alex-rubenbauer.de/rss/'
+  - title: alfa ZENtauri
+    slogan: Folge deiner Lebensvision!
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Mike Lippoldt
+    slug: alfa-zentauri
+    url: 'http://alfazentauri.com'
+    feed_url: 'http://feeds.feedburner.com/alfazentauri?format=xml'
+  - title: Apfelmädchen & sadfsh
+    slogan: Gemeinsam können wir die Welt verändern. Ganz sicher.
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: 'Svenja Sgodda, Marc Lentvogt'
+    slug: apfelmaedchen
+    url: 'http://apfelmaedchen.de'
+    feed_url: 'http://apfelmaedchen.de/feed/'
+  - title: Babs ist Grün
+    slogan: Minimalismus als Familie
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Babett Grün
+    slug: babs-gruen
+    url: 'http://babs-ist-gruen.de'
+    feed_url: 'http://babs-ist-gruen.de/feed/'
+  - title: Denis Sandmann
+    slogan: Selbständiger Mediendesigner
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Denis Sandmann
+    slug: denis-sandmann
+    url: 'https://sandmann.co/de/category/minimalismus/'
+    feed_url: 'https://sandmann.co/de/feed/'
+  - title: Die Entdeckung der Schlichtheit
+    slogan: 'Minimalismus, persönliche Finanzen und Psycholgie'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Daniel Siewert
+    slug: die-entdeckung-der-schlichtheit
+    url: 'http://www.schlichtheit.com/'
+    feed_url: 'http://www.schlichtheit.com/feed/'
+  - title: Digitaler Minimalismus
+    slogan: Reduziere dein Leben auf das Wesentliche!
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do *eiusmod*
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Mirko Schubert
+    slug: digitaler-minimalismus
+    url: 'https://digitaler-minimalismus.de'
+    feed_url: 'https://digitaler-minimalismus.de/feed'
+  - title: Einfach bewusst
+    slogan: 'Minimalistisch, nachhaltig & vegan leben'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Christof Herrmann
+    slug: einfach-bewusst
+    url: 'http://www.einfachbewusst.de'
+    feed_url: 'http://www.einfachbewusst.de/feed/'
+  - title: Einfach Minimalismus
+    slogan: Einfach Minimalismus
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Andrea Steinberg
+    slug: einfach-minimalismus
+    url: 'http://einfach-minimalismus.wixsite.com/einfach-minimalismus'
+    feed_url: ''
+  - title: Experiment Selbstversorgung
+    slogan: Schritt für Schritt Selbstversorgung
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Michael Hartl
+    slug: experiment-selbstversorgung
+    url: 'http://experimentselbstversorgung.net'
+    feed_url: 'http://feeds.feedburner.com/ExperimentSelbstversorgung'
+  - title: Finnsland
+    slogan: Downshifting und Lebenskunst und so
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Oliver »Finn« Lauberger
+    slug: finnsland
+    url: 'http://www.finnsland.net/blog/'
+    feed_url: 'http://www.finnsland.net/blog/?feed=rss2'
+  - title: Flussabwärts
+    slogan: Persönlichkeitsentwicklung zum eigenen Leben
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Mirko Schubert
+    slug: flussabwaerts
+    url: 'https://flussabwaerts.de/'
+    feed_url: 'https://flussabwaerts.de/feed'
+  - title: Fräulein im Glück
+    slogan: 'Familie, Minimalismus, Achtsamkeit'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Birgit Ottendorfer
+    slug: fraeulein-im-glueck
+    url: 'http://suchtdasglueck.at'
+    feed_url: 'http://feeds.feedburner.com/FruleinImGlck'
+  - title: Frau Ding Dongs Leben
+    slogan: 'DIY, Minimalismus, Heim- und Herd-Geschichten und gute Bücher'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: frau-ding-dongs-leben
+    url: 'http://www.schwingelschwingeldingdong.com'
+    feed_url: 'http://www.schwingelschwingeldingdong.com/feed'
+  - title: Frau Momos Minimalismus
+    slogan: Das Leben erleichtern und bereichern
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Barbara Bünger
+    slug: frau-momos-minimalismus
+    url: 'http://fraumomosminimalismus.ch'
+    feed_url: 'http://fraumomosminimalismus.ch/feed'
+  - title: Fraxa
+    slogan: 'Genug zu haben ist Glück, mehr als genug zu haben ist unheilvoll.'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Fraxa
+    slug: fraxa
+    url: 'http://www.fraxa.ch'
+    feed_url: ''
+  - title: Genug haben
+    slogan: 'Genug haben, mehr sein'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Frank Wolf
+    slug: genug-haben
+    url: 'http://genughaben.de/blog/'
+    feed_url: 'http://genughaben.de/blog/feed/'
+  - title: Karo Kafka
+    slogan: 'Schreibt über Musik, Bücher, Minimalismus und Zeug'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Karoline Kusebauch
+    slug: karo-kafka
+    url: 'http://www.karokafka.net'
+    feed_url: ''
+  - title: Kaufdiät
+    slogan: 'Weniger konsumieren, mehr genießen'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: kaufdiaet
+    url: 'https://kaufdiaet.wordpress.com'
+    feed_url: 'https://kaufdiaet.wordpress.com/feed/'
+  - title: Konsumblockade
+    slogan: Dauerhaft weniger konsumieren
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: konsumblockade
+    url: 'https://konsumblockade.wordpress.com'
+    feed_url: 'https://konsumblockade.wordpress.com/feed/'
+  - title: Kunterbuntes Allerlei
+    slogan: >-
+      Köln, das Rheinland & die Welt, minimalistischer leben, planen und
+      organisieren
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: kunterbuntes-allerlei
+    url: 'https://kunterbunt11.wordpress.com'
+    feed_url: 'https://kunterbunt11.wordpress.com/feed/'
+  - title: MalMini
+    slogan: Entrümple dein Leben!
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Pia Mester
+    slug: malmini
+    url: 'http://malmini.de'
+    feed_url: 'http://malmini.de/feed/'
+  - title: Mama denkt
+    slogan: >-
+      Über Alltags-Abenteuer, Nachhaltigkeit, Minimalismus und ein bisschen
+      Mama-Sein
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Rachel Suhre
+    slug: mama-denkt
+    url: 'http://www.mamadenkt.de'
+    feed_url: 'http://www.mamadenkt.de/feed/'
+  - title: Manas Glücksfinder
+    slogan: 'Suche nach dem Glücks-Moment, der einfach bleibt.'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Gero Regenbrecht
+    slug: manas-gluecksfinder
+    url: 'http://www.manas-gluecksfinder.de'
+    feed_url: 'http://www.manas-gluecksfinder.de/feed/'
+  - title: Marco Mattheis
+    slogan: Mein Minimalismus und seine Folgen
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Marco Mattheis
+    slug: marco-mattheis
+    url: 'http://marco-mattheis.com'
+    feed_url: 'http://marco-mattheis.com/feed/'
+  - title: marie minimalisiert
+    slogan: Praktisch umsetzbare Tipps zum minimalistischeren Leben
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: marie-minimalisiert
+    url: 'https://marieminimalisiert.wordpress.com'
+    feed_url: 'https://marieminimalisiert.wordpress.com/feed/'
+  - title: Mini.Me.
+    slogan: Minimalismus & Lifestyle
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Monica Albrecht
+    slug: mini-me
+    url: 'http://minime.life'
+    feed_url: 'http://minime.life/feed/'
+  - title: Minima Muse
+    slogan: Kreativer Konsumverzicht im kollektiven Selbstversuch
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Dörte Giebel
+    slug: minima-muse
+    url: 'https://minimamuse.wordpress.com'
+    feed_url: 'https://minimamuse.wordpress.com/feed/'
+  - title: Minimalismus 101
+    slogan: Minimalismus-Blog von Frederico Elles
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: minimalismus-101
+    url: 'http://minimalismus101.blogspot.de'
+    feed_url: 'http://feeds.feedburner.com/Minimalismus101'
+  - title: Minimalismus JETZT!
+    slogan: Eine Kampagne rund um den Minimalismus
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Fair Moves / Jasmin Mittag
+    slug: minimalismus-jetzt
+    url: 'http://www.minimalismus.jetzt'
+    feed_url: ''
+  - title: Minimalismus leben
+    slogan: Minimalismus-Blog von Michael Klumb
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Michael Klumb
+    slug: minimalismus-leben
+    url: 'http://www.minimalismus-leben.de'
+    feed_url: 'http://www.minimalismus-leben.de/feed/'
+  - title: Minimalismus Podcast
+    slogan: Der Podcast über Minimalismus von Michael Klumb und Daniel Siewert
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Michael Klumb
+    slug: minimalismus-podcast
+    url: 'http://www.minimalismus-podcast.de'
+    feed_url: 'http://www.minimalismus-podcast.de/feed/podcast/'
+  - title: Minimalismus Stammtisch
+    slogan: Alle Minimalisten-Treffen deutschlandweit
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Michael Klumb
+    slug: minimalismus-stammtisch
+    url: 'http://www.minimalismus-stammtisch.de'
+    feed_url: 'http://www.minimalismus-stammtisch.de/feed/'
+  - title: minimalismus und mehr
+    slogan: Minimalismus-Blog
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: minimalismus-und-mehr
+    url: 'https://minimalismusundmehr.wordpress.com'
+    feed_url: 'https://minimalismusundmehr.wordpress.com/feed/'
+  - title: Minimalismus21
+    slogan: >-
+      Fokussierung, Trend, Utopie, Zeitgefühl, Lebenseinstellung? Ein Begriff und
+      seine Interpretation im 21. Jahrhundert
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: A. Numberger
+    slug: minimalismus21
+    url: 'http://minimalismus21.de'
+    feed_url: 'http://minimalismus21.de/feed/'
+  - title: Minimalismusblog
+    slogan: Einfach Leben. Selbstbestimmt sein.
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: minimalismusblog
+    url: 'http://minimalismusblog.tumblr.com'
+    feed_url: 'http://minimalismusblog.tumblr.com/rss'
+  - title: minimalisten.org
+    slogan: Die Minimalismus-Community für Simple-Living-Begeisterte
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: minimalisten-org
+    url: 'https://minimalisten.org'
+    feed_url: ''
+  - title: Minimalistenfreun.de
+    slogan: Die (nicht ganz so) anonymen Minimalisten
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: minimalistenfreunde
+    url: 'http://www.minimalistenfreun.de'
+    feed_url: 'http://www.minimalistenfreun.de/feed/'
+  - title: Minimalistisch denken
+    slogan: Minimalismus-Blog von Jörn aus Köln
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Jörn Heidrath
+    slug: minimalistisch-denken
+    url: 'http://minimalistisch-denken.de'
+    feed_url: 'http://minimalistisch-denken.de/feed/'
+  - title: Minimalistisch Lebende
+    slogan: ...macht Pause.
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: minimalistisch-lebende
+    url: 'http://www.minimalistisch-leben.de'
+    feed_url: ''
+  - title: Minimalistisch
+    slogan: More money for adventures
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Silke Jankowski
+    slug: minimalistisch
+    url: 'http://minimalisch.de'
+    feed_url: 'http://minimalisch.de/feed/'
+  - title: minimalkonzept
+    slogan: Einfach leben im Überfluss für mehr Zeit und Geld
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Huong Tran
+    slug: minimalkonzept
+    url: 'http://minimalkonzept.de'
+    feed_url: 'http://minimalkonzept.de/?feed=rss2'
+  - title: Minimalprinzip
+    slogan: Minimalismus-Blog von Alexander von Sinope
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: minimalprinzip
+    url: 'http://minimalprinzip.blogspot.de'
+    feed_url: 'http://minimalprinzip.blogspot.com/feeds/posts/default'
+  - title: Mr. Minimalist
+    slogan: Minimalismus-Blog von Sebastian
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: mr-minimalist
+    url: 'http://mrminimalist.com'
+    feed_url: 'http://mrminimalist.com/feed/'
+  - title: myMONK
+    slogan: 'Meditation, Persönlichkeitsentwicklung,  Selbstverwirklichung'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: jucknix GmbH / Tim Schlenzig
+    slug: mymonk
+    url: 'http://mymonk.de'
+    feed_url: 'http://mymonk.de/feed/'
+  - title: Pooly.net
+    slogan: 'Minimalismus, Sport, Outdoor-Aktivitäten, Reisen und gesunde Ernährung'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Daniel Bayer
+    slug: pooly-net
+    url: 'http://www.pooly.net'
+    feed_url: 'http://www.pooly.net/feed/'
+  - title: Projekt Einfachheit
+    slogan: 'Entdecke, was zählt...'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Stephanie Lehnert
+    slug: projekt-einfachheit
+    url: 'https://projekt-einfachheit.com'
+    feed_url: 'https://projekt-einfachheit.com/feed/'
+  - title: QuerfeldRein
+    slogan: Minimalismus-Bog
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: querfeldrein
+    url: 'https://querfeldrein.wordpress.com'
+    feed_url: 'https://querfeldrein.wordpress.com/feed/'
+  - title: Roadfamily
+    slogan: Eine fünfköpfige Nomaden-Familie reist mit dem Bus durch Eurasien
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Roadfamily LLC
+    slug: roadfamily
+    url: 'http://roadfamily.com'
+    feed_url: 'http://roadfamily.com/feed/'
+  - title: SchaumImOhr
+    slogan: 'Nachhaltigkeit, Minimalismus, konsumkritische Gedanken...'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Manuel Suhre
+    slug: schaumimohr
+    url: 'http://www.schaumimohr.de'
+    feed_url: 'http://www.schaumimohr.de/feed/'
+  - title: Simplizist
+    slogan: 'Weniger arbeiten, mehr Leben'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Jörg Faber
+    slug: simplizist
+    url: 'http://simplizist.de'
+    feed_url: 'http://feeds.feedburner.com/Simplizist'
+  - title: Sina Jasur
+    slogan: Minimalismus-Blog von Sina Jasur
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Anja Schüler-Renner
+    slug: sina-jasur
+    url: 'http://sina-jasur.de'
+    feed_url: 'http://sina-jasur.de/feed/'
+  - title: Spend out!
+    slogan: Vom Entrümpeln zum Minimalismus… oder sei großzügig zu dir selbst!
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: spend-out
+    url: 'http://spend-out.blogspot.de'
+    feed_url: 'http://spend-out.blogspot.com/feeds/posts/default'
+  - title: Spielzeugfrei
+    slogan: Minimalismusblog mit Schwerpunkt Kinderzimmer
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Paula Pülz
+    slug: spielzeugfrei
+    url: 'http://spielzeugfreies-kinderzimmer.de'
+    feed_url: 'http://spielzeugfreies-kinderzimmer.de/feed/'
+  - title: Umschlagbahnhof
+    slogan: Wunderfitzig und überzwerch
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: umschlagbahnhof
+    url: 'https://umschlagbahnhof.wordpress.com'
+    feed_url: 'https://umschlagbahnhof.wordpress.com/feed/'
+  - title: von allem zu viel.
+    slogan: Minimalismus-Blog
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: von-allem-zu-viel
+    url: 'https://vonallemzuviel.wordpress.com'
+    feed_url: 'https://vonallemzuviel.wordpress.com/feed/'
+  - title: Weggedacht
+    slogan: …und aufs wesentliche gebracht
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Christian Voecks
+    slug: weggedacht
+    url: 'http://weggedacht.de'
+    feed_url: 'http://weggedacht.de/feed/'
+  - title: wenig reicht auch
+    slogan: 'Minimalismus, DIY, Stricken und andern Krams'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: Andrea Blunck
+    slug: wenig-reicht-auch
+    url: 'https://wenigreichtauch.de'
+    feed_url: 'http://wenigreichtauch.de/feed/rss'
+  - title: widerstandistzweckmaessig
+    slogan: Was ich alles nicht mehr hinnehmen will
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: widerstandistzweckmaessig
+    url: 'https://widerstandistzweckmaessig.wordpress.com'
+    feed_url: 'https://widerstandistzweckmaessig.wordpress.com/feed/'
+  - title: ZebrastreifenwieauchGartenzaun
+    slogan: schreibt über den Dschungel
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: zebrastreifenwieauchgartenzaun
+    url: 'http://www.zebrastreifenwieauchgartenzaun.de'
+    feed_url: 'http://feeds.feedburner.com/zebrastreifenwieauchgartenzaun'
+  - title: Zora minimiert
+    slogan: Minimalismus und Naturkosmetik
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: zora-minimiert
+    url: 'https://zoraminimiert.wordpress.com'
+    feed_url: 'https://zoraminimiert.wordpress.com/feed/'
