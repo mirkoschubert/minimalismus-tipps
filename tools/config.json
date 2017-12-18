@@ -1,0 +1,15 @@
+{
+  "files": {
+    "blogs": {
+      "json": "/../data/import.blogs.json",
+      "yaml": "/../data/blogs.yml"
+    },
+    "links": {
+      "json": "/../data/import.links.json",
+      "yaml": "/../data/links.yml"
+    },
+    "categories": {
+      "yaml": "/../data/categories.yml"
+    }
+  }
+}

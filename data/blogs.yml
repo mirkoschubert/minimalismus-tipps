@@ -218,8 +218,8 @@ entries:
       consequat.
     owner: Frank Wolf
     slug: genug-haben
-    url: 'http://genughaben.de/blog/'
-    feed_url: 'http://genughaben.de/blog/feed/'
+    url: 'http://genughaben.de/'
+    feed_url: 'http://genughaben.de/feed/'
   - title: Karo Kafka
     slogan: 'Schreibt über Musik, Bücher, Minimalismus und Zeug'
     description: >-

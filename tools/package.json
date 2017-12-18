@@ -9,6 +9,7 @@
   "author": "Mirko Schubert",
   "license": "MIT",
   "dependencies": {
+    "app-root-path": "^2.0.1",
     "chalk": "^2.3.0",
     "cliui": "^3.2.0",
     "commander": "^2.12.2",
@@ -16,6 +17,7 @@
     "fs-extra": "^5.0.0",
     "got": "^8.0.1",
     "inquirer": "^4.0.1",
+    "link-check": "^4.3.3",
     "moment": "^2.20.0",
     "promise": "^8.0.1"
   },

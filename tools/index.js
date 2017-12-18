@@ -1,16 +1,18 @@
 #!/usr/bin/env node
 'use strict';
 
-const app   = require('commander'),
-      chalk = require('chalk'),
-      fse   = require('fs-extra'),
-      yaml  = require('js-yaml');
+const app         = require('commander'),
+      chalk       = require('chalk'),
+      fse         = require('fs-extra'),
+      yaml        = require('js-yaml'),
+      Check       = require('./lib/check');
 
 const blog_json_file  = '../data/import.blogs.json',
       blog_yml_file   = '../data/blogs.yml',
       links_json_file = '../data/import.links.json',
       longs_yml_file  = '../data.links.yml';
 
+const check = new Check();
 
 app
   .version('1.0.0');
@@ -40,7 +42,29 @@ app
   .command('migrate:links')
   .description('Migrates Links from a ProcessWire JSON file')
   .action(function() {
+    console.log('Migrating links...');
+  });
 
+app
+  .command('check:blogs')
+  .description('Checks Blogs database for broken links')
+  .action(function() {
+    check.blogs();
+
+  });
+
+app
+  .command('check:links')
+  .description('Checks all links of the directory')
+  .action(function() {
+    console.log('Start checking...');
+  });
+
+app
+  .command('generate:blogs')
+  .description('Generates all blog entries for Hugo')
+  .action(function() {
+    console.log('Generating blog sites...');
   });
 
 app.parse(process.argv);
