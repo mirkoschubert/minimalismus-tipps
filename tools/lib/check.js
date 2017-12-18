@@ -42,7 +42,35 @@ class Check {
     }
   }
 
+  
   links() {
+
+    var self = this;
+    try {
+      var links = yaml.safeLoad(fs.readFileSync(rp + self.files.links.yaml, 'utf-8'));
+      console.log("\nChecking " + chalk.yellow(links.entries.length) + " directory links...\n");
+      var i = 1;
+      links.entries.forEach(link => {
+        linkCheck(link.url, function(err, res) {
+          if (err) {
+            console.log(err);
+            return;
+          }
+          if (res.status === 'alive') {
+            console.log(i + '. ' + res.link + " is " + chalk.green(res.status) + chalk.dim(" (" + res.statusCode + ")"));
+          } else if (res.status === 'dead') {
+            console.log(i + ". " + res.link + " is " + chalk.red(res.status) + chalk.dim(" (" + res.statusCode + ")"));
+          }
+          i++;
+        });
+      });
+
+    } catch(e) {
+      console.log(e);
+    }
+  }
+
+  dupicates() {
 
   }
 }

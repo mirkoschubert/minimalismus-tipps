@@ -5,14 +5,11 @@ const app         = require('commander'),
       chalk       = require('chalk'),
       fse         = require('fs-extra'),
       yaml        = require('js-yaml'),
-      Check       = require('./lib/check');
+      Check       = require('./lib/check'),
+      Migrate     = require('./lib/migrate');
 
-const blog_json_file  = '../data/import.blogs.json',
-      blog_yml_file   = '../data/blogs.yml',
-      links_json_file = '../data/import.links.json',
-      longs_yml_file  = '../data.links.yml';
-
-const check = new Check();
+const check       = new Check(),
+      migrate     = new Migrate();
 
 app
   .version('1.0.0');
@@ -20,45 +17,29 @@ app
 app
   .command('migrate:blogs')
   .description('Migrates Blogs from a ProcessWire JSON file')
-  .action(function() {
-    var blog = JSON.parse(fse.readFileSync(blog_json_file)),
-        data = [];
-    blog.pages.forEach(el => {
-      data.push({
-        title: el.data.title,
-        slogan: el.data.blog_slogan,
-        description: el.data.blog_description,
-        owner: el.data.blog_owner,
-        slug: el.settings.name,
-        url: el.data.blog_url,
-        feed_url: el.data.blog_feed
-      });
-    });
-    fse.writeFileSync(blog_yml_file, yaml.safeDump(data));
-    console.log(chalk.red(blog.pages.length) + ' Blogs were successfully migrated!');
-  });
+  .action(() => migrate.blogs());
 
 app
   .command('migrate:links')
   .description('Migrates Links from a ProcessWire JSON file')
-  .action(function() {
-    console.log('Migrating links...');
-  });
+  .option('-f, --file [file]', 'Path to the JSON file')
+  .action((options) => migrate.links(options));
+
+app
+  .command('migrate:wordpress')
+  .description('Migrates all links from a WordPress XML file')
+  .action(() => migrate.wordpress());
+
 
 app
   .command('check:blogs')
   .description('Checks Blogs database for broken links')
-  .action(function() {
-    check.blogs();
-
-  });
+  .action(() => check.blogs());
 
 app
   .command('check:links')
   .description('Checks all links of the directory')
-  .action(function() {
-    console.log('Start checking...');
-  });
+  .action(() => check.links());
 
 app
   .command('generate:blogs')
