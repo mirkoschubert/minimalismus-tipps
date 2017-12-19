@@ -109,6 +109,12 @@ class Migrate {
             console.log(i + '. ' + page.title[0]);
             i++;
           });
+          return Migrate.getAllLinks(pages);
+        })
+        .then((links) => {
+          
+          fs.writeFileSync(rp + self.files.links.yaml, yaml.safeDump({ entries: links }));
+          console.log("\n" + chalk.yellow(links.length) + " Links saved.\n");
         });
     });
   }
@@ -131,36 +137,39 @@ class Migrate {
     });
   }
 
-  static convertPages(pages) {
-
-  }
-
-  static convertPost2(post) {
-
-    var data = [];
-
-    var urls = getUrls(post['content:encoded']);
-    console.log(urls);
-
-/*     var link = {};
-    link.title = '';
-    link.description = '';
-    link.date = moment(new Date(post.pubDate)).format() || moment(new Date(post["wp:post_date"])).format() || moment(new Date()).format();
-    link.url = '';
-    link.related_blog = '/blogs/';
-    link.path = '/links/';
-    link.old_category = post.title;
-    
-
-    console.log(data);
- */
-  }
-
-  static getAllLinks(post) {
+  static getAllLinks(pages) {
 
     return new Promise((resolve, reject) => {
+      var links = [];
 
+      pages.forEach((page) => {
+        var urls = getUrls(page["content:encoded"][0]);
+        urls.forEach((url) => {
+          var link = {};
+          link.title = '';
+          link.description = '';
+          link.date = moment(new Date(page.pubDate)).format() || moment(new Date(page["wp:post_date"])).format() || moment(new Date()).format();
+          link.url = url;
+          link.related_blog = '/blogs/';
+          link.path = '/links/';
+          link.old_category = page.title[0];
+          link.draft = true;
+          links.push(link);
+        });
+      });
+      links = Migrate.removeDuplicates(links, 'url');
+      return resolve(links);
     });
+  }
+
+  static removeDuplicates( arr, prop ) {
+    var obj = {};
+    for ( var i = 0, len = arr.length; i < len; i++ ){
+      if(!obj[arr[i][prop]]) obj[arr[i][prop]] = arr[i];
+    }
+    var newArr = [];
+    for ( var key in obj ) newArr.push(obj[key]);
+    return newArr;
   }
 
   static postsFromXML (text) {

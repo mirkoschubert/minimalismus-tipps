@@ -40,7 +40,8 @@ app
 app
   .command('check:links')
   .description('Checks all links of the directory')
-  .action(() => check.links());
+  .option("-d, --dead", 'Show only dead links')
+  .action((options) => check.links(options));
 
 app
   .command('generate:blogs')

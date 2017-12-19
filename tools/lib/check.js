@@ -43,13 +43,13 @@ class Check {
   }
 
 
-  links() {
+  links(options) {
 
     var self = this;
     try {
       var links = yaml.safeLoad(fs.readFileSync(rp + self.files.links.yaml, 'utf-8'));
       console.log("\nChecking " + chalk.yellow(links.entries.length) + " directory links...\n");
-      var i = 1;
+      var i = 1, d = 1;
       links.entries.forEach(link => {
         linkCheck(link.url, function(err, res) {
           if (err) {
@@ -57,14 +57,15 @@ class Check {
             return;
           }
           if (res.status === 'alive') {
-            console.log(i + '. ' + res.link + " is " + chalk.green(res.status) + chalk.dim(" (" + res.statusCode + ")"));
+            if (!options.dead) console.log(i + '. ' + res.link + " is " + chalk.green(res.status) + chalk.dim(" (" + res.statusCode + ")"));
           } else if (res.status === 'dead') {
             console.log(i + ". " + res.link + " is " + chalk.red(res.status) + chalk.dim(" (" + res.statusCode + ")"));
+            d++;
           }
           i++;
         });
       });
-
+      // console.log('\n' + chalk.red(d) + ' Links found.\n');
     } catch(e) {
       console.log(e);
     }

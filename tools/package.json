@@ -4,7 +4,7 @@
   "description": "Migration tool",
   "main": "index.js",
   "bin": {
-    "mttools": "index.js"
+    "mnml": "index.js"
   },
   "author": "Mirko Schubert",
   "license": "MIT",
@@ -19,6 +19,7 @@
     "got": "^8.0.1",
     "inquirer": "^4.0.1",
     "link-check": "^4.3.3",
+    "metatag-crawler": "^2.1.0",
     "moment": "^2.20.0",
     "promise": "^8.0.1",
     "xml2js": "^0.4.19"
