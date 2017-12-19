@@ -7,6 +7,9 @@
 ehthumbs.db
 Thumbs.db
 
+# special
+data/import.*
+
 # node 
 node_modules/*
 **/node_modules/*

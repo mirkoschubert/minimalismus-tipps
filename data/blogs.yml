@@ -20,8 +20,8 @@ entries:
       consequat.
     owner: Afschin Kamrani
     slug: afschin
-    url: 'http://www.afschin.com'
-    feed_url: 'http://www.afschin.com/rss/'
+    url: 'http://afschin.com'
+    feed_url: 'http://afschin.com/rss/'
   - title: Achtsame Lebenskunst
     slogan: 'Lebe das Wesentliche! Achtsamkeit, Minimalismus, Einfach Leben'
     description: >-
@@ -97,8 +97,8 @@ entries:
       consequat.
     owner: Daniel Siewert
     slug: die-entdeckung-der-schlichtheit
-    url: 'http://www.schlichtheit.com/'
-    feed_url: 'http://www.schlichtheit.com/feed/'
+    url: 'http://schlichtheit.com/'
+    feed_url: 'http://schlichtheit.com/feed/'
   - title: Digitaler Minimalismus
     slogan: Reduziere dein Leben auf das Wesentliche!
     description: >-
@@ -119,8 +119,8 @@ entries:
       consequat.
     owner: Christof Herrmann
     slug: einfach-bewusst
-    url: 'http://www.einfachbewusst.de'
-    feed_url: 'http://www.einfachbewusst.de/feed/'
+    url: 'http://einfachbewusst.de'
+    feed_url: 'http://einfachbewusst.de/feed/'
   - title: Einfach Minimalismus
     slogan: Einfach Minimalismus
     description: >-
@@ -152,8 +152,8 @@ entries:
       consequat.
     owner: Oliver »Finn« Lauberger
     slug: finnsland
-    url: 'http://www.finnsland.net/blog/'
-    feed_url: 'http://www.finnsland.net/blog/?feed=rss2'
+    url: 'http://finnsland.net/blog/'
+    feed_url: 'http://finnsland.net/blog/?feed=rss2'
   - title: Flussabwärts
     slogan: Persönlichkeitsentwicklung zum eigenen Leben
     description: >-
@@ -185,8 +185,19 @@ entries:
       consequat.
     owner: ''
     slug: frau-ding-dongs-leben
-    url: 'http://www.schwingelschwingeldingdong.com'
-    feed_url: 'http://www.schwingelschwingeldingdong.com/feed'
+    url: 'http://schwingelschwingeldingdong.com'
+    feed_url: 'http://schwingelschwingeldingdong.com/feed'
+  - title: Erleichtert
+    slogan: 'Ein Blog über Minimalismus & die wesentlichen Dinge im Leben'
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: ''
+    slug: erleichtert
+    url: 'https://erleichtert.net'
+    feed_url: 'https://erleichtert.net/feed'
   - title: Frau Momos Minimalismus
     slogan: Das Leben erleichtern und bereichern
     description: >-
@@ -207,7 +218,7 @@ entries:
       consequat.
     owner: Fraxa
     slug: fraxa
-    url: 'http://www.fraxa.ch'
+    url: 'http://fraxa.ch'
     feed_url: ''
   - title: Genug haben
     slogan: 'Genug haben, mehr sein'
@@ -229,7 +240,7 @@ entries:
       consequat.
     owner: Karoline Kusebauch
     slug: karo-kafka
-    url: 'http://www.karokafka.net'
+    url: 'http://karokafka.net'
     feed_url: ''
   - title: Kaufdiät
     slogan: 'Weniger konsumieren, mehr genießen'
@@ -288,8 +299,8 @@ entries:
       consequat.
     owner: Rachel Suhre
     slug: mama-denkt
-    url: 'http://www.mamadenkt.de'
-    feed_url: 'http://www.mamadenkt.de/feed/'
+    url: 'http://mamadenkt.de'
+    feed_url: 'http://mamadenkt.de/feed/'
   - title: Manas Glücksfinder
     slogan: 'Suche nach dem Glücks-Moment, der einfach bleibt.'
     description: >-
@@ -299,9 +310,9 @@ entries:
       consequat.
     owner: Gero Regenbrecht
     slug: manas-gluecksfinder
-    url: 'http://www.manas-gluecksfinder.de'
-    feed_url: 'http://www.manas-gluecksfinder.de/feed/'
-  - title: Marco Mattheis
+    url: 'http://manas-gluecksfinder.de'
+    feed_url: 'http://manas-gluecksfinder.de/feed/'
+  - title: Ein Minimalist erzählt
     slogan: Mein Minimalismus und seine Folgen
     description: >-
       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -310,8 +321,8 @@ entries:
       consequat.
     owner: Marco Mattheis
     slug: marco-mattheis
-    url: 'http://marco-mattheis.com'
-    feed_url: 'http://marco-mattheis.com/feed/'
+    url: 'http://einminimalist.de'
+    feed_url: 'http://einminimalist.de/feed/'
   - title: marie minimalisiert
     slogan: Praktisch umsetzbare Tipps zum minimalistischeren Leben
     description: >-
@@ -365,7 +376,7 @@ entries:
       consequat.
     owner: Fair Moves / Jasmin Mittag
     slug: minimalismus-jetzt
-    url: 'http://www.minimalismus.jetzt'
+    url: 'http://minimalismus.jetzt'
     feed_url: ''
   - title: Minimalismus leben
     slogan: Minimalismus-Blog von Michael Klumb
@@ -376,8 +387,8 @@ entries:
       consequat.
     owner: Michael Klumb
     slug: minimalismus-leben
-    url: 'http://www.minimalismus-leben.de'
-    feed_url: 'http://www.minimalismus-leben.de/feed/'
+    url: 'http://minimalismus-leben.de'
+    feed_url: 'http://minimalismus-leben.de/feed/'
   - title: Minimalismus Podcast
     slogan: Der Podcast über Minimalismus von Michael Klumb und Daniel Siewert
     description: >-
@@ -387,8 +398,8 @@ entries:
       consequat.
     owner: Michael Klumb
     slug: minimalismus-podcast
-    url: 'http://www.minimalismus-podcast.de'
-    feed_url: 'http://www.minimalismus-podcast.de/feed/podcast/'
+    url: 'http://minimalismus-podcast.de'
+    feed_url: 'http://minimalismus-podcast.de/feed/podcast/'
   - title: Minimalismus Stammtisch
     slogan: Alle Minimalisten-Treffen deutschlandweit
     description: >-
@@ -398,8 +409,8 @@ entries:
       consequat.
     owner: Michael Klumb
     slug: minimalismus-stammtisch
-    url: 'http://www.minimalismus-stammtisch.de'
-    feed_url: 'http://www.minimalismus-stammtisch.de/feed/'
+    url: 'http://minimalismus-stammtisch.de'
+    feed_url: 'http://minimalismus-stammtisch.de/feed/'
   - title: minimalismus und mehr
     slogan: Minimalismus-Blog
     description: >-
@@ -455,19 +466,8 @@ entries:
       consequat.
     owner: ''
     slug: minimalistenfreunde
-    url: 'http://www.minimalistenfreun.de'
-    feed_url: 'http://www.minimalistenfreun.de/feed/'
-  - title: Minimalistisch denken
-    slogan: Minimalismus-Blog von Jörn aus Köln
-    description: >-
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.
-    owner: Jörn Heidrath
-    slug: minimalistisch-denken
-    url: 'http://minimalistisch-denken.de'
-    feed_url: 'http://minimalistisch-denken.de/feed/'
+    url: 'http://minimalistenfreun.de'
+    feed_url: 'http://minimalistenfreun.de/feed/'
   - title: Minimalistisch Lebende
     slogan: ...macht Pause.
     description: >-
@@ -477,7 +477,7 @@ entries:
       consequat.
     owner: ''
     slug: minimalistisch-lebende
-    url: 'http://www.minimalistisch-leben.de'
+    url: 'http://minimalistisch-leben.de'
     feed_url: ''
   - title: Minimalistisch
     slogan: More money for adventures
@@ -543,8 +543,8 @@ entries:
       consequat.
     owner: Daniel Bayer
     slug: pooly-net
-    url: 'http://www.pooly.net'
-    feed_url: 'http://www.pooly.net/feed/'
+    url: 'http://pooly.net'
+    feed_url: 'http://pooly.net/feed/'
   - title: Projekt Einfachheit
     slogan: 'Entdecke, was zählt...'
     description: >-
@@ -587,8 +587,8 @@ entries:
       consequat.
     owner: Manuel Suhre
     slug: schaumimohr
-    url: 'http://www.schaumimohr.de'
-    feed_url: 'http://www.schaumimohr.de/feed/'
+    url: 'http://schaumimohr.de'
+    feed_url: 'http://schaumimohr.de/feed/'
   - title: Simplizist
     slogan: 'Weniger arbeiten, mehr Leben'
     description: >-
@@ -622,17 +622,6 @@ entries:
     slug: spend-out
     url: 'http://spend-out.blogspot.de'
     feed_url: 'http://spend-out.blogspot.com/feeds/posts/default'
-  - title: Spielzeugfrei
-    slogan: Minimalismusblog mit Schwerpunkt Kinderzimmer
-    description: >-
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.
-    owner: Paula Pülz
-    slug: spielzeugfrei
-    url: 'http://spielzeugfreies-kinderzimmer.de'
-    feed_url: 'http://spielzeugfreies-kinderzimmer.de/feed/'
   - title: Umschlagbahnhof
     slogan: Wunderfitzig und überzwerch
     description: >-
@@ -697,7 +686,7 @@ entries:
       consequat.
     owner: ''
     slug: zebrastreifenwieauchgartenzaun
-    url: 'http://www.zebrastreifenwieauchgartenzaun.de'
+    url: 'http://zebrastreifenwieauchgartenzaun.de'
     feed_url: 'http://feeds.feedburner.com/zebrastreifenwieauchgartenzaun'
   - title: Zora minimiert
     slogan: Minimalismus und Naturkosmetik
