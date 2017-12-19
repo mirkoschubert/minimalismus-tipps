@@ -18,7 +18,7 @@ class Generate {
 
   blogs() {
 
-    var self    = this,
+    let self    = this,
         blogs   = yaml.safeLoad(fs.readFileSync(rp + self.files.blogs.yaml, 'utf-8'));
 
     if (Generate.noDuplicateSlugs(blogs.entries)) {
@@ -39,6 +39,25 @@ class Generate {
   links() {
 
 
+
+  }
+
+  categories() {
+
+    let self        = this,
+        categories  = yaml.safeLoad(fs.readFileSync(rp + self.files.categories.yaml, 'utf-8'));
+
+    if (Generate.noDuplicateSlugs(categories.entries)) {
+      categories.entries.forEach(category => {
+        try {
+          Generate.saveCategory(category, Generate.path2file(category.path, "categories"));
+          console.log(chalk.red(category.title) + " saved.");
+        } catch(err) {
+          console.log(err);
+        }
+      });
+    }
+
   }
 
   static saveBlogEntry(blog, filename) {
@@ -46,6 +65,21 @@ class Generate {
     let data = { title: blog.title, date: moment(new Date()).format(), draft: true };
     let frontmatter = "---\n" + yaml.safeDump(data) + "---\n\n";
     let content = blog.description;
+
+    fs.writeFile(filename, frontmatter + content, (err) => {
+      if (err) throw err;
+      return true;
+    });
+  }
+
+  static saveCategory(category, filename) {
+
+    let checkDir = filename.replace('_index.md', '');
+    let data = { title: category.title, weight: category.weight };
+    let frontmatter = "---\n" + yaml.safeDump(data) + "---\n\n";
+    let content = category.description;
+
+    if (!fs.existsSync(checkDir)) fs.ensureDirSync(checkDir);
 
     fs.writeFile(filename, frontmatter + content, (err) => {
       if (err) throw err;
@@ -73,15 +107,23 @@ class Generate {
         sitePath  = path.split('/').filter((x) => { return (x != (undefined || null || '')) }),
         rootPath  = rp.path.split('/').filter((x) => { return (x != (undefined || null || '')) });
 
-    if (sitePath[0] !== pathType) return;
+    if (pathType !== 'categories' && sitePath[0] !== pathType) return;
 
     for (let i = 0; i < rootPath.length - 1; i++) {
       p += rootPath[i] + '/';
     }
     p += 'content/';
-    for (let i = 0; i < sitePath.length; i++) {
-      p += (i + 1 !== sitePath.length) ? sitePath[i] + '/' : sitePath[i] + '.md';
+
+    if (pathType !== 'categories') {
+      for (let i = 0; i < sitePath.length; i++) {
+        p += (i + 1 !== sitePath.length) ? sitePath[i] + '/' : sitePath[i] + '.md';
+      }
+    } else {
+      for (let i = 0; i < sitePath.length; i++) {
+        p += (i + 1 !== sitePath.length) ? sitePath[i] + '/' : sitePath[i] + '/_index.md';
+      }      
     }
+
     return p;
   }
 

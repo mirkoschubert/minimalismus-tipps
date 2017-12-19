@@ -50,6 +50,7 @@ app
   .description('Generates all blog entries for Hugo')
   .action(() => {
     generate.blogs();
+    generate.categories();
     generate.links();
   });
 
@@ -62,6 +63,11 @@ app
   .command('generate:links')
   .description('Generates all link entries for Hugo')
   .action(() => generate.links());
+
+app
+  .command('generate:categories')
+  .description('Generates all link categories for Hugo')
+  .action(() => generate.categories());
 
 
 app.parse(process.argv);

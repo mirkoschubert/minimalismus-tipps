@@ -239,8 +239,8 @@ entries:
       consequat.
     owner: Karoline Kusebauch
     path: /blogs/karo-kafka/
-    url: 'http://karokafka.net'
-    feed_url: ''
+    url: 'http://www.karokafka.net'
+    feed_url: 'http://www.karokafka.net/feeds/posts/default/'
   - title: Kaufdiät
     slogan: 'Weniger konsumieren, mehr genießen'
     description: >-
@@ -300,7 +300,7 @@ entries:
     path: /blogs/mama-denkt/
     url: 'http://mamadenkt.de'
     feed_url: 'http://mamadenkt.de/feed/'
-  - title: Manas Glücksfinder
+  - title: Manas Moments
     slogan: 'Suche nach dem Glücks-Moment, der einfach bleibt.'
     description: >-
       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -308,9 +308,9 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Gero Regenbrecht
-    path: /blogs/manas-gluecksfinder/
-    url: 'http://manas-gluecksfinder.de'
-    feed_url: 'http://manas-gluecksfinder.de/feed/'
+    path: /blogs/manas-moments/
+    url: 'http://manas-moments.com'
+    feed_url: 'http://manas-moments.com/feed/'
   - title: Ein Minimalist erzählt
     slogan: Mein Minimalismus und seine Folgen
     description: >-
