@@ -1,5 +1,5 @@
 ---
 title: Loswerden / Entrümpeln
-weight: 1
+weight: 2
 ---
 

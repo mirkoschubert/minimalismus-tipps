@@ -1,5 +1,5 @@
 ---
 title: Einkaufen / Konsum
-weight: 3
+weight: 4
 ---
 

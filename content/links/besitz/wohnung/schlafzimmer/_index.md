@@ -1,5 +1,5 @@
 ---
 title: Schlafzimmer
-weight: 0
+weight: 1
 ---
 

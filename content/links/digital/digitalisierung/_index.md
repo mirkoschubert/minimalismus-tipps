@@ -1,5 +1,5 @@
 ---
 title: Digitalisierung
-weight: 0
+weight: 1
 ---
 

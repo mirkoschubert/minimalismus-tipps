@@ -1,5 +1,5 @@
 ---
 title: Körperpflege
-weight: 1
+weight: 2
 ---
 

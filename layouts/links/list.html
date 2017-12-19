@@ -1,3 +1,21 @@
 {{ define "content" }}
+  {{ if gt (len $.Page.Sections) 0 }}
+    <h2>Kategorien</h2>
+    <ul class="nav nav-categories">
+    {{ range $sec := $.Page.Sections }}
+      <li><a href="{{ $sec.URL }}">{{ $sec.Title }}</a> <span class="count">({{ $sec.Params.weight }})</span>
+      {{ if gt (len $sec.Sections) 0 }}
+        <ul class="nav nav-subcategory">
+        {{ range $sub := $sec.Sections }}
+          <li><a href="{{ $sub.URL }}">{{ $sub.Title }}</a> <span class="count">({{ $sub.Params.weight}})</span></li>
+        {{ end }}
+        </ul></li>
+      {{ else }}
+        </li>
+      {{ end }}     
+    {{ end }}
+    </ul>
+  {{ end }}
   {{ .Content }}
+
 {{ end }}

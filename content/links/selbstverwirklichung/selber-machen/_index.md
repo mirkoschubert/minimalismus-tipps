@@ -1,5 +1,5 @@
 ---
 title: Selber machen / DIY
-weight: 0
+weight: 1
 ---
 

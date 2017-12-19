@@ -1,5 +1,5 @@
 ---
 title: Kreativität
-weight: 1
+weight: 2
 ---
 

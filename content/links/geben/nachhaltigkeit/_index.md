@@ -1,5 +1,5 @@
 ---
 title: Nachhaltigkeit
-weight: 1
+weight: 2
 ---
 

@@ -1,56 +1,4 @@
 entries:
-  - title: Arbeit / Karriere
-    description: ''
-    path: /links/arbeit/
-    weight: 7
-  - title: Produktivität
-    description: ''
-    path: /links/arbeit/produktivitaet/
-    weight: 0
-  - title: Besitz
-    description: ''
-    path: /links/besitz/
-    weight: 2
-  - title: Einkaufen / Konsum
-    description: ''
-    path: /links/besitz/einkaufen/
-    weight: 3
-  - title: Kleidung / Kleiderschrank
-    description: ''
-    path: /links/besitz/kleidung/
-    weight: 1
-  - title: Mobilität
-    description: ''
-    path: /links/besitz/mobilitaet/
-    weight: 2
-  - title: Wohnung
-    description: ''
-    path: /links/besitz/wohnung/
-    weight: 0
-  - title: Schlafzimmer
-    description: ''
-    path: /links/besitz/wohnung/schlafzimmer/
-    weight: 0
-  - title: Digital
-    description: ''
-    path: /links/digital/
-    weight: 11
-  - title: Digitalisierung
-    description: ''
-    path: /links/digital/digitalisierung/
-    weight: 0
-  - title: Hardware
-    description: ''
-    path: /links/digital/hardware/
-    weight: 2
-  - title: Medienkonsum
-    description: ''
-    path: /links/digital/medienkonsum/
-    weight: 1
-  - title: Papierarmes Büro
-    description: ''
-    path: /links/digital/papierarmes-buero/
-    weight: 3
   - title: Einstieg
     description: ''
     path: /links/einstieg/
@@ -58,19 +6,37 @@ entries:
   - title: Aktionen / Challenges
     description: ''
     path: /links/einstieg/aktionen/
-    weight: 0
+    weight: 1
   - title: Loswerden / Entrümpeln
     description: ''
     path: /links/einstieg/loswerden/
+    weight: 2
+
+  - title: Besitz
+    description: ''
+    path: /links/besitz/
+    weight: 2
+  - title: Wohnung
+    description: ''
+    path: /links/besitz/wohnung/
     weight: 1
-  - title: Spaß / Erholung
+  - title: Schlafzimmer
     description: ''
-    path: /links/erholung/
-    weight: 6
-  - title: Urlaub / Reisen
+    path: /links/besitz/wohnung/schlafzimmer/
+    weight: 1
+  - title: Kleidung / Kleiderschrank
     description: ''
-    path: /links/erholung/reisen/
-    weight: 0
+    path: /links/besitz/kleidung/
+    weight: 2
+  - title: Mobilität
+    description: ''
+    path: /links/besitz/mobilitaet/
+    weight: 3
+  - title: Einkaufen / Konsum
+    description: ''
+    path: /links/besitz/einkaufen/
+    weight: 4
+
   - title: Familie / Freunde
     description: ''
     path: /links/familie/
@@ -78,7 +44,52 @@ entries:
   - title: Kinder
     description: ''
     path: /links/familie/kinder/
-    weight: 0
+    weight: 1
+
+  - title: Partnerschaft
+    description: ''
+    path: /links/partnerschaft/
+    weight: 4
+
+  - title: Gesundheit
+    description: ''
+    path: /links/gesundheit/
+    weight: 5
+  - title: Ernährung
+    description: ''
+    path: /links/gesundheit/ernaehrung/
+    weight: 1
+  - title: Körperpflege
+    description: ''
+    path: /links/gesundheit/koerperpflege/
+    weight: 2
+  - title: Sport / Fitness
+    description: ''
+    path: /links/gesundheit/fitness/
+    weight: 3
+  - title: Achtsamkeit / Meditation
+    description: ''
+    path: /links/gesundheit/achtsamkeit-meditation/
+    weight: 4
+
+  - title: Spaß / Erholung
+    description: ''
+    path: /links/erholung/
+    weight: 6
+  - title: Urlaub / Reisen
+    description: ''
+    path: /links/erholung/reisen/
+    weight: 1
+
+  - title: Arbeit / Karriere
+    description: ''
+    path: /links/arbeit/
+    weight: 7
+  - title: Produktivität
+    description: ''
+    path: /links/arbeit/produktivitaet/
+    weight: 1
+  
   - title: Finanzen
     description: ''
     path: /links/finanzen/
@@ -86,7 +97,21 @@ entries:
   - title: Sparen
     description: ''
     path: /links/finanzen/sparen/
-    weight: 0
+    weight: 1
+
+  - title: Selbstverwirklichung
+    description: ''
+    path: /links/selbstverwirklichung/
+    weight: 9
+  - title: Selber machen / DIY
+    description: ''
+    path: /links/selbstverwirklichung/selber-machen/
+    weight: 1
+  - title: Kreativität
+    description: ''
+    path: /links/selbstverwirklichung/kreativitaet/
+    weight: 2
+
   - title: Geben / Altruismus
     description: ''
     path: /links/geben/
@@ -94,48 +119,34 @@ entries:
   - title: Geschenke
     description: ''
     path: /links/geben/geschenke/
-    weight: 0
+    weight: 1
   - title: Nachhaltigkeit
     description: ''
     path: /links/geben/nachhaltigkeit/
-    weight: 1
-  - title: Gesundheit
-    description: ''
-    path: /links/gesundheit/
-    weight: 5
-  - title: Achtsamkeit / Meditation
-    description: ''
-    path: /links/gesundheit/achtsamkeit-meditation/
-    weight: 3
-  - title: Ernährung
-    description: ''
-    path: /links/gesundheit/ernaehrung/
-    weight: 0
-  - title: Sport / Fitness
-    description: ''
-    path: /links/gesundheit/fitness/
     weight: 2
-  - title: Körperpflege
+
+  - title: Digital
     description: ''
-    path: /links/gesundheit/koerperpflege/
+    path: /links/digital/
+    weight: 11
+  - title: Digitalisierung
+    description: ''
+    path: /links/digital/digitalisierung/
     weight: 1
+  - title: Medienkonsum
+    description: ''
+    path: /links/digital/medienkonsum/
+    weight: 2
+  - title: Hardware
+    description: ''
+    path: /links/digital/hardware/
+    weight: 3
+  - title: Papierarmes Büro
+    description: ''
+    path: /links/digital/papierarmes-buero/
+    weight: 4
+
   - title: Kostenlose Angebote
     description: ''
     path: /links/kostenlos/
-    weight: 11
-  - title: Partnerschaft
-    description: ''
-    path: /links/partnerschaft/
-    weight: 4
-  - title: Selbstverwirklichung
-    description: ''
-    path: /links/selbstverwirklichung/
-    weight: 9
-  - title: Kreativität
-    description: ''
-    path: /links/selbstverwirklichung/kreativitaet/
-    weight: 1
-  - title: Selber machen / DIY
-    description: ''
-    path: /links/selbstverwirklichung/selber-machen/
-    weight: 0
+    weight: 12

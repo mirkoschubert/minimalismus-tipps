@@ -1,5 +1,5 @@
 ---
 title: Achtsamkeit / Meditation
-weight: 3
+weight: 4
 ---
 
