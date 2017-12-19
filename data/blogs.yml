@@ -7,10 +7,9 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Anja Riedel
-    slug: einfacheinfach-leben
+    path: /blogs/einfacheinfach-leben/
     url: 'http://einfacheinfachleben.blogspot.de'
     feed_url: 'http://einfacheinfachleben.blogspot.com/feeds/posts/default'
-
   - title: Afschin
     slogan: 'Inspirationsblog Achtsamkeit, Meditation und mehr Freude im Leben'
     description: >-
@@ -19,7 +18,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Afschin Kamrani
-    slug: afschin
+    path: /blogs/afschin/
     url: 'http://afschin.com'
     feed_url: 'http://afschin.com/rss/'
   - title: Achtsame Lebenskunst
@@ -30,7 +29,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Gabi Raeggel
-    slug: achtsame-lebenskunst
+    path: /blogs/achtsame-lebenskunst/
     url: 'http://achtsame-lebenskunst.de'
     feed_url: 'http://achtsame-lebenskunst.de/feed/'
   - title: Alex Rubenbauer
@@ -41,7 +40,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Alex Rubenbauer
-    slug: alex-rubenbauer
+    path: /blogs/alex-rubenbauer/
     url: 'http://alex-rubenbauer.de'
     feed_url: 'http://alex-rubenbauer.de/rss/'
   - title: alfa ZENtauri
@@ -52,7 +51,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Mike Lippoldt
-    slug: alfa-zentauri
+    path: /blogs/alfa-zentauri/
     url: 'http://alfazentauri.com'
     feed_url: 'http://feeds.feedburner.com/alfazentauri?format=xml'
   - title: Apfelmädchen & sadfsh
@@ -63,7 +62,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: 'Svenja Sgodda, Marc Lentvogt'
-    slug: apfelmaedchen
+    path: /blogs/apfelmaedchen/
     url: 'http://apfelmaedchen.de'
     feed_url: 'http://apfelmaedchen.de/feed/'
   - title: Babs ist Grün
@@ -74,7 +73,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Babett Grün
-    slug: babs-gruen
+    path: /blogs/babs-gruen/
     url: 'http://babs-ist-gruen.de'
     feed_url: 'http://babs-ist-gruen.de/feed/'
   - title: Denis Sandmann
@@ -85,7 +84,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Denis Sandmann
-    slug: denis-sandmann
+    path: /blogs/denis-sandmann/
     url: 'https://sandmann.co/de/category/minimalismus/'
     feed_url: 'https://sandmann.co/de/feed/'
   - title: Die Entdeckung der Schlichtheit
@@ -96,7 +95,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Daniel Siewert
-    slug: die-entdeckung-der-schlichtheit
+    path: /blogs/die-entdeckung-der-schlichtheit/
     url: 'http://schlichtheit.com/'
     feed_url: 'http://schlichtheit.com/feed/'
   - title: Digitaler Minimalismus
@@ -107,7 +106,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Mirko Schubert
-    slug: digitaler-minimalismus
+    path: /blogs/digitaler-minimalismus/
     url: 'https://digitaler-minimalismus.de'
     feed_url: 'https://digitaler-minimalismus.de/feed'
   - title: Einfach bewusst
@@ -118,7 +117,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Christof Herrmann
-    slug: einfach-bewusst
+    path: /blogs/einfach-bewusst/
     url: 'http://einfachbewusst.de'
     feed_url: 'http://einfachbewusst.de/feed/'
   - title: Einfach Minimalismus
@@ -129,7 +128,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Andrea Steinberg
-    slug: einfach-minimalismus
+    path: /blogs/einfach-minimalismus/
     url: 'http://einfach-minimalismus.wixsite.com/einfach-minimalismus'
     feed_url: ''
   - title: Experiment Selbstversorgung
@@ -140,7 +139,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Michael Hartl
-    slug: experiment-selbstversorgung
+    path: /blogs/experiment-selbstversorgung/
     url: 'http://experimentselbstversorgung.net'
     feed_url: 'http://feeds.feedburner.com/ExperimentSelbstversorgung'
   - title: Finnsland
@@ -151,7 +150,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Oliver »Finn« Lauberger
-    slug: finnsland
+    path: /blogs/finnsland/
     url: 'http://finnsland.net/blog/'
     feed_url: 'http://finnsland.net/blog/?feed=rss2'
   - title: Flussabwärts
@@ -162,7 +161,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Mirko Schubert
-    slug: flussabwaerts
+    path: /blogs/flussabwaerts/
     url: 'https://flussabwaerts.de/'
     feed_url: 'https://flussabwaerts.de/feed'
   - title: Fräulein im Glück
@@ -173,7 +172,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Birgit Ottendorfer
-    slug: fraeulein-im-glueck
+    path: /blogs/fraeulein-im-glueck/
     url: 'http://suchtdasglueck.at'
     feed_url: 'http://feeds.feedburner.com/FruleinImGlck'
   - title: Frau Ding Dongs Leben
@@ -184,7 +183,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: frau-ding-dongs-leben
+    path: /blogs/frau-ding-dongs-leben/
     url: 'http://schwingelschwingeldingdong.com'
     feed_url: 'http://schwingelschwingeldingdong.com/feed'
   - title: Erleichtert
@@ -195,7 +194,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: erleichtert
+    path: /blogs/erleichtert/
     url: 'https://erleichtert.net'
     feed_url: 'https://erleichtert.net/feed'
   - title: Frau Momos Minimalismus
@@ -206,7 +205,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Barbara Bünger
-    slug: frau-momos-minimalismus
+    path: /blogs/frau-momos-minimalismus/
     url: 'http://fraumomosminimalismus.ch'
     feed_url: 'http://fraumomosminimalismus.ch/feed'
   - title: Fraxa
@@ -217,7 +216,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Fraxa
-    slug: fraxa
+    path: /blogs/fraxa/
     url: 'http://fraxa.ch'
     feed_url: ''
   - title: Genug haben
@@ -228,7 +227,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Frank Wolf
-    slug: genug-haben
+    path: /blogs/genug-haben/
     url: 'http://genughaben.de/'
     feed_url: 'http://genughaben.de/feed/'
   - title: Karo Kafka
@@ -239,7 +238,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Karoline Kusebauch
-    slug: karo-kafka
+    path: /blogs/karo-kafka/
     url: 'http://karokafka.net'
     feed_url: ''
   - title: Kaufdiät
@@ -250,7 +249,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: kaufdiaet
+    path: /blogs/kaufdiaet/
     url: 'https://kaufdiaet.wordpress.com'
     feed_url: 'https://kaufdiaet.wordpress.com/feed/'
   - title: Konsumblockade
@@ -261,7 +260,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: konsumblockade
+    path: /blogs/konsumblockade/
     url: 'https://konsumblockade.wordpress.com'
     feed_url: 'https://konsumblockade.wordpress.com/feed/'
   - title: Kunterbuntes Allerlei
@@ -274,7 +273,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: kunterbuntes-allerlei
+    path: /blogs/kunterbuntes-allerlei/
     url: 'https://kunterbunt11.wordpress.com'
     feed_url: 'https://kunterbunt11.wordpress.com/feed/'
   - title: MalMini
@@ -285,7 +284,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Pia Mester
-    slug: malmini
+    path: /blogs/malmini/
     url: 'http://malmini.de'
     feed_url: 'http://malmini.de/feed/'
   - title: Mama denkt
@@ -298,7 +297,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Rachel Suhre
-    slug: mama-denkt
+    path: /blogs/mama-denkt/
     url: 'http://mamadenkt.de'
     feed_url: 'http://mamadenkt.de/feed/'
   - title: Manas Glücksfinder
@@ -309,7 +308,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Gero Regenbrecht
-    slug: manas-gluecksfinder
+    path: /blogs/manas-gluecksfinder/
     url: 'http://manas-gluecksfinder.de'
     feed_url: 'http://manas-gluecksfinder.de/feed/'
   - title: Ein Minimalist erzählt
@@ -320,7 +319,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Marco Mattheis
-    slug: marco-mattheis
+    path: /blogs/marco-mattheis/
     url: 'http://einminimalist.de'
     feed_url: 'http://einminimalist.de/feed/'
   - title: marie minimalisiert
@@ -331,7 +330,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: marie-minimalisiert
+    path: /blogs/marie-minimalisiert/
     url: 'https://marieminimalisiert.wordpress.com'
     feed_url: 'https://marieminimalisiert.wordpress.com/feed/'
   - title: Mini.Me.
@@ -342,7 +341,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Monica Albrecht
-    slug: mini-me
+    path: /blogs/mini-me/
     url: 'http://minime.life'
     feed_url: 'http://minime.life/feed/'
   - title: Minima Muse
@@ -353,7 +352,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Dörte Giebel
-    slug: minima-muse
+    path: /blogs/minima-muse/
     url: 'https://minimamuse.wordpress.com'
     feed_url: 'https://minimamuse.wordpress.com/feed/'
   - title: Minimalismus 101
@@ -364,7 +363,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: minimalismus-101
+    path: /blogs/minimalismus-101/
     url: 'http://minimalismus101.blogspot.de'
     feed_url: 'http://feeds.feedburner.com/Minimalismus101'
   - title: Minimalismus JETZT!
@@ -375,7 +374,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Fair Moves / Jasmin Mittag
-    slug: minimalismus-jetzt
+    path: /blogs/minimalismus-jetzt/
     url: 'http://minimalismus.jetzt'
     feed_url: ''
   - title: Minimalismus leben
@@ -386,7 +385,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Michael Klumb
-    slug: minimalismus-leben
+    path: /blogs/minimalismus-leben/
     url: 'http://minimalismus-leben.de'
     feed_url: 'http://minimalismus-leben.de/feed/'
   - title: Minimalismus Podcast
@@ -397,7 +396,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Michael Klumb
-    slug: minimalismus-podcast
+    path: /blogs/minimalismus-podcast/
     url: 'http://minimalismus-podcast.de'
     feed_url: 'http://minimalismus-podcast.de/feed/podcast/'
   - title: Minimalismus Stammtisch
@@ -408,7 +407,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Michael Klumb
-    slug: minimalismus-stammtisch
+    path: /blogs/minimalismus-stammtisch/
     url: 'http://minimalismus-stammtisch.de'
     feed_url: 'http://minimalismus-stammtisch.de/feed/'
   - title: minimalismus und mehr
@@ -419,7 +418,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: minimalismus-und-mehr
+    path: /blogs/minimalismus-und-mehr/
     url: 'https://minimalismusundmehr.wordpress.com'
     feed_url: 'https://minimalismusundmehr.wordpress.com/feed/'
   - title: Minimalismus21
@@ -432,7 +431,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: A. Numberger
-    slug: minimalismus21
+    path: /blogs/minimalismus21/
     url: 'http://minimalismus21.de'
     feed_url: 'http://minimalismus21.de/feed/'
   - title: Minimalismusblog
@@ -443,7 +442,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: minimalismusblog
+    path: /blogs/minimalismusblog/
     url: 'http://minimalismusblog.tumblr.com'
     feed_url: 'http://minimalismusblog.tumblr.com/rss'
   - title: minimalisten.org
@@ -454,7 +453,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: minimalisten-org
+    path: /blogs/minimalisten-org/
     url: 'https://minimalisten.org'
     feed_url: ''
   - title: Minimalistenfreun.de
@@ -465,7 +464,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: minimalistenfreunde
+    path: /blogs/minimalistenfreunde/
     url: 'http://minimalistenfreun.de'
     feed_url: 'http://minimalistenfreun.de/feed/'
   - title: Minimalistisch Lebende
@@ -476,7 +475,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: minimalistisch-lebende
+    path: /blogs/minimalistisch-lebende/
     url: 'http://minimalistisch-leben.de'
     feed_url: ''
   - title: Minimalistisch
@@ -487,7 +486,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Silke Jankowski
-    slug: minimalistisch
+    path: /blogs/minimalistisch/
     url: 'http://minimalisch.de'
     feed_url: 'http://minimalisch.de/feed/'
   - title: minimalkonzept
@@ -498,7 +497,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Huong Tran
-    slug: minimalkonzept
+    path: /blogs/minimalkonzept/
     url: 'http://minimalkonzept.de'
     feed_url: 'http://minimalkonzept.de/?feed=rss2'
   - title: Minimalprinzip
@@ -509,7 +508,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: minimalprinzip
+    path: /blogs/minimalprinzip/
     url: 'http://minimalprinzip.blogspot.de'
     feed_url: 'http://minimalprinzip.blogspot.com/feeds/posts/default'
   - title: Mr. Minimalist
@@ -520,7 +519,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: mr-minimalist
+    path: /blogs/mr-minimalist/
     url: 'http://mrminimalist.com'
     feed_url: 'http://mrminimalist.com/feed/'
   - title: myMONK
@@ -531,7 +530,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: jucknix GmbH / Tim Schlenzig
-    slug: mymonk
+    path: /blogs/mymonk/
     url: 'http://mymonk.de'
     feed_url: 'http://mymonk.de/feed/'
   - title: Pooly.net
@@ -542,7 +541,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Daniel Bayer
-    slug: pooly-net
+    path: /blogs/pooly-net/
     url: 'http://pooly.net'
     feed_url: 'http://pooly.net/feed/'
   - title: Projekt Einfachheit
@@ -553,7 +552,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Stephanie Lehnert
-    slug: projekt-einfachheit
+    path: /blogs/projekt-einfachheit/
     url: 'https://projekt-einfachheit.com'
     feed_url: 'https://projekt-einfachheit.com/feed/'
   - title: QuerfeldRein
@@ -564,7 +563,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: querfeldrein
+    path: /blogs/querfeldrein/
     url: 'https://querfeldrein.wordpress.com'
     feed_url: 'https://querfeldrein.wordpress.com/feed/'
   - title: Roadfamily
@@ -575,7 +574,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Roadfamily LLC
-    slug: roadfamily
+    path: /blogs/roadfamily/
     url: 'http://roadfamily.com'
     feed_url: 'http://roadfamily.com/feed/'
   - title: SchaumImOhr
@@ -586,7 +585,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Manuel Suhre
-    slug: schaumimohr
+    path: /blogs/schaumimohr/
     url: 'http://schaumimohr.de'
     feed_url: 'http://schaumimohr.de/feed/'
   - title: Simplizist
@@ -597,7 +596,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Jörg Faber
-    slug: simplizist
+    path: /blogs/simplizist/
     url: 'http://simplizist.de'
     feed_url: 'http://feeds.feedburner.com/Simplizist'
   - title: Sina Jasur
@@ -607,8 +606,8 @@ entries:
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
-    owner: Anja Schüler-Renner
-    slug: sina-jasur
+    owner: Sina Jasur
+    path: /blogs/sina-jasur/
     url: 'http://sina-jasur.de'
     feed_url: 'http://sina-jasur.de/feed/'
   - title: Spend out!
@@ -619,7 +618,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: spend-out
+    path: /blogs/spend-out/
     url: 'http://spend-out.blogspot.de'
     feed_url: 'http://spend-out.blogspot.com/feeds/posts/default'
   - title: Umschlagbahnhof
@@ -630,7 +629,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: umschlagbahnhof
+    path: /blogs/umschlagbahnhof/
     url: 'https://umschlagbahnhof.wordpress.com'
     feed_url: 'https://umschlagbahnhof.wordpress.com/feed/'
   - title: von allem zu viel.
@@ -641,7 +640,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: von-allem-zu-viel
+    path: /blogs/von-allem-zu-viel/
     url: 'https://vonallemzuviel.wordpress.com'
     feed_url: 'https://vonallemzuviel.wordpress.com/feed/'
   - title: Weggedacht
@@ -652,7 +651,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Christian Voecks
-    slug: weggedacht
+    path: /blogs/weggedacht/
     url: 'http://weggedacht.de'
     feed_url: 'http://weggedacht.de/feed/'
   - title: wenig reicht auch
@@ -663,7 +662,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: Andrea Blunck
-    slug: wenig-reicht-auch
+    path: /blogs/wenig-reicht-auch/
     url: 'https://wenigreichtauch.de'
     feed_url: 'http://wenigreichtauch.de/feed/rss'
   - title: widerstandistzweckmaessig
@@ -674,7 +673,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: widerstandistzweckmaessig
+    path: /blogs/widerstandistzweckmaessig/
     url: 'https://widerstandistzweckmaessig.wordpress.com'
     feed_url: 'https://widerstandistzweckmaessig.wordpress.com/feed/'
   - title: ZebrastreifenwieauchGartenzaun
@@ -685,7 +684,7 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: zebrastreifenwieauchgartenzaun
+    path: /blogs/zebrastreifenwieauchgartenzaun/
     url: 'http://zebrastreifenwieauchgartenzaun.de'
     feed_url: 'http://feeds.feedburner.com/zebrastreifenwieauchgartenzaun'
   - title: Zora minimiert
@@ -696,6 +695,28 @@ entries:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.
     owner: ''
-    slug: zora-minimiert
+    path: /blogs/zora-minimiert/
     url: 'https://zoraminimiert.wordpress.com'
     feed_url: 'https://zoraminimiert.wordpress.com/feed/'
+  - title: Feine Seele
+    slogan: Deine neuen Seiten
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: 'Stefanie Adam'
+    path: /blogs/feine-seele/
+    url: 'https://feineseele.de'
+    feed_url: 'https://feineseele.de/feed/'
+  - title: Simplify Yourself
+    slogan: Einfach einfacher leben
+    description: >-
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.
+    owner: 'Timo Möbes'
+    path: /blogs/simplify-yourself/
+    url: 'http://simplify-yourself.com'
+    feed_url: 'http://simplify-yourself.com/feed/'

@@ -1,0 +1,19 @@
+{{ define "content" }}
+  
+   {{ range .Site.Data.blogs.entries }}
+      {{ if eq $.Page.Title .title }}
+
+        <h2>{{ .slogan }}</h2>
+        {{ $.Page.Content }}
+        {{ if (ne .owner "") }}<p>Betreiber: {{ .owner }}</p>{{ end }}
+
+        <ul class="nav">
+          {{ if (ne .url "")}}<li><a href="{{ .url }}" target="_blank">Besuche {{ .title }}</a></li>{{ end }}
+          {{ if (ne .feed_url "")}}<li><a href="{{ .feed_url }}">Abonniere RSS-Feed</a></li>{{ end }}
+        </ul>
+      {{ end }}
+   {{ end }}
+
+   <h3>Empfohlene Artikel</h3>
+   <p>Noch keine Links eingetragen.</p>
+{{ end }}

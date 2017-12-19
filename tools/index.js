@@ -6,15 +6,17 @@ const app         = require('commander'),
       fse         = require('fs-extra'),
       yaml        = require('js-yaml'),
       Check       = require('./lib/check'),
-      Migrate     = require('./lib/migrate');
+      Migrate     = require('./lib/migrate'),
+      Generate    = require('./lib/generate');
 
 const check       = new Check(),
-      migrate     = new Migrate();
+      migrate     = new Migrate(),
+      generate    = new Generate();
 
 app
   .version('1.0.0');
 
-app
+/* app
   .command('migrate:blogs')
   .description('Migrates Blogs from a ProcessWire JSON file')
   .action(() => migrate.blogs());
@@ -29,7 +31,7 @@ app
   .command("migrate:wordpress")
   .description("Migrates all links from a WordPress XML file")
   .option("-f, --file [file]", "Path to the WordPress XML file")
-  .action((options) => migrate.wordpress(options));
+  .action((options) => migrate.wordpress(options)); */
 
 
 app
@@ -44,11 +46,23 @@ app
   .action((options) => check.links(options));
 
 app
+  .command('generate:all')
+  .description('Generates all blog entries for Hugo')
+  .action(() => {
+    generate.blogs();
+    generate.links();
+  });
+
+app
   .command('generate:blogs')
   .description('Generates all blog entries for Hugo')
-  .action(function() {
-    console.log('Generating blog sites...');
-  });
+  .action(() => generate.blogs());
+
+app
+  .command('generate:links')
+  .description('Generates all link entries for Hugo')
+  .action(() => generate.links());
+
 
 app.parse(process.argv);
 if (app.args.length === 0) app.help();
