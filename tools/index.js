@@ -7,7 +7,8 @@ const app         = require('commander'),
       yaml        = require('js-yaml'),
       Check       = require('./lib/check'),
       Migrate     = require('./lib/migrate'),
-      Generate    = require('./lib/generate');
+      Generate    = require('./lib/generate'),
+      Database    = require('./lib/database');
 
 const check       = new Check(),
       migrate     = new Migrate(),
@@ -32,6 +33,28 @@ app
   .description("Migrates all links from a WordPress XML file")
   .option("-f, --file [file]", "Path to the WordPress XML file")
   .action((options) => migrate.wordpress(options)); */
+
+app
+  .command('add:link')
+  .description('Adds a new link to the Database')
+  .action(() => {
+
+  });
+  
+app
+  .command('edit:link')
+  .description('Edits a link from the Database')
+  .action(() => {
+
+  });
+
+app
+  .command('delete:link')
+  .description('Deletes a link from the Database')
+  .action(() => {
+
+  });
+
 
 
 app

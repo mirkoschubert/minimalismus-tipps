@@ -1,21 +1,56 @@
 {{ define "content" }}
+  <!-- CATEGORIES -->
   {{ if gt (len $.Page.Sections) 0 }}
     <h2>Kategorien</h2>
     <ul class="nav nav-categories">
     {{ range $sec := $.Page.Sections }}
-      <li><a href="{{ $sec.URL }}">{{ $sec.Title }}</a> <span class="count">({{ $sec.Params.weight }})</span>
-      {{ if gt (len $sec.Sections) 0 }}
-        <ul class="nav nav-subcategory">
-        {{ range $sub := $sec.Sections }}
-          <li><a href="{{ $sub.URL }}">{{ $sub.Title }}</a> <span class="count">({{ $sub.Params.weight}})</span></li>
+      {{ if not $sec.Draft }}
+        {{ $count := where (where $.Site.Data.links.entries "path" $sec.URL) "draft" "!=" true }}
+        <li><a href="{{ $sec.URL | absURL }}">{{ $sec.Title }}</a> <span class="count">({{ len $count }})</span>
+        {{ if gt (len $sec.Sections) 0 }}
+          <ul class="nav nav-subcategory">
+          {{ range $sub := $sec.Sections }}
+            {{ if not $sub.Draft }}
+               {{ $subCount := where (where $.Site.Data.links.entries "path" $sub.URL) "draft" "!=" true }}
+              <li><a href="{{ $sub.URL | absURL }}">{{ $sub.Title }}</a> <span class="count">({{ len $subCount }})</span></li>
+            {{ end }}
+          {{ end }}
+          </ul></li>
+        {{ else }}
+          </li>
         {{ end }}
-        </ul></li>
-      {{ else }}
-        </li>
-      {{ end }}     
+      {{ end }}
     {{ end }}
     </ul>
   {{ end }}
+
+  <!-- COUNT -->
+  {{ $links := where (where $.Site.Data.links.entries "path" $.Page.URL) "draft" "!=" true }}
+  
+  {{ if and (ne (len $links) 0) (ne $.Page.URL "/links/") }}
+    <h2>{{ len $links }} Links zum Thema »{{ $.Page.Title }}«</h2>
+  {{ end }}
+  <!-- LINKS -->
+  
+  {{ range sort $links "date" "desc" }}
+    <article class="link-entry">
+      <h3>
+        <a href="{{ .url }}" target="_blank">{{ .title }}</a>
+        {{ if lt now.Unix (add (time .date).Unix 604800) }}
+        <span class="new-badge">Neu</span>
+        {{ end }}
+      </h3>
+      <p>{{ .description }}</p>
+      {{ $blogs := where $.Site.Data.blogs.entries "path" .related_blog }}
+      {{ if eq (len $blogs) 1 }}
+        {{ range $blogs }}
+          <p><a class="more" href="{{ .path | absURL }}">Mehr von {{ .title }}</a></p>
+        {{ end }}
+      {{ end }}
+    </article>
+  {{ end }}
+
+  <!-- CONTENT -->
   {{ .Content }}
 
 {{ end }}

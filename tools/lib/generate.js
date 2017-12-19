@@ -36,12 +36,6 @@ class Generate {
     }
   }
 
-  links() {
-
-
-
-  }
-
   categories() {
 
     let self        = this,
@@ -75,7 +69,7 @@ class Generate {
   static saveCategory(category, filename) {
 
     let checkDir = filename.replace('_index.md', '');
-    let data = { title: category.title, weight: category.weight };
+    let data = { title: category.title, weight: category.weight, draft: category.draft };
     let frontmatter = "---\n" + yaml.safeDump(data) + "---\n\n";
     let content = category.description;
 

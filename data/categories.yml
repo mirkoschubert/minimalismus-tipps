@@ -3,150 +3,185 @@ entries:
     description: ''
     path: /links/einstieg/
     weight: 1
+    draft: false
   - title: Aktionen / Challenges
     description: ''
     path: /links/einstieg/aktionen/
     weight: 1
+    draft: false
   - title: Loswerden / Entrümpeln
     description: ''
     path: /links/einstieg/loswerden/
     weight: 2
+    draft: false
 
   - title: Besitz
     description: ''
     path: /links/besitz/
     weight: 2
+    draft: false
   - title: Wohnung
     description: ''
     path: /links/besitz/wohnung/
     weight: 1
+    draft: false
   - title: Schlafzimmer
     description: ''
     path: /links/besitz/wohnung/schlafzimmer/
     weight: 1
+    draft: false
   - title: Kleidung / Kleiderschrank
     description: ''
     path: /links/besitz/kleidung/
     weight: 2
+    draft: false
   - title: Mobilität
     description: ''
     path: /links/besitz/mobilitaet/
     weight: 3
+    draft: false
   - title: Einkaufen / Konsum
     description: ''
     path: /links/besitz/einkaufen/
     weight: 4
+    draft: false
 
   - title: Familie / Freunde
     description: ''
     path: /links/familie/
     weight: 3
+    draft: false
   - title: Kinder
     description: ''
     path: /links/familie/kinder/
     weight: 1
+    draft: false
 
   - title: Partnerschaft
     description: ''
     path: /links/partnerschaft/
     weight: 4
+    draft: false
 
   - title: Gesundheit
     description: ''
     path: /links/gesundheit/
     weight: 5
+    draft: false
   - title: Ernährung
     description: ''
     path: /links/gesundheit/ernaehrung/
     weight: 1
+    draft: false
   - title: Körperpflege
     description: ''
     path: /links/gesundheit/koerperpflege/
     weight: 2
+    draft: false
   - title: Sport / Fitness
     description: ''
     path: /links/gesundheit/fitness/
     weight: 3
+    draft: false
   - title: Achtsamkeit / Meditation
     description: ''
     path: /links/gesundheit/achtsamkeit-meditation/
     weight: 4
+    draft: false
 
   - title: Spaß / Erholung
     description: ''
     path: /links/erholung/
     weight: 6
+    draft: false
   - title: Urlaub / Reisen
     description: ''
     path: /links/erholung/reisen/
     weight: 1
+    draft: false
 
   - title: Arbeit / Karriere
     description: ''
     path: /links/arbeit/
     weight: 7
+    draft: false
   - title: Produktivität
     description: ''
     path: /links/arbeit/produktivitaet/
     weight: 1
+    draft: false
   
   - title: Finanzen
     description: ''
     path: /links/finanzen/
     weight: 8
+    draft: false
   - title: Sparen
     description: ''
     path: /links/finanzen/sparen/
     weight: 1
+    draft: false
 
   - title: Selbstverwirklichung
     description: ''
     path: /links/selbstverwirklichung/
     weight: 9
+    draft: false
   - title: Selber machen / DIY
     description: ''
     path: /links/selbstverwirklichung/selber-machen/
     weight: 1
+    draft: false
   - title: Kreativität
     description: ''
     path: /links/selbstverwirklichung/kreativitaet/
     weight: 2
+    draft: false
 
   - title: Geben / Altruismus
     description: ''
     path: /links/geben/
     weight: 10
+    draft: false
   - title: Geschenke
     description: ''
     path: /links/geben/geschenke/
     weight: 1
+    draft: false
   - title: Nachhaltigkeit
     description: ''
     path: /links/geben/nachhaltigkeit/
     weight: 2
+    draft: false
 
   - title: Digital
     description: ''
     path: /links/digital/
     weight: 11
+    draft: false
   - title: Digitalisierung
     description: ''
     path: /links/digital/digitalisierung/
     weight: 1
+    draft: false
   - title: Medienkonsum
     description: ''
     path: /links/digital/medienkonsum/
     weight: 2
+    draft: false
   - title: Hardware
     description: ''
     path: /links/digital/hardware/
     weight: 3
+    draft: false
   - title: Papierarmes Büro
     description: ''
     path: /links/digital/papierarmes-buero/
     weight: 4
+    draft: false
 
   - title: Kostenlose Angebote
     description: ''
     path: /links/kostenlos/
     weight: 12
+    draft: false
