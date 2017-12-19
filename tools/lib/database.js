@@ -1,35 +1,54 @@
 "use strict";
 
-const Config      = require('./config');
+const Config      = require('./config'),
+      fs          = require('fs-extra'),
+      rp          = require('app-root-path'),
+      yaml        = require('js-yaml');
 
 class Database {
 
-  construtor(type) {
+  constructor(type) {
 
-    this.type = (type === 'links' || 'blogs' || 'categories') ? type : 'links';
+    this.type = (type === 'links' || type === 'blogs' || type === 'categories') ? type : 'links';
     this.cfg = new Config();
-    this.file = this.cfg.data.files[this.type].yaml;
+    this.file = rp + this.cfg.data.files[this.type].yaml;
+    this.data = yaml.safeLoad(fs.readFileSync(this.file, 'utf-8')).entries;
   }
 
-  load() {
 
+  add(url) {
+
+    let link = (url.substr(-1) !== '/') ? url + '/': url;
+    let found = this.data.find((e) => { return e.url === link; });
+    if (typeof found === 'object') {
+      console.log('Link is already there!');
+    } else if (typeof found === 'undefined') {
+      console.log("Let's go!");
+    }
   }
 
-  edit() {
+  edit(url) {
 
+    let link = (url.substr(-1) !== '/') ? url + '/': url;
+    let found = this.data.find((e) => { return e.url === link; });
+    if (found.length > 1) {
+      console.log('More than one object!');
+    } else {
+      console.log(found);
+    }
   }
 
-  save() {
+  delete(url) {
 
+    let link = (url.substr(-1) !== '/') ? url + '/': url;
+    let found = this.data.find((e) => { return e.url === link; });
+    if (found.length > 1) {
+      console.log('More than one object!');
+    } else {
+      console.log(found);
+    }
   }
 
-  delete() {
-
-  }
-
-  populate() {
-    
-  }
 }
 
 module.exports = Database;

@@ -35,24 +35,27 @@ app
   .action((options) => migrate.wordpress(options)); */
 
 app
-  .command('add:link')
+  .command('add:link [url]')
   .description('Adds a new link to the Database')
-  .action(() => {
-
+  .action((url) => {
+    const db = new Database('links');
+    db.add(url);
   });
   
 app
-  .command('edit:link')
+  .command('edit:link [url]')
   .description('Edits a link from the Database')
-  .action(() => {
-
+  .action((url) => {
+    const db = new Database('links');
+    db.edit(url);
   });
 
 app
-  .command('delete:link')
+  .command('delete:link [url]')
   .description('Deletes a link from the Database')
-  .action(() => {
-
+  .action((url) => {
+    const db = new Database('links');
+    db.delete(url);
   });
 
 
