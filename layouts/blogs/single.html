@@ -1,19 +1,36 @@
 {{ define "content" }}
   
-   {{ range .Site.Data.blogs.entries }}
-      {{ if eq $.Page.Title .title }}
+  {{ $blogs := where $.Site.Data.blogs.entries "draft" "!=" true }}
+  {{ range $blogs }}
+    {{ if eq $.Page.Title .title }}
 
-        <h2>{{ .slogan }}</h2>
-        {{ $.Page.Content }}
-        {{ if (ne .owner "") }}<p>Betreiber: {{ .owner }}</p>{{ end }}
+      <h2>{{ .slogan }}</h2>
+      {{ $.Page.Content }}
+      {{ if (ne .owner "") }}<p>Betreiber: {{ .owner }}</p>{{ end }}
 
+      <ul class="nav">
+        {{ if (ne .url "")}}<li><a href="{{ .url }}" target="_blank">Besuche {{ .title }}</a></li>{{ end }}
+        {{ if (ne .feed_url "")}}<li><a href="{{ .feed_url }}">Abonniere RSS-Feed</a></li>{{ end }}
+      </ul>
+
+      {{ $links := where $.Site.Data.links.entries "related_blog" .path }}
+      <h3>Empfohlene Artikel</h3>
+      {{ if gt (len $links) 0 }}
         <ul class="nav">
-          {{ if (ne .url "")}}<li><a href="{{ .url }}" target="_blank">Besuche {{ .title }}</a></li>{{ end }}
-          {{ if (ne .feed_url "")}}<li><a href="{{ .feed_url }}">Abonniere RSS-Feed</a></li>{{ end }}
+        {{ range $l := sort $links "date" "desc" }}
+          <li>
+            <a href="{{ $l.url }}" target="_blank">{{ $l.title }}</a>
+            {{ if lt now.Unix (add (time $l.date).Unix 604800) }}
+              <span class="new-badge">Neu</span>
+            {{ end }}
+          </li>
+        {{ end }}
         </ul>
+      {{ else }}
+        <p>Noch keine Links eingetragen.</p>
       {{ end }}
-   {{ end }}
+    {{ end }}
+  {{ end }}
 
-   <h3>Empfohlene Artikel</h3>
-   <p>Noch keine Links eingetragen.</p>
+  
 {{ end }}
