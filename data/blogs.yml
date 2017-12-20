@@ -10,6 +10,7 @@ entries:
     path: /blogs/einfacheinfach-leben/
     url: 'http://einfacheinfachleben.blogspot.de'
     feed_url: 'http://einfacheinfachleben.blogspot.com/feeds/posts/default'
+    draft: false
   - title: Afschin
     slogan: 'Inspirationsblog Achtsamkeit, Meditation und mehr Freude im Leben'
     description: >-
@@ -21,6 +22,7 @@ entries:
     path: /blogs/afschin/
     url: 'http://afschin.com'
     feed_url: 'http://afschin.com/rss/'
+    draft: false
   - title: Achtsame Lebenskunst
     slogan: 'Lebe das Wesentliche! Achtsamkeit, Minimalismus, Einfach Leben'
     description: >-
@@ -32,6 +34,7 @@ entries:
     path: /blogs/achtsame-lebenskunst/
     url: 'http://achtsame-lebenskunst.de'
     feed_url: 'http://achtsame-lebenskunst.de/feed/'
+    draft: false
   - title: Alex Rubenbauer
     slogan: 'Psychologie, Persönlichkeitsentwicklung und Minimalismus'
     description: >-
@@ -43,6 +46,7 @@ entries:
     path: /blogs/alex-rubenbauer/
     url: 'http://alex-rubenbauer.de'
     feed_url: 'http://alex-rubenbauer.de/rss/'
+    draft: false
   - title: alfa ZENtauri
     slogan: Folge deiner Lebensvision!
     description: >-
@@ -54,6 +58,7 @@ entries:
     path: /blogs/alfa-zentauri/
     url: 'http://alfazentauri.com'
     feed_url: 'http://feeds.feedburner.com/alfazentauri?format=xml'
+    draft: false
   - title: Apfelmädchen & sadfsh
     slogan: Gemeinsam können wir die Welt verändern. Ganz sicher.
     description: >-
@@ -65,6 +70,7 @@ entries:
     path: /blogs/apfelmaedchen/
     url: 'http://apfelmaedchen.de'
     feed_url: 'http://apfelmaedchen.de/feed/'
+    draft: false
   - title: Babs ist Grün
     slogan: Minimalismus als Familie
     description: >-
@@ -76,6 +82,7 @@ entries:
     path: /blogs/babs-gruen/
     url: 'http://babs-ist-gruen.de'
     feed_url: 'http://babs-ist-gruen.de/feed/'
+    draft: false
   - title: Denis Sandmann
     slogan: Selbständiger Mediendesigner
     description: >-
@@ -87,6 +94,7 @@ entries:
     path: /blogs/denis-sandmann/
     url: 'https://sandmann.co/de/category/minimalismus/'
     feed_url: 'https://sandmann.co/de/feed/'
+    draft: false
   - title: Die Entdeckung der Schlichtheit
     slogan: 'Minimalismus, persönliche Finanzen und Psycholgie'
     description: >-
@@ -98,6 +106,7 @@ entries:
     path: /blogs/die-entdeckung-der-schlichtheit/
     url: 'http://schlichtheit.com/'
     feed_url: 'http://schlichtheit.com/feed/'
+    draft: false
   - title: Digitaler Minimalismus
     slogan: Reduziere dein Leben auf das Wesentliche!
     description: >-
@@ -109,6 +118,7 @@ entries:
     path: /blogs/digitaler-minimalismus/
     url: 'https://digitaler-minimalismus.de'
     feed_url: 'https://digitaler-minimalismus.de/feed'
+    draft: false
   - title: Einfach bewusst
     slogan: 'Minimalistisch, nachhaltig & vegan leben'
     description: >-
@@ -120,6 +130,7 @@ entries:
     path: /blogs/einfach-bewusst/
     url: 'http://einfachbewusst.de'
     feed_url: 'http://einfachbewusst.de/feed/'
+    draft: false
   - title: Einfach Minimalismus
     slogan: Einfach Minimalismus
     description: >-
@@ -131,6 +142,7 @@ entries:
     path: /blogs/einfach-minimalismus/
     url: 'http://einfach-minimalismus.wixsite.com/einfach-minimalismus'
     feed_url: ''
+    draft: false
   - title: Experiment Selbstversorgung
     slogan: Schritt für Schritt Selbstversorgung
     description: >-
@@ -142,6 +154,7 @@ entries:
     path: /blogs/experiment-selbstversorgung/
     url: 'http://experimentselbstversorgung.net'
     feed_url: 'http://feeds.feedburner.com/ExperimentSelbstversorgung'
+    draft: false
   - title: Finnsland
     slogan: Downshifting und Lebenskunst und so
     description: >-
@@ -153,6 +166,7 @@ entries:
     path: /blogs/finnsland/
     url: 'http://finnsland.net/blog/'
     feed_url: 'http://finnsland.net/blog/?feed=rss2'
+    draft: false
   - title: Flussabwärts
     slogan: Persönlichkeitsentwicklung zum eigenen Leben
     description: >-
@@ -164,6 +178,7 @@ entries:
     path: /blogs/flussabwaerts/
     url: 'https://flussabwaerts.de/'
     feed_url: 'https://flussabwaerts.de/feed'
+    draft: false
   - title: Fräulein im Glück
     slogan: 'Familie, Minimalismus, Achtsamkeit'
     description: >-
@@ -175,6 +190,7 @@ entries:
     path: /blogs/fraeulein-im-glueck/
     url: 'http://suchtdasglueck.at'
     feed_url: 'http://feeds.feedburner.com/FruleinImGlck'
+    draft: false
   - title: Frau Ding Dongs Leben
     slogan: 'DIY, Minimalismus, Heim- und Herd-Geschichten und gute Bücher'
     description: >-
@@ -186,6 +202,7 @@ entries:
     path: /blogs/frau-ding-dongs-leben/
     url: 'http://schwingelschwingeldingdong.com'
     feed_url: 'http://schwingelschwingeldingdong.com/feed'
+    draft: false
   - title: Erleichtert
     slogan: 'Ein Blog über Minimalismus & die wesentlichen Dinge im Leben'
     description: >-
@@ -197,6 +214,7 @@ entries:
     path: /blogs/erleichtert/
     url: 'https://erleichtert.net'
     feed_url: 'https://erleichtert.net/feed'
+    draft: false
   - title: Frau Momos Minimalismus
     slogan: Das Leben erleichtern und bereichern
     description: >-
@@ -208,6 +226,7 @@ entries:
     path: /blogs/frau-momos-minimalismus/
     url: 'http://fraumomosminimalismus.ch'
     feed_url: 'http://fraumomosminimalismus.ch/feed'
+    draft: false
   - title: Fraxa
     slogan: 'Genug zu haben ist Glück, mehr als genug zu haben ist unheilvoll.'
     description: >-
@@ -219,6 +238,7 @@ entries:
     path: /blogs/fraxa/
     url: 'http://fraxa.ch'
     feed_url: ''
+    draft: false
   - title: Genug haben
     slogan: 'Genug haben, mehr sein'
     description: >-
@@ -230,6 +250,7 @@ entries:
     path: /blogs/genug-haben/
     url: 'http://genughaben.de/'
     feed_url: 'http://genughaben.de/feed/'
+    draft: false
   - title: Karo Kafka
     slogan: 'Schreibt über Musik, Bücher, Minimalismus und Zeug'
     description: >-
@@ -241,6 +262,7 @@ entries:
     path: /blogs/karo-kafka/
     url: 'http://www.karokafka.net'
     feed_url: 'http://www.karokafka.net/feeds/posts/default/'
+    draft: false
   - title: Kaufdiät
     slogan: 'Weniger konsumieren, mehr genießen'
     description: >-
@@ -252,6 +274,7 @@ entries:
     path: /blogs/kaufdiaet/
     url: 'https://kaufdiaet.wordpress.com'
     feed_url: 'https://kaufdiaet.wordpress.com/feed/'
+    draft: false
   - title: Konsumblockade
     slogan: Dauerhaft weniger konsumieren
     description: >-
@@ -263,6 +286,7 @@ entries:
     path: /blogs/konsumblockade/
     url: 'https://konsumblockade.wordpress.com'
     feed_url: 'https://konsumblockade.wordpress.com/feed/'
+    draft: false
   - title: Kunterbuntes Allerlei
     slogan: >-
       Köln, das Rheinland & die Welt, minimalistischer leben, planen und
@@ -276,6 +300,7 @@ entries:
     path: /blogs/kunterbuntes-allerlei/
     url: 'https://kunterbunt11.wordpress.com'
     feed_url: 'https://kunterbunt11.wordpress.com/feed/'
+    draft: false
   - title: MalMini
     slogan: Entrümple dein Leben!
     description: >-
@@ -287,6 +312,7 @@ entries:
     path: /blogs/malmini/
     url: 'http://malmini.de'
     feed_url: 'http://malmini.de/feed/'
+    draft: false
   - title: Mama denkt
     slogan: >-
       Über Alltags-Abenteuer, Nachhaltigkeit, Minimalismus und ein bisschen
@@ -300,6 +326,7 @@ entries:
     path: /blogs/mama-denkt/
     url: 'http://mamadenkt.de'
     feed_url: 'http://mamadenkt.de/feed/'
+    draft: false
   - title: Manas Moments
     slogan: 'Suche nach dem Glücks-Moment, der einfach bleibt.'
     description: >-
@@ -311,6 +338,7 @@ entries:
     path: /blogs/manas-moments/
     url: 'http://manas-moments.com'
     feed_url: 'http://manas-moments.com/feed/'
+    draft: false
   - title: Ein Minimalist erzählt
     slogan: Mein Minimalismus und seine Folgen
     description: >-
@@ -322,6 +350,7 @@ entries:
     path: /blogs/marco-mattheis/
     url: 'http://einminimalist.de'
     feed_url: 'http://einminimalist.de/feed/'
+    draft: false
   - title: marie minimalisiert
     slogan: Praktisch umsetzbare Tipps zum minimalistischeren Leben
     description: >-
@@ -333,6 +362,7 @@ entries:
     path: /blogs/marie-minimalisiert/
     url: 'https://marieminimalisiert.wordpress.com'
     feed_url: 'https://marieminimalisiert.wordpress.com/feed/'
+    draft: false
   - title: Mini.Me.
     slogan: Minimalismus & Lifestyle
     description: >-
@@ -344,6 +374,7 @@ entries:
     path: /blogs/mini-me/
     url: 'http://minime.life'
     feed_url: 'http://minime.life/feed/'
+    draft: false
   - title: Minima Muse
     slogan: Kreativer Konsumverzicht im kollektiven Selbstversuch
     description: >-
@@ -355,6 +386,7 @@ entries:
     path: /blogs/minima-muse/
     url: 'https://minimamuse.wordpress.com'
     feed_url: 'https://minimamuse.wordpress.com/feed/'
+    draft: false
   - title: Minimalismus 101
     slogan: Minimalismus-Blog von Frederico Elles
     description: >-
@@ -366,6 +398,7 @@ entries:
     path: /blogs/minimalismus-101/
     url: 'http://minimalismus101.blogspot.de'
     feed_url: 'http://feeds.feedburner.com/Minimalismus101'
+    draft: false
   - title: Minimalismus JETZT!
     slogan: Eine Kampagne rund um den Minimalismus
     description: >-
@@ -377,6 +410,7 @@ entries:
     path: /blogs/minimalismus-jetzt/
     url: 'http://minimalismus.jetzt'
     feed_url: ''
+    draft: false
   - title: Minimalismus leben
     slogan: Minimalismus-Blog von Michael Klumb
     description: >-
@@ -388,6 +422,7 @@ entries:
     path: /blogs/minimalismus-leben/
     url: 'http://minimalismus-leben.de'
     feed_url: 'http://minimalismus-leben.de/feed/'
+    draft: false
   - title: Minimalismus Podcast
     slogan: Der Podcast über Minimalismus von Michael Klumb und Daniel Siewert
     description: >-
@@ -399,6 +434,7 @@ entries:
     path: /blogs/minimalismus-podcast/
     url: 'http://minimalismus-podcast.de'
     feed_url: 'http://minimalismus-podcast.de/feed/podcast/'
+    draft: false
   - title: Minimalismus Stammtisch
     slogan: Alle Minimalisten-Treffen deutschlandweit
     description: >-
@@ -410,6 +446,7 @@ entries:
     path: /blogs/minimalismus-stammtisch/
     url: 'http://minimalismus-stammtisch.de'
     feed_url: 'http://minimalismus-stammtisch.de/feed/'
+    draft: false
   - title: minimalismus und mehr
     slogan: Minimalismus-Blog
     description: >-
@@ -421,6 +458,7 @@ entries:
     path: /blogs/minimalismus-und-mehr/
     url: 'https://minimalismusundmehr.wordpress.com'
     feed_url: 'https://minimalismusundmehr.wordpress.com/feed/'
+    draft: false
   - title: Minimalismus21
     slogan: >-
       Fokussierung, Trend, Utopie, Zeitgefühl, Lebenseinstellung? Ein Begriff und
@@ -434,6 +472,7 @@ entries:
     path: /blogs/minimalismus21/
     url: 'http://minimalismus21.de'
     feed_url: 'http://minimalismus21.de/feed/'
+    draft: false
   - title: Minimalismusblog
     slogan: Einfach Leben. Selbstbestimmt sein.
     description: >-
@@ -445,6 +484,7 @@ entries:
     path: /blogs/minimalismusblog/
     url: 'http://minimalismusblog.tumblr.com'
     feed_url: 'http://minimalismusblog.tumblr.com/rss'
+    draft: false
   - title: minimalisten.org
     slogan: Die Minimalismus-Community für Simple-Living-Begeisterte
     description: >-
@@ -456,6 +496,7 @@ entries:
     path: /blogs/minimalisten-org/
     url: 'https://minimalisten.org'
     feed_url: ''
+    draft: false
   - title: Minimalistenfreun.de
     slogan: Die (nicht ganz so) anonymen Minimalisten
     description: >-
@@ -467,6 +508,7 @@ entries:
     path: /blogs/minimalistenfreunde/
     url: 'http://minimalistenfreun.de'
     feed_url: 'http://minimalistenfreun.de/feed/'
+    draft: false
   - title: Minimalistisch Lebende
     slogan: ...macht Pause.
     description: >-
@@ -478,6 +520,7 @@ entries:
     path: /blogs/minimalistisch-lebende/
     url: 'http://minimalistisch-leben.de'
     feed_url: ''
+    draft: false
   - title: Minimalistisch
     slogan: More money for adventures
     description: >-
@@ -489,6 +532,7 @@ entries:
     path: /blogs/minimalistisch/
     url: 'http://minimalisch.de'
     feed_url: 'http://minimalisch.de/feed/'
+    draft: false
   - title: minimalkonzept
     slogan: Einfach leben im Überfluss für mehr Zeit und Geld
     description: >-
@@ -500,6 +544,7 @@ entries:
     path: /blogs/minimalkonzept/
     url: 'http://minimalkonzept.de'
     feed_url: 'http://minimalkonzept.de/?feed=rss2'
+    draft: false
   - title: Minimalprinzip
     slogan: Minimalismus-Blog von Alexander von Sinope
     description: >-
@@ -511,6 +556,7 @@ entries:
     path: /blogs/minimalprinzip/
     url: 'http://minimalprinzip.blogspot.de'
     feed_url: 'http://minimalprinzip.blogspot.com/feeds/posts/default'
+    draft: false
   - title: Mr. Minimalist
     slogan: Minimalismus-Blog von Sebastian
     description: >-
@@ -522,6 +568,7 @@ entries:
     path: /blogs/mr-minimalist/
     url: 'http://mrminimalist.com'
     feed_url: 'http://mrminimalist.com/feed/'
+    draft: false
   - title: myMONK
     slogan: 'Meditation, Persönlichkeitsentwicklung,  Selbstverwirklichung'
     description: >-
@@ -533,6 +580,7 @@ entries:
     path: /blogs/mymonk/
     url: 'http://mymonk.de'
     feed_url: 'http://mymonk.de/feed/'
+    draft: false
   - title: Pooly.net
     slogan: 'Minimalismus, Sport, Outdoor-Aktivitäten, Reisen und gesunde Ernährung'
     description: >-
@@ -544,6 +592,7 @@ entries:
     path: /blogs/pooly-net/
     url: 'http://pooly.net'
     feed_url: 'http://pooly.net/feed/'
+    draft: false
   - title: Projekt Einfachheit
     slogan: 'Entdecke, was zählt...'
     description: >-
@@ -555,6 +604,7 @@ entries:
     path: /blogs/projekt-einfachheit/
     url: 'https://projekt-einfachheit.com'
     feed_url: 'https://projekt-einfachheit.com/feed/'
+    draft: false
   - title: QuerfeldRein
     slogan: Minimalismus-Bog
     description: >-
@@ -566,6 +616,7 @@ entries:
     path: /blogs/querfeldrein/
     url: 'https://querfeldrein.wordpress.com'
     feed_url: 'https://querfeldrein.wordpress.com/feed/'
+    draft: false
   - title: Roadfamily
     slogan: Eine fünfköpfige Nomaden-Familie reist mit dem Bus durch Eurasien
     description: >-
@@ -577,6 +628,7 @@ entries:
     path: /blogs/roadfamily/
     url: 'http://roadfamily.com'
     feed_url: 'http://roadfamily.com/feed/'
+    draft: false
   - title: SchaumImOhr
     slogan: 'Nachhaltigkeit, Minimalismus, konsumkritische Gedanken...'
     description: >-
@@ -588,6 +640,7 @@ entries:
     path: /blogs/schaumimohr/
     url: 'http://schaumimohr.de'
     feed_url: 'http://schaumimohr.de/feed/'
+    draft: false
   - title: Simplizist
     slogan: 'Weniger arbeiten, mehr Leben'
     description: >-
@@ -599,6 +652,7 @@ entries:
     path: /blogs/simplizist/
     url: 'http://simplizist.de'
     feed_url: 'http://feeds.feedburner.com/Simplizist'
+    draft: false
   - title: Sina Jasur
     slogan: Minimalismus-Blog von Sina Jasur
     description: >-
@@ -610,6 +664,7 @@ entries:
     path: /blogs/sina-jasur/
     url: 'http://sina-jasur.de'
     feed_url: 'http://sina-jasur.de/feed/'
+    draft: false
   - title: Spend out!
     slogan: Vom Entrümpeln zum Minimalismus… oder sei großzügig zu dir selbst!
     description: >-
@@ -621,6 +676,7 @@ entries:
     path: /blogs/spend-out/
     url: 'http://spend-out.blogspot.de'
     feed_url: 'http://spend-out.blogspot.com/feeds/posts/default'
+    draft: false
   - title: Umschlagbahnhof
     slogan: Wunderfitzig und überzwerch
     description: >-
@@ -632,6 +688,7 @@ entries:
     path: /blogs/umschlagbahnhof/
     url: 'https://umschlagbahnhof.wordpress.com'
     feed_url: 'https://umschlagbahnhof.wordpress.com/feed/'
+    draft: false
   - title: von allem zu viel.
     slogan: Minimalismus-Blog
     description: >-
@@ -643,6 +700,7 @@ entries:
     path: /blogs/von-allem-zu-viel/
     url: 'https://vonallemzuviel.wordpress.com'
     feed_url: 'https://vonallemzuviel.wordpress.com/feed/'
+    draft: false
   - title: Weggedacht
     slogan: …und aufs wesentliche gebracht
     description: >-
@@ -654,6 +712,7 @@ entries:
     path: /blogs/weggedacht/
     url: 'http://weggedacht.de'
     feed_url: 'http://weggedacht.de/feed/'
+    draft: false
   - title: wenig reicht auch
     slogan: 'Minimalismus, DIY, Stricken und andern Krams'
     description: >-
@@ -665,6 +724,7 @@ entries:
     path: /blogs/wenig-reicht-auch/
     url: 'https://wenigreichtauch.de'
     feed_url: 'http://wenigreichtauch.de/feed/rss'
+    draft: false
   - title: widerstandistzweckmaessig
     slogan: Was ich alles nicht mehr hinnehmen will
     description: >-
@@ -676,6 +736,7 @@ entries:
     path: /blogs/widerstandistzweckmaessig/
     url: 'https://widerstandistzweckmaessig.wordpress.com'
     feed_url: 'https://widerstandistzweckmaessig.wordpress.com/feed/'
+    draft: false
   - title: ZebrastreifenwieauchGartenzaun
     slogan: schreibt über den Dschungel
     description: >-
@@ -687,6 +748,7 @@ entries:
     path: /blogs/zebrastreifenwieauchgartenzaun/
     url: 'http://zebrastreifenwieauchgartenzaun.de'
     feed_url: 'http://feeds.feedburner.com/zebrastreifenwieauchgartenzaun'
+    draft: false
   - title: Zora minimiert
     slogan: Minimalismus und Naturkosmetik
     description: >-
@@ -698,6 +760,7 @@ entries:
     path: /blogs/zora-minimiert/
     url: 'https://zoraminimiert.wordpress.com'
     feed_url: 'https://zoraminimiert.wordpress.com/feed/'
+    draft: false
   - title: Feine Seele
     slogan: Deine neuen Seiten
     description: >-
@@ -709,6 +772,7 @@ entries:
     path: /blogs/feine-seele/
     url: 'https://feineseele.de'
     feed_url: 'https://feineseele.de/feed/'
+    draft: false
   - title: Simplify Yourself
     slogan: Einfach einfacher leben
     description: >-
@@ -720,3 +784,4 @@ entries:
     path: /blogs/simplify-yourself/
     url: 'http://simplify-yourself.com'
     feed_url: 'http://simplify-yourself.com/feed/'
+    draft: false
