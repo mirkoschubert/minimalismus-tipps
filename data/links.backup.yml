@@ -1,25 +1,20 @@
 entries:
-  - title: Das Zauberwörtchen »Weniger«
-    description: >-
-      Eine Sache, die ich am Minimalismus so spannend finde, ist die Idee des
-      Weniger. Meistens denken wir ja, viel hilft viel. Und mehr sogar noch
-      mehr. Dabei stimmt das oft gar nicht. Viele Probleme entstehen durch ein
-      »zu viel«. Die Medizin dagegen ist logischerweise »weniger«.
-    date: '2017-12-21T20:02:49+01:00'
-    url: 'http://malmini.de/zauberwort-weniger/'
-    related_blog: /blogs/malmini/
-    path: /links/einstieg/
-    draft: false
-  - title: 10 Einsteigertipps für Minimalisten
-    description: >-
-      Der Kölner Stadtanzeiger hatte in seiner Sonntagsbeilage vom 28. Februar
-      Minimalismus als Titelthema. Ich durfte auch etwas dazu beitragen: 10
-      Einsteigertipps für Minimalisten.
-    date: '2017-12-21T20:04:00+01:00'
-    url: 'http://malmini.de/10-einsteigertipps-fuer-minimalisten/'
-    related_blog: /blogs/malmini/
-    path: /links/einstieg/
-    draft: false
+  - title: ''
+    description: ''
+    date: '2015-06-19T19:27:38+02:00'
+    url: 'http://malmini.de/zauberwort-weniger'
+    related_blog: /blogs/
+    path: /links/
+    old_category: Anfangen / Allgemeine Tipps
+    draft: true
+  - title: ''
+    description: ''
+    date: '2015-06-19T19:27:38+02:00'
+    url: 'http://malmini.de/10-einsteigertipps-fuer-minimalisten'
+    related_blog: /blogs/
+    path: /links/
+    old_category: Anfangen / Allgemeine Tipps
+    draft: true
   - title: ''
     description: ''
     date: '2015-06-19T19:27:38+02:00'
@@ -44,10 +39,9 @@ entries:
     path: /links/
     old_category: Anfangen / Allgemeine Tipps
     draft: true
-  - title: Was ist Minimalismus? 11 Blogger antworten!
+  - title: 'Was ist Minimalismus? 11 Blogger antworten!'
     description: >-
-      Seit ich über das einfache und bewusste Leben schreibe, werde ich immer
-      mal wieder gefragt, was denn Minimalismus genau bedeutet.
+      Seit ich über das einfache und bewusste Leben schreibe, werde ich immer mal wieder gefragt, was denn Minimalismus genau bedeutet.
     date: '2017-12-19T20:27:32+01:00'
     url: 'http://einfachbewusst.de/2013/03/was-ist-minimalismus/'
     related_blog: /blogs/einfach-bewusst/
@@ -56,9 +50,7 @@ entries:
     draft: false
   - title: '25 Tipps, wie Du minimalistischer leben kannst (innerhalb einer Stunde)'
     description: >-
-      Ist Dein Leben zu kompliziert? Bist Du oft in Eile? Hast Du Geldsorgen?
-      Geht Dir das Aufräumen und Putzen auf die Nerven? Möchtest Du mehr Zeit
-      mit Dingen verbringen, die Dir Spaß machen?
+      Ist Dein Leben zu kompliziert? Bist Du oft in Eile? Hast Du Geldsorgen? Geht Dir das Aufräumen und Putzen auf die Nerven? Möchtest Du mehr Zeit mit Dingen verbringen, die Dir Spaß machen?
     date: '2017-12-12T20:29:01+01:00'
     url: 'http://einfachbewusst.de/2014/02/minimalistischer-leben/'
     related_blog: /blogs/einfach-bewusst/
@@ -3888,8 +3880,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-12-25T13:52:51+01:00'
-    url: >-
-      http://einminimalist.de/zeitdiebe-teil-2-beziehungen-und-soziale-netzwerke/
+    url: 'http://einminimalist.de/zeitdiebe-teil-2-beziehungen-und-soziale-netzwerke/'
     related_blog: /blogs/
     path: /links/
     old_category: Achtsamkeit / Meditation / Entspannung

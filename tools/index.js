@@ -2,6 +2,7 @@
 'use strict';
 
 const app         = require('commander'),
+      { URL }     = require('url'),
       chalk       = require('chalk'),
       fse         = require('fs-extra'),
       yaml        = require('js-yaml'),
@@ -39,7 +40,7 @@ app
   .description('Adds a new link to the Database')
   .action((url) => {
     const db = new Database('links');
-    db.add(url);
+    db.add(new URL(url));
   });
   
 app
@@ -47,7 +48,7 @@ app
   .description('Edits a link from the Database')
   .action((url) => {
     const db = new Database('links');
-    db.edit(url);
+    db.edit(new URL(url));
   });
 
 app
@@ -55,7 +56,7 @@ app
   .description('Deletes a link from the Database')
   .action((url) => {
     const db = new Database('links');
-    db.delete(url);
+    db.delete(new URL(url));
   });
 
 
