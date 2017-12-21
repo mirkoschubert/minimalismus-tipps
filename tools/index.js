@@ -73,6 +73,12 @@ app
   .action((options) => check.links(options));
 
 app
+  .command('check:duplicates')
+  .description('Checks links database for duplicates')
+  .action(() => check.duplicates());
+
+
+app
   .command('generate:all')
   .description('Generates all blog entries for Hugo')
   .action(() => {

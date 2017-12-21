@@ -57,8 +57,8 @@ class Database {
               console.log(chalk.red("\nLink is already there! Nothing to add...\n"));
             } else if (typeof found === 'undefined') {
               let data = {};
-              data.title = this.convertQM(meta.title);
-              data.description = this.convertQM(meta.description);
+              data.title = meta.title;
+              data.description = meta.description;
               data.date = moment().format(),
               data.url = (meta.canonical !== '') ? meta.canonical : link;
               data.related_blog = this.getBlogFromURL(url);
@@ -115,8 +115,8 @@ class Database {
         .then((meta) => {
 
           let data = {};
-          data.title = (found.title === '') ? this.convertQM(meta.title) : this.convertQM(found.title);
-          data.description = (found.description === '') ? this.convertQM(meta.description) : this.convertQM(found.description);
+          data.title = (found.title === '') ? meta.title : found.title;
+          data.description = (found.description === '') ? meta.description : found.description;
           data.date = moment().format(),
           data.url = (found.url !== meta.canonical) ? meta.canonical : found.url;
           data.related_blog = (found.related_blog === '/blogs/') ? this.getBlogFromURL(url) : found.related_blog;
@@ -357,7 +357,7 @@ class Database {
         let metadata = {};
 
         metadata.title = data.og.title || data.meta.title;
-        metadata.description = data.og.description || data.meta.description;
+        metadata.description = this.filterDescription(data.og.description) || this.filterDescription(data.meta.description);
         metadata.description = this.shortenDescription(metadata.description, opt.description_length);
         metadata.canonical = data.meta.canonical;
         metadata.type = data.og.type;
@@ -433,9 +433,14 @@ class Database {
    * 
    * @param {string} str 
    */
-  convertQM(st) {
+  filterDescription(st) {
 
-    return st.replace(/[\'\"\„](.*?)[\'\"\“]/g, "»$1«");
+    let newStr = st;
+    
+    newStr = newStr.replace(/[\'\"\„](.*?)[\'\"\“]/g, "»$1«");
+    newStr = newStr.replace(/\:/g, ".");
+
+    return newStr;
   }
 
   /**

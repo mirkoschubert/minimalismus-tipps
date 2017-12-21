@@ -6,7 +6,8 @@ const Promise     = require('promise'),
       fs          = require('fs-extra'),
       rp          = require('app-root-path'),
       yaml        = require('js-yaml'),
-      linkCheck   = require('link-check');
+      linkCheck   = require('link-check'),
+      inquirer    = require('inquirer');
 
 class Check {
 
@@ -73,6 +74,53 @@ class Check {
 
   duplicates() {
 
+    const self = this;
+    try {
+      var links = yaml.safeLoad(fs.readFileSync(rp + self.files.links.yaml, 'utf-8')).entries;
+      console.log("\nChecking " + chalk.yellow(links.length) + " directory links...\n");
+
+      
+      var unique = [], dupes = [];
+
+      links.forEach((link, id) => {
+        if (unique.indexOf(link.url) === -1) {
+          unique.push(link.url);
+        } else {
+          dupes.push(id);
+        }
+      });
+
+      console.log("\n" + chalk.yellow(dupes.length) + " of " + chalk.yellow(links.length) + " directory links are duplicates:\n");
+      dupes.forEach((id) => {
+        console.log(chalk.green(id + ": ") + links[id].url);
+      });
+      console.log("\n");
+      inquirer.prompt({
+        type: 'confirm',
+        name: 'delete',
+        message: 'Do you want to delete them?',
+        default: false
+      })
+      .then((res) => {
+        if (res.delete) {
+          var dump = { entries: [] };
+          links.forEach((link, id) => {
+            if (dupes.indexOf(id) === -1) dump.entries.push(link);
+          });
+
+          fs.writeFile(rp + self.files.links.yaml, yaml.safeDump(dump), (err) => {
+            if (err) throw err;
+            console.log('\n' + dupes.length + chalk.green(" links were successfully deleted!\n"));
+          });
+        }
+      })
+      .catch((err) =>{
+        console.log(err);
+      });
+
+    } catch(e) {
+      console.log(e);
+    }
   }
 }
 

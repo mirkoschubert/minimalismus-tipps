@@ -20,14 +20,18 @@ entries:
     related_blog: /blogs/malmini/
     path: /links/einstieg/
     draft: false
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://einfachbewusst.de/2016/05/minimalist/'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
+  - title: Was ich als Minimalist nicht besitze und was ich stattdessen habe
+    description: >-
+      »Bevor man etwas brennend begehrt, sollte man das Glück dessen prüfen, der
+      es bereits besitzt.« (François de La Rochefoucauld) »Das würde ich mir
+      nicht trauen.« Seit ich online und offline verkünde, dass ich diesen
+      Sommer vier Monate auf dem Jakobsweg gehen werde, höre ich immer wieder
+      ähnliche Fragen und Bemerkungen.
+    date: '2017-12-21T20:11:00+01:00'
+    url: 'http://www.einfachbewusst.de/2016/05/minimalist/'
+    related_blog: /blogs/einfach-bewusst/
+    path: /links/besitz/
+    draft: false
   - title: ''
     description: ''
     date: '2015-06-19T19:27:38+02:00'
@@ -36,14 +40,17 @@ entries:
     path: /links/
     old_category: Anfangen / Allgemeine Tipps
     draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://einfachbewusst.de/2015/01/einfaches-leben/'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
+  - title: '8 Probleme, die ein einfaches Leben lösen kann'
+    description: >-
+      »Zukunft wird nur dann möglich sein, wenn wir lernen, auf Dinge, die
+      machbar wären, zu verzichten, weil wir sie nicht brauchen.« (Günter Grass,
+      deutscher Schriftsteller, *1927) Auf meiner kürzlich veröffentlichten
+      Themenseite Minimalismus erkläre ich den Begriff so.
+    date: '2017-12-21T20:18:29+01:00'
+    url: 'http://www.einfachbewusst.de/2015/01/einfaches-leben/'
+    related_blog: /blogs/einfach-bewusst/
+    path: /links/einstieg/
+    draft: false
   - title: Was ist Minimalismus? 11 Blogger antworten!
     description: >-
       Seit ich über das einfache und bewusste Leben schreibe, werde ich immer
@@ -65,82 +72,37 @@ entries:
     path: /links/einstieg/
     old_category: Anfangen / Allgemeine Tipps
     draft: false
+  - title: '25 weitere Tipps, wie Du minimalistischer leben kannst'
+    description: >-
+      »Das Leben ist einfach, aber wir bestehen darauf, es kompliziert zu
+      machen.« (Konfuzius, chinesischer Philosoph, vermutlich 551 v. Chr. – 479
+      v. Chr.) Im Februar habe ich 25 Tipps veröffentlicht, wie man innerhalb
+      einer Stunde minimalistischer leben kann.
+    date: '2017-12-21T20:41:51+01:00'
+    url: 'http://www.einfachbewusst.de/2014/07/weitere-tipps-minimalistischer-leben/'
+    related_blog: /blogs/einfach-bewusst/
+    path: /links/einstieg/
+    draft: false
+  - title: 'Noch mal 25 Tipps, wie Du einfacher leben kannst'
+    description: »Einfachheit in der Wahl der Nahrung fördert die körperliche Gesundheit.«
+    date: '2017-12-21T20:42:57+01:00'
+    url: 'http://www.einfachbewusst.de/2015/05/einfacher-leben/'
+    related_blog: /blogs/einfach-bewusst/
+    path: /links/einstieg/
+    draft: false
+  - title: 11 einfache Minimalismus-Hacks - Simplizist
+    description: >-
+      Simple Minimalismus-Hacks können den Alltag ganz enorm vereinfachen. Hier
+      findet ihr 11 Tipps, die ihr sofort anwenden könnt. Ausprobieren!
+    date: '2017-12-21T20:52:14+01:00'
+    url: 'https://simplizist.de/11-einfache-minimalismus-hacks/'
+    related_blog: /blogs/simplizist/
+    path: /links/einstieg/
+    draft: false
   - title: ''
     description: ''
     date: '2015-06-19T19:27:38+02:00'
-    url: 'http://einfachbewusst.de/2014/07/weitere-tipps-minimalistischer-leben/'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://einfachbewusst.de/2015/05/einfacher-leben/'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://matthiasrueckel.de/minimalismus-tipp-1-ein-karton-ist-aller-anfang/'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://matthiasrueckel.de/minimalismus-tipp-2-alles-hat-festen-platz'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://matthiasrueckel.de/minimalismus-tipp-3-die-aufgeraeumte-schublade'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'https://traudlundkate.wordpress.com/2016/02/29/kuehlschrank-ade'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'https://traudlundkate.wordpress.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://simplizist.de/11-einfache-minimalismus-hacks'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://simplizist.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://marco-mattheis.com/2016/04/14/minimalist-werden-an-einem-tag'
+    url: 'http://einminimalist.de/minimalist-werden-an-einem-tag'
     related_blog: /blogs/
     path: /links/
     old_category: Anfangen / Allgemeine Tipps
@@ -157,14 +119,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:27:38+02:00'
-    url: 'http://schwingelschwingeldingdong.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
     url: >-
       https://konsumblockade.wordpress.com/2016/02/14/wieviel-ist-genug/comment-page-1
     related_blog: /blogs/
@@ -174,23 +128,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:27:38+02:00'
-    url: 'https://konsumblockade.wordpress.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
     url: 'http://minime.life/dein-minimalistisches-jahr'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://minime.life'
     related_blog: /blogs/
     path: /links/
     old_category: Anfangen / Allgemeine Tipps
@@ -207,24 +145,8 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:27:38+02:00'
-    url: 'http://projekt-einfachheit.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
     url: >-
       http://schoenleben.blogspot.de/2011/09/minimalismus-fur-die-die-gerne-wollen.html
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://schoenleben.blogspot.de'
     related_blog: /blogs/
     path: /links/
     old_category: Anfangen / Allgemeine Tipps
@@ -241,31 +163,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:27:38+02:00'
-    url: 'http://12qm-freiheit.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
     url: 'http://rosarund.de/minimalismus-im-kloster'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://concept-agentur.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://rosarund.de'
     related_blog: /blogs/
     path: /links/
     old_category: Anfangen / Allgemeine Tipps
@@ -281,14 +179,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:27:38+02:00'
-    url: 'http://afschin.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
     url: 'http://minimalismus-leben.de/wo-und-wie-fange-ich-bloss-an'
     related_blog: /blogs/
     path: /links/
@@ -297,23 +187,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:27:38+02:00'
-    url: 'http://minimalismus-leben.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
     url: 'http://alex-rubenbauer.de/minimalismus/515/tag-1-aufraeumen'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://alex-rubenbauer.de'
     related_blog: /blogs/
     path: /links/
     old_category: Anfangen / Allgemeine Tipps
@@ -346,31 +220,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:27:38+02:00'
-    url: 'http://texterin-mit-biss.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://experimentselbstversorgung.net'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
     url: 'http://herman-unterwegs.de/15-tipps-einfaches-leben'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://herman-unterwegs.de/ueber-uns'
     related_blog: /blogs/
     path: /links/
     old_category: Anfangen / Allgemeine Tipps
@@ -385,16 +235,8 @@ entries:
     draft: true
   - title: ''
     description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://blattgruen.me/aboutme'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
-  - title: ''
-    description: ''
     date: '2015-06-19T19:27:56+02:00'
-    url: 'http://minimalkonzept.de'
+    url: 'http://minimalkonzept.de/minimalistischer-denkanstoss-2-ran-an-deine-cds/'
     related_blog: /blogs/
     path: /links/
     old_category: Entrümpeln
@@ -402,23 +244,8 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:27:56+02:00'
-    url: 'http://minimalkonzept.de/?p=529'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Entrümpeln
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:56+02:00'
-    url: 'http://minimalkonzept.de/?p=456'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Entrümpeln
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:56+02:00'
-    url: 'http://mymonk.de'
+    url: >-
+      http://minimalkonzept.de/minimalistische-denkanstoesse-1-weg-mit-dem-sparschwein/
     related_blog: /blogs/
     path: /links/
     old_category: Entrümpeln
@@ -498,14 +325,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:27:56+02:00'
-    url: 'https://wenigreichtauch.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Entrümpeln
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:56+02:00'
     url: >-
       http://fraumomosminimalismus.ch/ueber-reue-risiko-und-den-umgang-mit-entruemplungs-entscheidungen
     related_blog: /blogs/
@@ -541,23 +360,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:27:56+02:00'
-    url: 'http://minimalisch.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Entrümpeln
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:56+02:00'
     url: 'http://weggedacht.de/wenn-die-trennung-von-lieblings-sachen-schwer-faellt'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Entrümpeln
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:56+02:00'
-    url: 'http://weggedacht.de'
     related_blog: /blogs/
     path: /links/
     old_category: Entrümpeln
@@ -573,40 +376,8 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:27:56+02:00'
-    url: 'http://downgrade-deluxe.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Entrümpeln
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:56+02:00'
-    url: 'https://kunterbunt11.wordpress.com/2014/01/30/aussortieren_anfang'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Entrümpeln
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:56+02:00'
-    url: 'http://kunterbunt11.wordpress.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Entrümpeln
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:56+02:00'
     url: >-
       http://einfacheinfachleben.blogspot.de/2013/07/entrumpeln-einfach-anfangen.html
-    related_blog: /blogs/
-    path: /links/
-    old_category: Entrümpeln
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:56+02:00'
-    url: 'http://einfacheinfachleben.blogspot.de'
     related_blog: /blogs/
     path: /links/
     old_category: Entrümpeln
@@ -646,14 +417,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:27:56+02:00'
-    url: 'http://schlichtheit.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Entrümpeln
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:56+02:00'
     url: 'http://downgrade-deluxe.de/nachhaltiges-ausmisten-wegwerfen-ist-doof'
     related_blog: /blogs/
     path: /links/
@@ -663,14 +426,6 @@ entries:
     description: ''
     date: '2015-06-19T19:27:56+02:00'
     url: 'http://mamadenkt.de/wie-entruempelt-man-ein-haus'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Entrümpeln
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:56+02:00'
-    url: 'http://mamadenkt.de'
     related_blog: /blogs/
     path: /links/
     old_category: Entrümpeln
@@ -711,7 +466,8 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T17:28:55+02:00'
-    url: 'http://minimalkonzept.de/?p=1586'
+    url: >-
+      http://minimalkonzept.de/10-minimalistische-tipps-wie-du-erfolgreich-dein-zeug-bei-ebay-kleinanzeigen-los-wirst/
     related_blog: /blogs/
     path: /links/
     old_category: Loswerden
@@ -735,15 +491,8 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T17:28:55+02:00'
-    url: 'https://marieminimalisiert.wordpress.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Loswerden
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T17:28:55+02:00'
-    url: 'http://minimalkonzept.de/?p=543'
+    url: >-
+      http://minimalkonzept.de/minimalistische-denkanstoesse-4-mach-platz-zum-verschenken/
     related_blog: /blogs/
     path: /links/
     old_category: Loswerden
@@ -768,14 +517,6 @@ entries:
     description: ''
     date: '2015-06-19T17:28:55+02:00'
     url: 'http://flussderdinge.blogspot.de/search/label/Sachen%20loswerden'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Loswerden
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T17:28:55+02:00'
-    url: 'http://flussderdinge.blogspot.de'
     related_blog: /blogs/
     path: /links/
     old_category: Loswerden
@@ -808,7 +549,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:32:54+02:00'
-    url: 'http://minimalkonzept.de/?p=1784'
+    url: 'http://minimalkonzept.de/no-shopping-wie-veraendert-uns-das/'
     related_blog: /blogs/
     path: /links/
     old_category: Kleidung / Kleiderschrank
@@ -824,7 +565,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:32:54+02:00'
-    url: 'http://marco-mattheis.com/2016/03/30/minimalismus-im-kleiderschrank'
+    url: 'http://einminimalist.de/minimalismus-im-kleiderschrank'
     related_blog: /blogs/
     path: /links/
     old_category: Kleidung / Kleiderschrank
@@ -883,31 +624,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:32:54+02:00'
-    url: 'http://widerstandistzweckmaessig.wordpress.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Kleidung / Kleiderschrank
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:32:54+02:00'
-    url: 'http://minimamuse.wordpress.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Kleidung / Kleiderschrank
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:32:54+02:00'
     url: 'http://sina-jasur.de/2014/09/wie-viele-klamotten-brauchen-wir-eigentlich'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Kleidung / Kleiderschrank
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:32:54+02:00'
-    url: 'http://sina-jasur.de'
     related_blog: /blogs/
     path: /links/
     old_category: Kleidung / Kleiderschrank
@@ -924,14 +641,6 @@ entries:
     description: ''
     date: '2015-06-19T19:32:54+02:00'
     url: 'https://liebevoller.wordpress.com/2014/07/01/fazit-projekt333'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Kleidung / Kleiderschrank
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:32:54+02:00'
-    url: 'https://liebevoller.wordpress.com/about'
     related_blog: /blogs/
     path: /links/
     old_category: Kleidung / Kleiderschrank
@@ -1014,7 +723,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:32:54+02:00'
-    url: 'http://minimalkonzept.de/?p=344'
+    url: 'http://minimalkonzept.de/lieblingsteile-im-kleiderschrank/'
     related_blog: /blogs/
     path: /links/
     old_category: Kleidung / Kleiderschrank
@@ -1031,22 +740,6 @@ entries:
     description: ''
     date: '2015-06-19T19:32:54+02:00'
     url: 'http://sina-jasur.de/2016/02/tipps-fuer-eine-schwarze-garderobe'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Kleidung / Kleiderschrank
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:32:54+02:00'
-    url: 'https://kunterbunt11.wordpress.com/2014/02/13/sommertyp'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Kleidung / Kleiderschrank
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:32:54+02:00'
-    url: 'https://kunterbunt11.wordpress.com'
     related_blog: /blogs/
     path: /links/
     old_category: Kleidung / Kleiderschrank
@@ -1072,14 +765,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:32:54+02:00'
-    url: 'http://beyond-simplicity.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Kleidung / Kleiderschrank
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:32:54+02:00'
     url: 'http://sina-jasur.de/2015/07/minimalistische-garderobe-fuer-kinder'
     related_blog: /blogs/
     path: /links/
@@ -1089,14 +774,6 @@ entries:
     description: ''
     date: '2015-06-19T19:32:54+02:00'
     url: 'http://suchtdasglueck.at/ordnung-kinderkleiderschrank-garderobe'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Kleidung / Kleiderschrank
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:32:54+02:00'
-    url: 'http://suchtdasglueck.at'
     related_blog: /blogs/
     path: /links/
     old_category: Kleidung / Kleiderschrank
@@ -1148,7 +825,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-19T19:32:54+02:00'
-    url: 'http://minimalkonzept.de/?p=1766'
+    url: 'http://minimalkonzept.de/bye-bye-konsumwunsch/'
     related_blog: /blogs/
     path: /links/
     old_category: Kleidung / Kleiderschrank
@@ -1256,7 +933,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-21T10:25:27+02:00'
-    url: 'http://minimalkonzept.de/?p=1680'
+    url: 'http://minimalkonzept.de/warum-es-klueger-ist-gebrauchte-dinge-zu-kaufen/'
     related_blog: /blogs/
     path: /links/
     old_category: 'Probleme, Lösungen und Ideen'
@@ -1282,14 +959,6 @@ entries:
     date: '2015-06-21T10:25:27+02:00'
     url: >-
       http://wenigreichtauch.de/lieber-minimalistisch-putzen-als-hygienewahnsinn-und-putzfimmel
-    related_blog: /blogs/
-    path: /links/
-    old_category: 'Probleme, Lösungen und Ideen'
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-21T10:25:27+02:00'
-    url: 'http://wenigreichtauch.de'
     related_blog: /blogs/
     path: /links/
     old_category: 'Probleme, Lösungen und Ideen'
@@ -1363,14 +1032,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-21T10:25:27+02:00'
-    url: 'https://flussabwaerts.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: 'Probleme, Lösungen und Ideen'
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-21T10:25:27+02:00'
     url: 'http://schlichtheit.com/was-ist-ueberfluss'
     related_blog: /blogs/
     path: /links/
@@ -1396,22 +1057,6 @@ entries:
     description: ''
     date: '2015-06-24T21:05:05+02:00'
     url: 'http://schlichtheit.com/einfacher-leben-ebook'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Kostenlos
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-24T21:05:05+02:00'
-    url: 'http://achtsame-lebenskunst.de/e-books-buecher'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Kostenlos
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-24T21:05:05+02:00'
-    url: 'http://jammerfrei.de'
     related_blog: /blogs/
     path: /links/
     old_category: Kostenlos
@@ -1461,14 +1106,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-26T12:35:29+02:00'
-    url: 'https://minimalismusundmehr.wordpress.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Arbeitsplatz
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-26T12:35:29+02:00'
     url: 'http://minimalismus-leben.de/minimalistisch-wohnen-1'
     related_blog: /blogs/
     path: /links/
@@ -1486,14 +1123,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-26T10:38:00+02:00'
-    url: 'https://umschlagbahnhof.wordpress.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Badezimmer
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-26T10:38:00+02:00'
     url: 'http://schlichtheit.com/minimalistisches-badezimmer'
     related_blog: /blogs/
     path: /links/
@@ -1502,7 +1131,8 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-26T10:38:00+02:00'
-    url: 'http://minimalkonzept.de/?p=190'
+    url: >-
+      http://minimalkonzept.de/zahnbuerstenhalter-die-minimalloesung-fuer-dein-bad/
     related_blog: /blogs/
     path: /links/
     old_category: Badezimmer
@@ -1542,14 +1172,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-26T12:40:07+02:00'
-    url: 'https://daslebenistwild.wordpress.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Küche
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-26T12:40:07+02:00'
     url: 'https://minimamuse.wordpress.com/2015/05/10/minimalismus-in-der-kuche'
     related_blog: /blogs/
     path: /links/
@@ -1559,14 +1181,6 @@ entries:
     description: ''
     date: '2015-06-26T12:40:07+02:00'
     url: 'http://minimalismus21.de/2015/04/01/kuechenminimalismus'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Küche
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-26T12:40:07+02:00'
-    url: 'http://minimalismus21.de/author/m21er'
     related_blog: /blogs/
     path: /links/
     old_category: Küche
@@ -1598,14 +1212,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-26T12:40:07+02:00'
-    url: 'http://finnsland.net'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Küche
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-26T12:40:07+02:00'
     url: >-
       https://widerstandistzweckmaessig.wordpress.com/2014/06/03/der-geschirrspuler-feind-des-minimalismus
     related_blog: /blogs/
@@ -1617,14 +1223,6 @@ entries:
     date: '2015-06-26T12:40:07+02:00'
     url: >-
       https://minimamuse.wordpress.com/2015/08/25/wir-haben-so-viel-weil-wir-so-viel-haben
-    related_blog: /blogs/
-    path: /links/
-    old_category: Küche
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-26T12:40:07+02:00'
-    url: 'https://minimamuse.wordpress.com/author/bbwortgewandt'
     related_blog: /blogs/
     path: /links/
     old_category: Küche
@@ -1770,14 +1368,6 @@ entries:
     draft: true
   - title: ''
     description: ''
-    date: '2015-06-26T12:41:50+02:00'
-    url: 'http://daslebenisteinfach.blogspot.ch/p/aboutme.html'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Kinderzimmer
-    draft: true
-  - title: ''
-    description: ''
     date: '2015-06-26T12:48:17+02:00'
     url: 'http://mamadenkt.de/reduzierter-flur'
     related_blog: /blogs/
@@ -1836,14 +1426,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-26T12:47:43+02:00'
-    url: 'http://schaumimohr.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Schlafzimmer
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-26T12:47:43+02:00'
     url: 'http://minimalismus-leben.de/bett-aus-pappe'
     related_blog: /blogs/
     path: /links/
@@ -1870,14 +1452,6 @@ entries:
     date: '2015-06-26T12:47:43+02:00'
     url: >-
       http://taffmother.de/minimalismus-leben-wie-wir-spontan-unser-bettgestell-entsorgten
-    related_blog: /blogs/
-    path: /links/
-    old_category: Schlafzimmer
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-26T12:47:43+02:00'
-    url: 'http://taffmother.de'
     related_blog: /blogs/
     path: /links/
     old_category: Schlafzimmer
@@ -1941,14 +1515,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-06-26T18:18:31+02:00'
-    url: 'http://wdr.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Rundgang durch Minimalismus-Wohnungen
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-26T18:18:31+02:00'
     url: 'https://youtube.com/watch?v=Y_e93nv0vJw'
     related_blog: /blogs/
     path: /links/
@@ -1990,14 +1556,6 @@ entries:
     description: ''
     date: '2015-06-26T18:18:31+02:00'
     url: 'https://youtube.com/watch?v=KiBmyzvdhFY'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Rundgang durch Minimalismus-Wohnungen
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-06-26T18:18:31+02:00'
-    url: 'http://zdf.de'
     related_blog: /blogs/
     path: /links/
     old_category: Rundgang durch Minimalismus-Wohnungen
@@ -2097,14 +1655,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-07-31T09:27:28+02:00'
-    url: 'http://babs-ist-gruen.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Beziehung / Familie / Kinder
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-07-31T09:27:28+02:00'
     url: >-
       http://malmini.de/gastbeitrag-warum-auch-kinder-von-minimalismus-profitieren-koennen
     related_blog: /blogs/
@@ -2141,14 +1691,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-07-31T09:27:28+02:00'
-    url: 'http://suchtdasglueck.at/about-2'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Beziehung / Familie / Kinder
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-07-31T09:27:28+02:00'
     url: >-
       http://suchtdasglueck.at/gastbeitrag-geschenkeflut-vermeiden-weniger-ist-mehr-im-kinderzimmer-3
     related_blog: /blogs/
@@ -2175,27 +1717,10 @@ entries:
   - title: ''
     description: ''
     date: '2015-07-31T09:27:28+02:00'
-    url: 'http://minimalismus21.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Beziehung / Familie / Kinder
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-07-31T09:27:28+02:00'
     url: 'http://minime.life/minimalistisch-schenken'
     related_blog: /blogs/
     path: /links/
     old_category: Beziehung / Familie / Kinder
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-07-31T09:47:37+02:00'
-    url: >-
-      http://marco-mattheis.com/2016/06/04/smartphone-minimalismus-befreiung-aus-der-app-verstopfung
-    related_blog: /blogs/
-    path: /links/
-    old_category: Digitale Welt / Büro
     draft: true
   - title: ''
     description: ''
@@ -2217,49 +1742,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-07-31T09:47:37+02:00'
-    url: 'http://marco-mattheis.com/2016/04/16/die-welt-stumm-schalten'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Digitale Welt / Büro
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-07-31T09:47:37+02:00'
-    url: >-
-      http://marco-mattheis.com/2016/03/24/smartphone-und-digitales-so-findest-du-heraus-was-wirklich-noetig-ist
-    related_blog: /blogs/
-    path: /links/
-    old_category: Digitale Welt / Büro
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-07-31T09:47:37+02:00'
     url: 'http://einminimalist.de/wozu-brauche-ich-eigentlich-eine-flatrate/'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Digitale Welt / Büro
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-07-31T09:47:37+02:00'
-    url: 'http://marco-mattheis.com/2015/11/30/smartphone-ein-entzug'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Digitale Welt / Büro
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-07-31T09:47:37+02:00'
-    url: >-
-      http://marco-mattheis.com/2016/01/11/smartphone-entwoehnung-stand-januar-2016
-    related_blog: /blogs/
-    path: /links/
-    old_category: Digitale Welt / Büro
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-07-31T09:47:37+02:00'
-    url: 'http://zeitgenossen-podcast.de/multitasking'
     related_blog: /blogs/
     path: /links/
     old_category: Digitale Welt / Büro
@@ -2316,14 +1799,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-07-31T09:47:37+02:00'
-    url: 'https://minimalismuswarum.wordpress.com/about'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Digitale Welt / Büro
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-07-31T09:47:37+02:00'
     url: >-
       http://experimentselbstversorgung.net/6-tipps-wie-du-zeit-vorm-computer-reduzieren-kannst
     related_blog: /blogs/
@@ -2350,14 +1825,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-07-31T09:47:37+02:00'
-    url: 'http://mirkoschubert.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Digitale Welt / Büro
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-07-31T09:47:37+02:00'
     url: 'http://beyond-simplicity.com/zeitverschwendung-internet'
     related_blog: /blogs/
     path: /links/
@@ -2366,7 +1833,8 @@ entries:
   - title: ''
     description: ''
     date: '2015-07-31T09:47:37+02:00'
-    url: 'http://minimalkonzept.de/?p=1775'
+    url: >-
+      http://minimalkonzept.de/minimalistische-denkanstoesse-10-trenne-dich-von-altem-technischen-zubehoer/
     related_blog: /blogs/
     path: /links/
     old_category: Digitale Welt / Büro
@@ -2407,7 +1875,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-07-31T09:47:37+02:00'
-    url: 'http://marco-mattheis.com/2016/02/12/mein-kleinstes-backup-aller-zeiten'
+    url: 'http://einminimalist.de/mein-kleinstes-backup-aller-zeiten'
     related_blog: /blogs/
     path: /links/
     old_category: Digitale Welt / Büro
@@ -2433,14 +1901,6 @@ entries:
     description: ''
     date: '2015-07-31T09:47:37+02:00'
     url: 'http://digitaler-minimalismus.de/59-wie-du-programme-mac-minimierst.html'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Digitale Welt / Büro
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-07-31T09:47:37+02:00'
-    url: 'http://digitaler-minimalismus.de'
     related_blog: /blogs/
     path: /links/
     old_category: Digitale Welt / Büro
@@ -2605,7 +2065,7 @@ entries:
     description: ''
     date: '2015-08-26T11:10:25+02:00'
     url: >-
-      http://marco-mattheis.com/2016/03/11/warum-der-kauf-einer-immobilie-fuer-mich-nicht-in-frage-komm
+      http://einminimalist.de/warum-der-kauf-einer-immobilie-fuer-mich-nicht-in-frage-komm
     related_blog: /blogs/
     path: /links/
     old_category: Allgemeine Wohntipps und -themen
@@ -2621,7 +2081,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-08-26T11:10:25+02:00'
-    url: 'http://minimalkonzept.de/?p=227'
+    url: 'http://minimalkonzept.de/und-heute-schon-dein-buecherregal-ausgemistet/'
     related_blog: /blogs/
     path: /links/
     old_category: Allgemeine Wohntipps und -themen
@@ -2639,14 +2099,6 @@ entries:
     date: '2015-08-26T11:10:25+02:00'
     url: >-
       http://minimalismus-leben.de/gastbeitrag-gemuetlichkeitsguide-fuer-minimalisten
-    related_blog: /blogs/
-    path: /links/
-    old_category: Allgemeine Wohntipps und -themen
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-08-26T11:10:25+02:00'
-    url: 'http://minimalistmuss.com'
     related_blog: /blogs/
     path: /links/
     old_category: Allgemeine Wohntipps und -themen
@@ -2721,32 +2173,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-08-26T11:22:29+02:00'
-    url: 'http://fraumomosminimalismus.ch/konsumauszeit-woche-3'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Einkaufen - Konsum
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-08-26T11:22:29+02:00'
     url: 'http://schlichtheit.com/ist-es-mir-meine-zeit-wert'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Einkaufen - Konsum
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-08-26T11:22:29+02:00'
-    url: >-
-      http://meinwegzubio.de/5-shopping-kriterien-die-dir-helfen-minimalistisch-und-bewusst-einzukaufen
-    related_blog: /blogs/
-    path: /links/
-    old_category: Einkaufen - Konsum
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-08-26T11:22:29+02:00'
-    url: 'http://meinwegzubio.de'
     related_blog: /blogs/
     path: /links/
     old_category: Einkaufen - Konsum
@@ -2788,7 +2215,8 @@ entries:
   - title: ''
     description: ''
     date: '2015-09-26T07:46:23+02:00'
-    url: 'http://minimalkonzept.de/?p=2134'
+    url: >-
+      http://minimalkonzept.de/wie-du-dein-finanzielles-ziel-bestimmst-und-es-erreichst/
     related_blog: /blogs/
     path: /links/
     old_category: Finanzen / Sparen / Spartipps
@@ -2796,7 +2224,8 @@ entries:
   - title: ''
     description: ''
     date: '2015-09-26T07:46:23+02:00'
-    url: 'http://minimalkonzept.de/?p=1505'
+    url: >-
+      http://minimalkonzept.de/minimalismus-wie-sich-meine-einstellung-zu-geld-veraendert-hat/
     related_blog: /blogs/
     path: /links/
     old_category: Finanzen / Sparen / Spartipps
@@ -2804,7 +2233,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-09-26T07:46:23+02:00'
-    url: 'http://minimalkonzept.de/?p=213'
+    url: 'http://minimalkonzept.de/die-minimalloesung-fuer-deine-geldboerse/'
     related_blog: /blogs/
     path: /links/
     old_category: Finanzen / Sparen / Spartipps
@@ -2812,7 +2241,8 @@ entries:
   - title: ''
     description: ''
     date: '2015-09-26T07:46:23+02:00'
-    url: 'http://minimalkonzept.de/?p=1509'
+    url: >-
+      http://minimalkonzept.de/warum-es-sich-lohnt-auch-deine-finanzen-zu-entruempeln/
     related_blog: /blogs/
     path: /links/
     old_category: Finanzen / Sparen / Spartipps
@@ -3026,7 +2456,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-09-26T07:46:23+02:00'
-    url: 'http://marco-mattheis.com/2016/06/18/altersarmut-ein-schreckgespenst'
+    url: 'http://einminimalist.de/altersarmut-ein-schreckgespenst'
     related_blog: /blogs/
     path: /links/
     old_category: Finanzen / Sparen / Spartipps
@@ -3042,23 +2472,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-09-26T07:46:23+02:00'
-    url: 'http://pooly.net'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Finanzen / Sparen / Spartipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-09-26T07:46:23+02:00'
     url: 'https://simplicity365.wordpress.com/2012/12/09/die-berechnung'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Finanzen / Sparen / Spartipps
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-09-26T07:46:23+02:00'
-    url: 'http://simplicity365.wordpress.com'
     related_blog: /blogs/
     path: /links/
     old_category: Finanzen / Sparen / Spartipps
@@ -3109,14 +2523,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-12-25T13:19:20+01:00'
-    url: 'https://minimamuse.wordpress.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Aktionen / Challenges
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-12-25T13:19:20+01:00'
     url: >-
       https://minimamuse.wordpress.com/2016/04/01/von-wenig-geld-bio-leben-die-challenge-armeleuteessen
     related_blog: /blogs/
@@ -3151,22 +2557,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-12-25T13:19:20+01:00'
-    url: 'https://widerstandistzweckmaessig.wordpress.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Aktionen / Challenges
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-12-25T13:19:20+01:00'
-    url: 'http://klamottenkur.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Aktionen / Challenges
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-12-25T13:19:20+01:00'
     url: 'http://schwingelschwingeldingdong.com/2015/12/weniger-mehr-2016'
     related_blog: /blogs/
     path: /links/
@@ -3192,22 +2582,6 @@ entries:
     description: ''
     date: '2015-12-25T13:19:20+01:00'
     url: 'http://minime.life/alcfreeholidays'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Aktionen / Challenges
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-12-25T13:19:20+01:00'
-    url: 'http://simplify-yourself.com/ueber_mich'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Aktionen / Challenges
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-12-25T13:19:20+01:00'
-    url: 'http://simplify-yourself.com'
     related_blog: /blogs/
     path: /links/
     old_category: Aktionen / Challenges
@@ -3315,14 +2689,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-12-25T13:23:19+01:00'
-    url: 'http://unterfluss.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Nachhaltigkeit / gesellschaftlicher Wandel
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-12-25T13:23:19+01:00'
     url: 'http://minimalisch.de/gute-vorsaetze-bessere-welt'
     related_blog: /blogs/
     path: /links/
@@ -3340,7 +2706,7 @@ entries:
     description: ''
     date: '2015-12-25T13:23:19+01:00'
     url: >-
-      http://marco-mattheis.com/2016/06/11/warum-es-klug-ist-seine-fallhoehe-schon-heute-zu-reduzieren
+      http://einminimalist.de/warum-es-klug-ist-seine-fallhoehe-schon-heute-zu-reduzieren
     related_blog: /blogs/
     path: /links/
     old_category: Nachhaltigkeit / gesellschaftlicher Wandel
@@ -3357,15 +2723,7 @@ entries:
   - title: ''
     description: ''
     date: '2015-12-25T13:23:19+01:00'
-    url: 'https://langsamerleben.wordpress.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Nachhaltigkeit / gesellschaftlicher Wandel
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-12-25T13:23:19+01:00'
-    url: 'http://minimalkonzept.de/?p=1243'
+    url: 'http://minimalkonzept.de/gutes-tun-wohin-mit-der-alten-brille/'
     related_blog: /blogs/
     path: /links/
     old_category: Nachhaltigkeit / gesellschaftlicher Wandel
@@ -3612,14 +2970,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-12-25T13:34:38+01:00'
-    url: 'https://verrueckteshuhn.wordpress.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Selber machen - DIY / Kreativität
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-12-25T13:34:38+01:00'
     url: >-
       https://langsamerleben.wordpress.com/2016/05/01/luxurioese-badepralinen-selber-machen
     related_blog: /blogs/
@@ -3655,7 +3005,8 @@ entries:
   - title: ''
     description: ''
     date: '2015-12-25T13:34:38+01:00'
-    url: 'http://minimalkonzept.de/?p=1085'
+    url: >-
+      http://minimalkonzept.de/minimalistische-denkanstoesse-6-verzichte-auf-geschenkpapier/
     related_blog: /blogs/
     path: /links/
     old_category: Selber machen - DIY / Kreativität
@@ -3665,14 +3016,6 @@ entries:
     date: '2015-12-25T13:34:38+01:00'
     url: >-
       http://malmini.de/diy-einfache-und-minimalistische-barfuss-flip-flops-selber-machen
-    related_blog: /blogs/
-    path: /links/
-    old_category: Selber machen - DIY / Kreativität
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-12-25T13:34:38+01:00'
-    url: 'http://fraumomosminimalismus.ch/abecedarium-des-minimalismus'
     related_blog: /blogs/
     path: /links/
     old_category: Selber machen - DIY / Kreativität
@@ -3760,24 +3103,8 @@ entries:
   - title: ''
     description: ''
     date: '2015-12-25T13:52:51+01:00'
-    url: 'http://achtsame-lebenskunst.de/fachbeitraege-achtsamkeit'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Achtsamkeit / Meditation / Entspannung
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-12-25T13:52:51+01:00'
     url: >-
       http://achtsame-lebenskunst.de/2015/07/06/achtsamkeit-und-minimalismus-was-mir-wichtig-ist
-    related_blog: /blogs/
-    path: /links/
-    old_category: Achtsamkeit / Meditation / Entspannung
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-12-25T13:52:51+01:00'
-    url: 'http://cella-sankt-benedikt.de'
     related_blog: /blogs/
     path: /links/
     old_category: Achtsamkeit / Meditation / Entspannung
@@ -3970,14 +3297,6 @@ entries:
   - title: ''
     description: ''
     date: '2015-12-25T13:58:50+01:00'
-    url: 'http://alfazentauri.com'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Sport / Bewegung / Urlaub
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-12-25T13:58:50+01:00'
     url: 'http://alfazentauri.com/bewegungsrituale-infografik-10000-schritte'
     related_blog: /blogs/
     path: /links/
@@ -4042,32 +3361,8 @@ entries:
     draft: true
   - title: ''
     description: ''
-    date: '2015-12-25T13:58:50+01:00'
-    url: 'http://wejustgetfit.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Sport / Bewegung / Urlaub
-    draft: true
-  - title: ''
-    description: ''
-    date: '2015-12-25T13:58:50+01:00'
-    url: 'http://wejustgetfit.de/'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Sport / Bewegung / Urlaub
-    draft: true
-  - title: ''
-    description: ''
     date: '2016-01-15T11:38:05+01:00'
     url: 'http://minimalistenfreun.de/2016/03/produktivitaet-an-die-macht'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Einfacher und produktiver
-    draft: true
-  - title: ''
-    description: ''
-    date: '2016-01-15T11:38:05+01:00'
-    url: 'http://fraumomosminimalismus.ch/minimalistisches-plaedoyer-fuer-das-putzen'
     related_blog: /blogs/
     path: /links/
     old_category: Einfacher und produktiver
@@ -4091,22 +3386,6 @@ entries:
   - title: ''
     description: ''
     date: '2016-01-15T11:38:05+01:00'
-    url: 'http://zenhabits.net'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Einfacher und produktiver
-    draft: true
-  - title: ''
-    description: ''
-    date: '2016-01-15T11:38:05+01:00'
-    url: 'http://52wege.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Einfacher und produktiver
-    draft: true
-  - title: ''
-    description: ''
-    date: '2016-01-15T11:38:05+01:00'
     url: >-
       http://schwingelschwingeldingdong.com/2016/01/mit-einer-masterliste-den-alltag-erfolgreich-organisieren
     related_blog: /blogs/
@@ -4116,7 +3395,7 @@ entries:
   - title: ''
     description: ''
     date: '2016-01-15T11:44:17+01:00'
-    url: 'http://minimalkonzept.de/?p=2458'
+    url: 'http://minimalkonzept.de/simplify-your-make-up/'
     related_blog: /blogs/
     path: /links/
     old_category: 'Körperpflege: minimalistisch & natürlich'
@@ -4283,31 +3562,7 @@ entries:
   - title: ''
     description: ''
     date: '2016-06-26T18:19:58+02:00'
-    url: 'http://einfachhaferbrei.blogspot.de'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Fertig minimalisiert - Was jetzt?
-    draft: true
-  - title: ''
-    description: ''
-    date: '2016-06-26T18:19:58+02:00'
     url: 'http://minimalismus-leben.de/aufrauemen_erledigt'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Fertig minimalisiert - Was jetzt?
-    draft: true
-  - title: ''
-    description: ''
-    date: '2016-06-26T18:19:58+02:00'
-    url: 'http://zeitgenossen-podcast.de/nach-dem-minimalismus'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Fertig minimalisiert - Was jetzt?
-    draft: true
-  - title: ''
-    description: ''
-    date: '2016-06-26T18:19:58+02:00'
-    url: 'http://zeitgenossen-podcast.de'
     related_blog: /blogs/
     path: /links/
     old_category: Fertig minimalisiert - Was jetzt?
