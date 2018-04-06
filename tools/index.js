@@ -2,6 +2,7 @@
 'use strict';
 
 const app         = require('commander'),
+      tab         = require('tabtab')({ name: 'mnml' }),
       { URL }     = require('url'),
       chalk       = require('chalk'),
       fse         = require('fs-extra'),
@@ -15,8 +16,15 @@ const check       = new Check(),
       migrate     = new Migrate(),
       generate    = new Generate();
 
+tab.on('mnml', (data, done) => {
+  done(null, ['add:link', 'edit:link', 'delete:link', 'check:blogs', 'check:links', 'check:duplicates', 'generate:all', 'generate:links', 'generate:blogs', 'generate:categories']);
+});
+
+tab.start();
+
+
 app
-  .version('1.0.0');
+  .version(require('./package.json').version);
 
 /* app
   .command('migrate:blogs')
@@ -39,27 +47,38 @@ app
   .command('add:link [url]')
   .description('Adds a new link to the Database')
   .action((url) => {
-    const db = new Database('links');
-    db.add(new URL(url));
+    if (typeof url != 'undefined') {
+      const db = new Database('links');
+      db.add(new URL(url));  
+    } else {
+      console.log("\nYou have to set a url to add a link!\n");
+    }
+    
   });
   
 app
   .command('edit:link [url]')
   .description('Edits a link from the Database')
   .action((url) => {
-    const db = new Database('links');
-    db.edit(new URL(url));
+    if (typeof url != 'undefined') {
+      const db = new Database('links');
+      db.edit(new URL(url));
+    } else {
+      console.log("\nYou have to set a url to edit a link!\n");
+    }
   });
 
 app
   .command('delete:link [url]')
   .description('Deletes a link from the Database')
   .action((url) => {
-    const db = new Database('links');
-    db.delete(new URL(url));
+    if (typeof url != 'undefined') {
+      const db = new Database('links');
+      db.delete(new URL(url));
+    } else {
+      console.log("\nYou have to set a url to delete a link!\n");
+    }
   });
-
-
 
 app
   .command('check:blogs')
