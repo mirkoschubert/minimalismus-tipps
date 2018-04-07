@@ -95,7 +95,7 @@ class Database {
       return this.serializeURL(url).some(u => {
         return e.url === u;
       });
-    });
+    });    
 
     if (typeof found === 'undefined') {
       console.log("Link isn't in the database! Do you want to create a new entry?");
@@ -136,7 +136,54 @@ class Database {
         })
         .catch((err) => {
           console.log(err);
-        })
+        });
+    }
+  }
+
+
+  editall() {
+
+    var self = this;
+    try {
+      let i = 0;
+      let choices = [];
+      self.data.forEach(link => {
+        if (link.title !== '') {
+          choices.push({
+            name: link.title + '(' + i + ')',
+            value: i
+          });
+        } else {
+          choices.push({
+            name: link.url + '(' + i + ')',
+            value: i
+          });
+        }
+        i++;
+      });
+      choices.push({
+        name: 'Exit',
+        value: 'exit'
+      });
+      inquirer.prompt({
+        type: 'list',
+        name: 'id',
+        message: 'Which entry do you want to edit?',
+        paginated: true,
+        choices: choices
+      }).then((res) => {
+        
+        if (res.id != 'exit') {
+
+          self.edit(new URL(self.data[res.id].url));
+          //self.editall();
+        } else {
+          console.log("\nBye!\n");
+          return;
+        }
+      });
+    } catch(e) {
+      console.log(e);
     }
   }
 

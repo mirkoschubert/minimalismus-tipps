@@ -69,6 +69,14 @@ app
   });
 
 app
+  .command('edit:links')
+  .description('Edits links in an interactive mode')
+  .action(() => {
+    const db = new Database('links');
+    db.editall();
+  });
+
+app
   .command('delete:link [url]')
   .description('Deletes a link from the Database')
   .action((url) => {

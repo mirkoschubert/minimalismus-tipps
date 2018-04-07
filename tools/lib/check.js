@@ -90,34 +90,37 @@ class Check {
         }
       });
 
-      console.log("\n" + chalk.yellow(dupes.length) + " of " + chalk.yellow(links.length) + " directory links are duplicates:\n");
-      dupes.forEach((id) => {
-        console.log(chalk.green(id + ": ") + links[id].url);
-      });
-      console.log("\n");
-      inquirer.prompt({
-        type: 'confirm',
-        name: 'delete',
-        message: 'Do you want to delete them?',
-        default: false
-      })
-      .then((res) => {
-        if (res.delete) {
-          var dump = { entries: [] };
-          links.forEach((link, id) => {
-            if (dupes.indexOf(id) === -1) dump.entries.push(link);
-          });
+      if (dupes.length > 0) {
+        console.log("\n" + chalk.yellow(dupes.length) + " of " + chalk.yellow(links.length) + " directory links are duplicates:\n");
+        dupes.forEach((id) => {
+          console.log(chalk.green(id + ": ") + links[id].url);
+        });
+        console.log("\n");
+        inquirer.prompt({
+          type: 'confirm',
+          name: 'delete',
+          message: 'Do you want to delete them?',
+          default: false
+        })
+        .then((res) => {
+          if (res.delete) {
+            var dump = { entries: [] };
+            links.forEach((link, id) => {
+              if (dupes.indexOf(id) === -1) dump.entries.push(link);
+            });
 
-          fs.writeFile(rp + self.files.links.yaml, yaml.safeDump(dump), (err) => {
-            if (err) throw err;
-            console.log('\n' + dupes.length + chalk.green(" links were successfully deleted!\n"));
-          });
-        }
-      })
-      .catch((err) =>{
-        console.log(err);
-      });
-
+            fs.writeFile(rp + self.files.links.yaml, yaml.safeDump(dump), (err) => {
+              if (err) throw err;
+              console.log('\n' + dupes.length + chalk.green(" links were successfully deleted!\n"));
+            });
+          }
+        })
+        .catch((err) =>{
+          console.log(err);
+        });
+      } else {
+        console.log("No duplicates found.\n");
+      }
     } catch(e) {
       console.log(e);
     }

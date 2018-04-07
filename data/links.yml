@@ -99,14 +99,16 @@ entries:
     related_blog: /blogs/simplizist/
     path: /links/einstieg/
     draft: false
-  - title: ''
-    description: ''
-    date: '2015-06-19T19:27:38+02:00'
-    url: 'http://einminimalist.de/minimalist-werden-an-einem-tag'
-    related_blog: /blogs/
-    path: /links/
-    old_category: Anfangen / Allgemeine Tipps
-    draft: true
+  - title: Minimalist werden an einem Tag
+    description: >-
+      Ende letzten Monats schrieb ich über meinen Plan alle derzeit nicht
+      benutzte Kleidung in einem Umzugskarton im Kleiderschrank aufzubewahren.
+      So geschehen diese Woche. Ein Stück weit erleichtert das…
+    date: '2018-04-07T12:47:27+02:00'
+    url: 'http://einminimalist.de/minimalist-werden-an-einem-tag/'
+    related_blog: /blogs/marco-mattheis/
+    path: /links/besitz/kleidung/
+    draft: false
   - title: ''
     description: ''
     date: '2015-06-19T19:27:38+02:00'
